@@ -4,6 +4,7 @@ import tomllib
 
 
 CHEMIN_CONFIG = "config.toml"
+URL_EXEMPLE_PLAN_DE_CULTURE = "https://www.ouvretaferme.org/asset/production/series/series.csv"
 FORMAT_DATE = "%Y-%m-%d"
 
 def load_config(chemin_config):
@@ -86,9 +87,6 @@ def main():
     s_correspondance_especes = pd.read_csv(
         Path(config["chemins_correspondances"]["especes"]),
         index_col=0).squeeze()
-    df_correspondance_plan_de_culture = pd.read_csv(
-        Path(config["chemins_correspondances"]["plan_de_culture"]),
-        index_col=2)
     s_correspondance_mode = pd.read_csv(
         Path(config["chemins_correspondances"]["mode"]),
         index_col=0).squeeze()
@@ -102,8 +100,8 @@ def main():
         Path(config["chemins_correspondances"]["type_implantation"]),
         index_col=0).squeeze()
 
-    print(df_correspondance_plan_de_culture.index)
-    df_dst = pd.DataFrame(columns=df_correspondance_plan_de_culture.index)
+    columns = pd.read_csv(URL_EXEMPLE_PLAN_DE_CULTURE).columns[:-2]
+    df_dst = pd.DataFrame(columns=columns)
 
     idx = df_series.index
     s_production = df_series.reset_index()["Production"]

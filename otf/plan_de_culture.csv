@@ -1,0 +1,887 @@
+season,series_id,series_name,mode,use,species,planting_type,seeds_per_hole,young_plants_tray,sowing_date,planting_date,first_harvest_date,last_harvest_date,block_area,block_density,block_spacing_rows,block_spacing_plants,bed_length,bed_density,bed_rows,bed_spacing_plants,finished,harvest_unit,yield_expected_area,variety_name,variety_part
+2025,,Achillée millefeuille S10,Plein champ,bed,Achillée millefeuille,young-plant,3.0,Plaque de 100,2025-02-10,2025-03-10,2025-05-05,2025-10-20,,,,,10.0,,1.0,50.0,,bunch,1.0,Achillée millefeuille,100
+2026,,Achillée millefeuille S10,Plein champ,bed,Achillée millefeuille,young-plant,3.0,Plaque de 100,2026-02-09,2026-03-09,2026-05-04,2026-10-19,,,,,10.0,,1.0,50.0,,bunch,1.0,Achillée millefeuille,100
+2025,,Agastache anisée S10,Plein champ,bed,Agastache,young-plant,3.0,Plaque de 100,2025-02-10,2025-03-10,2025-05-05,2025-10-20,,,,,10.0,,1.0,50.0,,bunch,1.0,Agastache fenouil,100
+2026,,Agastache anisée S10,Plein champ,bed,Agastache,young-plant,3.0,Plaque de 100,2026-02-09,2026-03-09,2026-05-04,2026-10-19,,,,,10.0,,1.0,50.0,,bunch,1.0,Agastache fenouil,100
+2025,,Agastache menthe S10,Plein champ,bed,Agastache menthe,young-plant,3.0,Plaque de 100,2025-02-10,2025-03-10,2025-05-05,2025-05-05,,,,,10.0,,1.0,50.0,,bunch,1.0,Agastache menthe,100
+2026,,Agastache menthe S10,Plein champ,bed,Agastache menthe,young-plant,3.0,Plaque de 100,2026-02-09,2026-03-09,2026-05-04,2026-05-04,,,,,10.0,,1.0,50.0,,bunch,1.0,Agastache menthe,100
+2024,,Ail faux poireau Ail éléphant S39,Plein champ,bed,Poireau perpétuel,sowing,,,2024-09-23,,2025-05-05,2025-07-07,,,,,28.3,,2.0,10.0,,kg,0.6,Ail éléphant,100
+2025,,Ail faux poireau S50,Plein champ,bed,Poireau perpétuel,sowing,,,2025-12-15,,2026-06-22,2026-07-13,,,,,24.0,,2.0,10.0,,kg,0.6,Ail éléphant,100
+2024,,Ail S39,Plein champ,bed,Ail,sowing,,,2024-09-23,,2025-04-07,2025-04-28,,,,,85.0,,5.0,19.0,,kg,0.30000000000000004,Ail,100
+2025,,Ail S50,Plein champ,bed,Ail,sowing,,,2025-12-15,,2026-06-22,2026-07-13,,,,,168.0,,5.0,19.0,,kg,0.30000000000000004,Ail,100
+2025,,Angélique officinale S10,Plein champ,bed,Angélique officinale,young-plant,3.0,Plaque de 100,2025-02-10,2025-03-10,2025-05-05,2025-10-20,,,,,10.0,,1.0,50.0,,bunch,1.0,Angélique officinale,100
+2026,,Angélique officinale S10,Plein champ,bed,Angélique officinale,young-plant,3.0,Plaque de 100,2026-02-09,2026-03-09,2026-05-04,2026-10-19,,,,,10.0,,1.0,50.0,,bunch,1.0,Angélique officinale,100
+2026,,Aubergine de la ferme Baluroi S14,Sous abri,bed,Aubergine,young-plant,1.0,Plaque de 32,2026-01-12,2026-04-06,2026-06-29,2026-10-12,,,,,105.0,,1.0,40.0,,kg,3.0,Baluroi,100
+2025,,Aubergine élevée Baluroi S14,Sous abri,bed,Aubergine,young-plant,1.0,Plaque de 32,2025-01-13,2025-04-07,2025-06-30,2025-10-13,,,,,63.0,,1.0,40.0,,kg,3.0,Baluroi,100
+2025,,Aubergine plants Alexandra S14,Sous abri,bed,Aubergine,young-plant-bought,,Plaque de 50,,2025-04-07,2025-06-30,2025-10-13,,,,,18.0,,1.0,40.0,,kg,3.0,Alexandra,100
+2026,,Aubergine plants Alexandra S14,Sous abri,bed,Aubergine,young-plant-bought,,Plaque de 50,,2026-04-06,2026-06-29,2026-10-12,,,,,30.0,,1.0,40.0,,kg,3.0,Alexandra,100
+2025,,Aubergine plants Amalia S14,Sous abri,bed,Aubergine,young-plant-bought,,Plaque de 50,,2025-04-07,2025-06-30,2025-10-13,,,,,54.0,,1.0,40.0,,kg,3.0,Amalia,100
+2026,,Aubergine plants Amalia S14,Sous abri,bed,Aubergine,young-plant-bought,,Plaque de 50,,2026-04-06,2026-06-29,2026-10-12,,,,,90.0,,1.0,40.0,,kg,3.0,Amalia,100
+2025,,Aubergine plants Diamond S14,Sous abri,bed,Aubergine,young-plant-bought,,Plaque de 50,,2025-04-07,2025-06-30,2025-10-13,,,,,36.0,,1.0,40.0,,kg,3.0,Diamond,100
+2026,,Aubergine plants Diamond S14,Sous abri,bed,Aubergine,young-plant-bought,,Plaque de 50,,2026-04-06,2026-06-29,2026-10-12,,,,,60.0,,1.0,40.0,,kg,3.0,Diamond,100
+2025,,Aubergine plants Louisiana long green S14,Sous abri,bed,Aubergine,young-plant-bought,,Plaque de 50,,2025-04-07,2025-06-30,2025-10-13,,,,,9.0,,1.0,40.0,,kg,3.0,Louisiana long green,100
+2026,,Aubergine plants Louisiana long green S14,Sous abri,bed,Aubergine,young-plant-bought,,Plaque de 50,,2026-04-06,2026-06-29,2026-10-12,,,,,15.0,,1.0,40.0,,kg,3.0,Louisiana long green,100
+2025,,Aubergine plants Shakira S14,Sous abri,bed,Aubergine,young-plant-bought,,Plaque de 50,,2025-04-07,2025-06-30,2025-10-13,,,,,54.0,,1.0,40.0,,kg,3.0,Shakira,100
+2026,,Aubergine plants Shakira S14,Sous abri,bed,Aubergine,young-plant-bought,,Plaque de 50,,2026-04-06,2026-06-29,2026-10-12,,,,,90.0,,1.0,40.0,,kg,3.0,Shakira,100
+2025,,Basilic Citron vert S17,Sous abri,bed,Basilic,young-plant,7.0,Plaque de 100,2025-03-24,2025-04-28,2025-06-23,2025-09-15,,,,,3.2,,1.0,30.0,,bunch,6.7,Citron vert,100
+2025,,Basilic Grand vert S17,Sous abri,bed,Basilic,young-plant,7.0,Plaque de 100,2025-03-24,2025-04-28,2025-06-23,2025-09-15,,,,,73.5,,1.0,30.0,,bunch,6.7,Grand vert,100
+2026,,Basilic Grand vert S17,Sous abri,bed,Basilic,young-plant,7.0,Plaque de 100,2026-03-23,2026-04-27,2026-06-22,2026-09-14,,,,,105.0,,1.0,30.0,,bunch,6.7,Grand vert,100
+2025,,Basilic Osmin S17,Sous abri,bed,Basilic,young-plant,7.0,Plaque de 100,2025-03-24,2025-04-28,2025-06-23,2025-09-15,,,,,3.2,,1.0,30.0,,bunch,6.7,Osmin,100
+2026,,Basilic Osmin S17,Sous abri,bed,Basilic,young-plant,7.0,Plaque de 100,2026-03-23,2026-04-27,2026-06-22,2026-09-14,,,,,4.5,,1.0,30.0,,bunch,6.7,Osmin,100
+2026,,Basilic plant amateur Grand vert S17,Sous abri,bed,Basilic,young-plant,7.0,Plaque de 100,2026-03-23,2026-04-27,2026-06-22,2026-09-14,,,,,240.0,,1.0,100.0,,unit,1.0,Grand vert,100
+2026,,Basilic plant amateur Thaï S17,Sous abri,bed,Basilic,young-plant,7.0,Plaque de 100,2026-03-23,2026-04-27,2026-06-22,2026-09-14,,,,,60.0,,1.0,100.0,,unit,1.0,Thaï,100
+2026,,Basilic Réglisse S17,Sous abri,bed,Basilic,young-plant,7.0,Plaque de 100,2026-03-23,2026-04-27,2026-06-22,2026-09-14,,,,,4.5,,1.0,30.0,,bunch,6.7,Réglisse,100
+2025,,Basilic Thaï S17,Sous abri,bed,Basilic,young-plant,7.0,Plaque de 100,2025-03-24,2025-04-28,2025-06-23,2025-09-15,,,,,7.4,,1.0,30.0,,bunch,6.7,Thaï,100
+2026,,Basilic Thaï S17,Sous abri,bed,Basilic,young-plant,7.0,Plaque de 100,2026-03-23,2026-04-27,2026-06-22,2026-09-14,,,,,10.5,,1.0,30.0,,bunch,6.7,Thaï,100
+2025,,Betterave plantée précoce Bolivar S7,Plein champ,bed,Betterave,young-plant,3.0,Plaque de 100,2025-01-06,2025-02-17,2025-06-09,2025-06-16,,,,,48.0,,1.0,10.0,,kg,3.0,Bolivar,100
+2026,,Betterave plantée précoce Bolivar S7,Plein champ,bed,Betterave,young-plant,3.0,Plaque de 100,2026-01-05,2026-02-16,2026-06-08,2026-06-15,,,,,48.0,,1.0,10.0,,kg,3.0,Bolivar,100
+2025,,Betterave plantée précoce Manzu F1 S7,Plein champ,bed,Betterave,young-plant,3.0,Plaque de 100,2025-01-06,2025-02-17,2025-06-09,2025-06-16,,,,,163.2,,1.0,10.0,,kg,3.0,Manzu F1,100
+2026,,Betterave plantée précoce Manzu F1 S7,Plein champ,bed,Betterave,young-plant,3.0,Plaque de 100,2026-01-05,2026-02-16,2026-06-08,2026-06-15,,,,,163.2,,1.0,10.0,,kg,3.0,Manzu F1,100
+2025,,Betterave plantée précoce Monika S7,Plein champ,bed,Betterave,young-plant,3.0,Plaque de 100,2025-01-06,2025-02-17,2025-06-09,2025-06-16,,,,,259.2,,1.0,10.0,,kg,3.0,Monika,100
+2026,,Betterave plantée précoce Monika S7,Plein champ,bed,Betterave,young-plant,3.0,Plaque de 100,2026-01-05,2026-02-16,2026-06-08,2026-06-15,,,,,259.2,,1.0,10.0,,kg,3.0,Monika,100
+2025,,Betterave semée Boldor S20,Plein champ,bed,Betterave,sowing,,,2025-05-19,,2025-09-08,2025-12-22,,,,,79.6,,3.0,3.0,,kg,2.3,Boldor,100
+2026,,Betterave semée Boldor S20,Plein champ,bed,Betterave,sowing,,,2026-05-18,,2026-09-07,2026-12-21,,,,,79.6,,3.0,3.0,,kg,2.3,Boldor,100
+2025,,Betterave semée de Chioggia S20,Plein champ,bed,Betterave,sowing,,,2025-05-19,,2025-09-08,2025-12-22,,,,,79.6,,3.0,3.0,,kg,2.3,de Chioggia,100
+2026,,Betterave semée de Chioggia S20,Plein champ,bed,Betterave,sowing,,,2026-05-18,,2026-09-07,2026-12-21,,,,,79.6,,3.0,3.0,,kg,2.3,de Chioggia,100
+2025,,Betterave semée Red Titan S20,Plein champ,bed,Betterave,sowing,,,2025-05-19,,2025-09-08,2025-12-22,,,,,298.7,,3.0,3.0,,kg,2.3,Red Titan,100
+2026,,Betterave semée Red Titan S20,Plein champ,bed,Betterave,sowing,,,2026-05-18,,2026-09-07,2026-12-21,,,,,298.7,,3.0,3.0,,kg,2.3,Red Titan,100
+2025,,Betterave semée Rhonda S20,Plein champ,bed,Betterave,sowing,,,2025-05-19,,2025-09-08,2025-12-22,,,,,497.8,,3.0,3.0,,kg,2.3,Rhonda,100
+2026,,Betterave semée Rhonda S20,Plein champ,bed,Betterave,sowing,,,2026-05-18,,2026-09-07,2026-12-21,,,,,497.8,,3.0,3.0,,kg,2.3,Rhonda,100
+2024,,Blé S44,Plein champ,block,Blé,sowing,,,2024-10-28,,2025-08-11,2025-08-18,35000.5,400.0,,,,,,,,kg,0.30000000000000004,Mélange acheté,100
+2024,,Blé S44,Plein champ,block,Blé,sowing,,,2024-10-28,,2025-08-11,2025-08-18,617.0,400.0,,,,,,,,kg,0.30000000000000004,Population,100
+2024,,Blé S44,Plein champ,block,Blé,sowing,,,2024-10-28,,2025-08-11,2025-08-18,2468.3,400.0,,,,,,,,kg,0.30000000000000004,Population,100
+2025,,Blette plein champ Verte à carde jaune S10,Plein champ,bed,Blette,young-plant,1.0,Plaque de 100,2025-01-24,2025-03-10,2025-05-05,2025-07-21,,,,,30.0,,1.0,30.0,,kg,8.0,Verte à carde jaune,100
+2026,,Blette plein champ Verte à carde jaune S10,Plein champ,bed,Blette,young-plant,1.0,Plaque de 100,2026-01-23,2026-03-09,2026-05-04,2026-07-20,,,,,30.0,,1.0,30.0,,kg,8.0,Verte à carde jaune,100
+2025,,Blette plein champ Verte à carde rouge S10,Plein champ,bed,Blette,young-plant,1.0,Plaque de 100,2025-01-24,2025-03-10,2025-05-05,2025-07-21,,,,,30.0,,1.0,30.0,,kg,8.0,Verte à carde rouge,100
+2026,,Blette plein champ Verte à carde rouge S10,Plein champ,bed,Blette,young-plant,1.0,Plaque de 100,2026-01-23,2026-03-09,2026-05-04,2026-07-20,,,,,30.0,,1.0,30.0,,kg,8.0,Verte à carde rouge,100
+2025,,Blette sous abri d'Ampuis S10,Sous abri,bed,Blette,young-plant,1.0,Plaque de 100,2025-01-27,2025-03-10,2025-04-28,2025-07-28,,,,,30.0,,8.0,30.0,,kg,8.0,d'Ampuis,100
+2026,,Blette sous abri d'Ampuis S10,Sous abri,bed,Blette,young-plant,1.0,Plaque de 100,2026-01-26,2026-03-09,2026-04-27,2026-11-30,,,,,30.0,,8.0,30.0,,kg,8.0,d'Ampuis,100
+2025,,Blette sous abri race Berac S28,Sous abri,bed,Blette,young-plant,1.0,Plaque de 100,2025-06-02,2025-07-14,2025-09-01,2026-04-06,,,,,30.0,,8.0,30.0,,kg,8.0,race Berac,100
+2026,,Blette sous abri race Berac S28,Sous abri,bed,Blette,young-plant,1.0,Plaque de 100,2026-06-01,2026-07-13,2026-08-31,2027-03-29,,,,,30.0,,8.0,30.0,,kg,8.0,race Berac,100
+2025,,Capucine S23,Plein champ,bed,Capucine,young-plant,1.0,Plaque de 100,2025-05-12,2025-06-09,2025-07-28,2025-11-24,,,,,20.0,6.67,,,,kg,1.0,Naine,100
+2026,,Capucine S23,Plein champ,bed,Capucine,young-plant,1.0,Plaque de 100,2026-05-11,2026-06-08,2026-07-27,2026-11-23,,,,,10.0,6.67,,,,kg,1.0,Naine,100
+2025,,Céleri-rave Diamant S15,Plein champ,bed,Céleri-rave,young-plant,1.0,Plaque de 100,2025-03-17,2025-04-14,2025-09-15,2026-02-09,,,,,300.0,,1.0,30.0,,kg,3.0,Diamant,100
+2026,,Céleri-rave Diamant S15,Plein champ,bed,Céleri-rave,young-plant,1.0,Plaque de 100,2026-03-16,2026-04-13,2026-09-14,2027-02-01,,,,,300.0,,1.0,30.0,,kg,3.0,Diamant,100
+2025,,Céleri-rave Prinz S15,Plein champ,bed,Céleri-rave,young-plant,1.0,Plaque de 100,2025-03-17,2025-04-14,2025-09-15,2026-02-09,,,,,600.0,,1.0,30.0,,kg,3.0,Prinz,100
+2026,,Céleri-rave Prinz S15,Plein champ,bed,Céleri-rave,young-plant,1.0,Plaque de 100,2026-03-16,2026-04-13,2026-09-14,2027-02-01,,,,,600.0,,1.0,30.0,,kg,3.0,Prinz,100
+2025,,Chicorée Cornet d'Anjou V (scarole) S31,Plein champ,bed,Chicorée scarole,young-plant,1.0,Plaque de 100,2025-07-21,2025-08-04,2025-09-08,2025-11-10,,,,,30.0,,1.0,30.0,,unit,6.0,Cornet d'Anjou,100
+2025,,Chicorée Fiero (rouge longue) S29,Plein champ,bed,Chicorée sauvage,young-plant,1.0,Plaque de 100,2025-07-07,2025-07-21,2025-08-25,2025-10-27,,,,,15.0,,1.0,30.0,,unit,6.0,Trevise Fiero,100
+2025,,Chicorée Uranus (pain de sucre) S29,Plein champ,bed,Chicorée sauvage,young-plant,1.0,Plaque de 100,2025-07-07,2025-07-21,2025-08-25,2025-10-27,,,,,90.0,,1.0,30.0,,unit,6.0,Uranus,100
+2026,,Chicorée Uranus (pain de sucre) S29,Plein champ,bed,Chicorée sauvage,young-plant,1.0,Plaque de 100,2026-07-06,2026-07-20,2026-08-24,2026-10-26,,,,,600.0,,1.0,30.0,,unit,6.0,Uranus,100
+2026,,Chicorée Vespero F1 S29,Plein champ,bed,Chicorée sauvage,young-plant,1.0,Plaque de 100,2026-07-06,2026-07-20,2026-08-24,2026-10-26,,,,,400.0,,1.0,30.0,,unit,6.0,Vespero F1,100
+2025,,Chou à choucroute Sarmello S23,Plein champ,bed,Chou blanc,young-plant,1.0,Plaque de 100,2025-05-12,2025-06-09,2025-09-08,2025-10-06,,,,,200.0,,1.0,50.0,,kg,1.9,Sarmello,100
+2026,,Chou à choucroute Sarmello S23,Plein champ,bed,Chou blanc,young-plant,1.0,Plaque de 100,2026-05-11,2026-06-08,2026-09-07,2026-10-05,,,,,200.0,,1.0,50.0,,kg,1.9,Sarmello,100
+2025,,Chou de Bruxelles Luminus été automne S23,Plein champ,bed,Chou de Bruxelles,young-plant,1.0,Plaque de 100,2025-05-12,2025-06-09,2025-11-10,2025-12-08,,,,,376.0,,1.0,50.0,,kg,1.0,Luminus,100
+2025,,Chou de Bruxelles Martinu automne hiver S23,Plein champ,bed,Chou de Bruxelles,young-plant,1.0,Plaque de 100,2025-05-12,2025-06-09,2025-11-10,2025-12-08,,,,,278.3,,1.0,50.0,,kg,1.0,Martinus F1,100
+2025,,Chou de Bruxelles Martinu automne hiver S23,Plein champ,bed,Chou de Bruxelles,young-plant,1.0,Plaque de 100,2025-05-12,2025-06-09,2025-11-10,2025-12-08,,,,,97.7,,1.0,50.0,,kg,1.0,Martinus F1,100
+2026,,Chou de Bruxelles Martinu automne hiver S23,Plein champ,bed,Chou de Bruxelles,young-plant,1.0,Plaque de 100,2026-05-11,2026-06-08,2026-11-09,2026-12-07,,,,,750.0,,1.0,50.0,,kg,1.0,Martinus F1,100
+2025,,Chou de Milan Alaska S23,Plein champ,bed,Chou de Milan,young-plant,1.0,Plaque de 100,2025-05-12,2025-06-09,2025-10-06,2025-12-22,,,,,400.0,,1.0,50.0,,kg,1.9,Alaska F1,100
+2026,,Chou de Milan Cantasa F1 S23,Plein champ,bed,Chou de Milan,young-plant,1.0,Plaque de 100,2026-05-11,2026-06-08,2026-10-05,2026-12-21,,,,,25.0,,1.0,50.0,,kg,1.9,Cantasa F1,100
+2025,,Chou de Milan Corripa S23,Plein champ,bed,Chou de Milan,young-plant,1.0,Plaque de 100,2025-05-12,2025-06-09,2025-10-06,2025-12-22,,,,,400.0,,1.0,50.0,,kg,1.9,Corripa F1,100
+2026,,Chou de Milan Madlene F1 S23,Plein champ,bed,Chou de Milan,young-plant,1.0,Plaque de 100,2026-05-11,2026-06-08,2026-10-05,2026-12-21,,,,,400.0,,1.0,50.0,,kg,1.9,Madlene F1,100
+2025,,Chou de Milan Utah S23,Plein champ,bed,Chou de Milan,young-plant,1.0,Plaque de 100,2025-05-12,2025-06-09,2025-10-06,2025-12-22,,,,,250.0,,1.0,50.0,,kg,1.9,Utah,100
+2026,,Chou de Milan Wintessa F1 S23,Plein champ,bed,Chou de Milan,young-plant,1.0,Plaque de 100,2026-05-11,2026-06-08,2026-10-05,2026-12-21,,,,,400.0,,1.0,50.0,,kg,1.9,Wintessa F1,100
+2025,,Chou de Pontoise Deadon S23,Plein champ,bed,Chou de Pontoise,young-plant,1.0,Plaque de 100,2025-05-12,2025-06-09,2025-10-06,2025-12-22,,,,,168.9,,1.0,50.0,,kg,1.9,Deadon F1,100
+2025,,Chou de Pontoise Deadon S23,Plein champ,bed,Chou de Pontoise,young-plant,1.0,Plaque de 100,2025-05-12,2025-06-09,2025-10-06,2025-12-22,,,,,581.1,,1.0,50.0,,kg,1.9,Deadon F1,100
+2026,,Chou de Pontoise Deadon S23,Plein champ,bed,Chou de Pontoise,young-plant,1.0,Plaque de 100,2026-05-11,2026-06-08,2026-10-05,2026-12-21,,,,,750.0,,1.0,50.0,,kg,1.9,Deadon F1,100
+2025,,Chou fleur Alpen ou Akinen S23,Plein champ,bed,Chou fleur,young-plant,1.0,Plaque de 100,2025-05-12,2025-06-09,2025-10-20,2025-12-22,,,,,200.0,,1.0,50.0,,kg,1.9,Alpen F1,100
+2026,,Chou fleur Alpen ou Akinen S23,Plein champ,bed,Chou fleur,young-plant,1.0,Plaque de 100,2026-05-11,2026-06-08,2026-10-19,2026-12-21,,,,,200.0,,1.0,50.0,,kg,1.9,Alpen F1,100
+2025,,Chou fleur Bretten ou Clémen S23,Plein champ,bed,Chou fleur,young-plant,1.0,Plaque de 100,2025-05-12,2025-06-09,2025-10-20,2025-12-22,,,,,375.0,,1.0,50.0,,kg,1.9,Bretten,100
+2026,,Chou fleur Bretten ou Clémen S23,Plein champ,bed,Chou fleur,young-plant,1.0,Plaque de 100,2026-05-11,2026-06-08,2026-10-19,2026-12-21,,,,,375.0,,1.0,50.0,,kg,1.9,Bretten,100
+2025,,Chou fleur Cartier S23,Plein champ,bed,Chou fleur,young-plant,1.0,Plaque de 100,2025-05-12,2025-06-09,2025-10-20,2025-12-22,,,,,250.0,,1.0,50.0,,kg,1.9,Cartier F1,100
+2026,,Chou fleur Cartier S23,Plein champ,bed,Chou fleur,young-plant,1.0,Plaque de 100,2026-05-11,2026-06-08,2026-10-19,2026-12-21,,,,,250.0,,1.0,50.0,,kg,1.9,Cartier F1,100
+2025,,Chou fleur Darifen ou Caylen S23,Plein champ,bed,Chou fleur,young-plant,1.0,Plaque de 100,2025-05-12,2025-06-09,2025-10-20,2025-12-22,,,,,250.0,,1.0,50.0,,kg,1.9,Darifen,100
+2026,,Chou fleur Darifen ou Caylen S23,Plein champ,bed,Chou fleur,young-plant,1.0,Plaque de 100,2026-05-11,2026-06-08,2026-10-19,2026-12-21,,,,,250.0,,1.0,50.0,,kg,1.9,Darifen,100
+2025,,Chou fleur Delon F1 ou Darwin S23,Plein champ,bed,Chou fleur,young-plant,1.0,Plaque de 100,2025-05-12,2025-06-09,2025-10-20,2025-12-22,,,,,500.0,,1.0,50.0,,kg,1.9,Delon F1,100
+2026,,Chou fleur Delon F1 ou Darwin S23,Plein champ,bed,Chou fleur,young-plant,1.0,Plaque de 100,2026-05-11,2026-06-08,2026-10-19,2026-12-21,,,,,500.0,,1.0,50.0,,kg,1.9,Delon F1,100
+2025,,Chou fleur Kachen S23,Plein champ,bed,Chou fleur,young-plant,1.0,Plaque de 100,2025-05-12,2025-06-09,2025-10-20,2025-12-22,,,,,250.0,,1.0,50.0,,kg,1.9,Kachen,100
+2026,,Chou fleur Kachen S23,Plein champ,bed,Chou fleur,young-plant,1.0,Plaque de 100,2026-05-11,2026-06-08,2026-10-19,2026-12-21,,,,,250.0,,1.0,50.0,,kg,1.9,Kachen,100
+2025,,Chou fleur Koten S23,Plein champ,bed,Chou fleur,young-plant,1.0,Plaque de 100,2025-05-12,2025-06-09,2025-10-20,2025-12-22,,,,,250.0,,1.0,50.0,,kg,1.9,Koten,100
+2026,,Chou fleur Koten S23,Plein champ,bed,Chou fleur,young-plant,1.0,Plaque de 100,2026-05-11,2026-06-08,2026-10-19,2026-12-21,,,,,250.0,,1.0,50.0,,kg,1.9,Koten,100
+2025,,Chou fleur Leocen S23,Plein champ,bed,Chou fleur,young-plant,1.0,Plaque de 100,2025-05-12,2025-06-09,2025-10-20,2025-12-22,,,,,98.6,,1.0,50.0,,kg,1.9,Leocen,100
+2025,,Chou fleur Leocen S23,Plein champ,bed,Chou fleur,young-plant,1.0,Plaque de 100,2025-05-12,2025-06-09,2025-10-20,2025-12-22,,,,,276.4,,1.0,50.0,,kg,1.9,Leocen,100
+2026,,Chou fleur Leocen S23,Plein champ,bed,Chou fleur,young-plant,1.0,Plaque de 100,2026-05-11,2026-06-08,2026-10-19,2026-12-21,,,,,375.0,,1.0,50.0,,kg,1.9,Leocen,100
+2025,,Chou fleur Lestren S23,Plein champ,bed,Chou fleur,young-plant,1.0,Plaque de 100,2025-05-12,2025-06-09,2025-10-20,2025-12-22,,,,,375.0,,1.0,50.0,,kg,1.9,Lestren,100
+2026,,Chou fleur Lestren S23,Plein champ,bed,Chou fleur,young-plant,1.0,Plaque de 100,2026-05-11,2026-06-08,2026-10-19,2026-12-21,,,,,375.0,,1.0,50.0,,kg,1.9,Lestren,100
+2025,,Chou Kale Beurré Jalhay S23,Plein champ,bed,Chou kale,young-plant,1.0,Plaque de 100,2025-05-12,2025-06-09,2025-10-06,2025-12-22,,,,,60.0,,1.0,50.0,,kg,1.0,Beurré Jalhay,100
+2026,,Chou Kale Beurré Jalhay S23,Plein champ,bed,Chou kale,young-plant,1.0,Plaque de 100,2026-05-11,2026-06-08,2026-10-05,2026-12-21,,,,,60.0,,1.0,50.0,,kg,1.0,Beurré Jalhay,100
+2025,,Chou Kale Nérodi Toscana S23,Plein champ,bed,Chou kale,young-plant,1.0,Plaque de 100,2025-05-12,2025-06-09,2025-10-06,2025-12-22,,,,,60.0,,1.0,50.0,,kg,1.0,Nérodi Toscana,100
+2026,,Chou Kale Nérodi Toscana S23,Plein champ,bed,Chou kale,young-plant,1.0,Plaque de 100,2026-05-11,2026-06-08,2026-10-05,2026-12-21,,,,,60.0,,1.0,50.0,,kg,1.0,Nérodi Toscana,100
+2025,,Chou Kale Roter Krauser S23,Plein champ,bed,Chou kale,young-plant,1.0,Plaque de 100,2025-05-12,2025-06-09,2025-10-06,2025-12-22,,,,,60.0,,1.0,50.0,,kg,1.0,Frisé Roter Krauser,100
+2026,,Chou Kale Roter Krauser S23,Plein champ,bed,Chou kale,young-plant,1.0,Plaque de 100,2026-05-11,2026-06-08,2026-10-05,2026-12-21,,,,,60.0,,1.0,50.0,,kg,1.0,Frisé Roter Krauser,100
+2025,,Chou Kale Westlandse Winter S23,Plein champ,bed,Chou kale,young-plant,1.0,Plaque de 100,2025-05-12,2025-06-09,2025-10-06,2025-12-22,,,,,60.0,,1.0,50.0,,kg,1.0,Frisé Westlandse Winter,100
+2026,,Chou Kale Westlandse Winter S23,Plein champ,bed,Chou kale,young-plant,1.0,Plaque de 100,2026-05-11,2026-06-08,2026-10-05,2026-12-21,,,,,60.0,,1.0,50.0,,kg,1.0,Frisé Westlandse Winter,100
+2025,,Chou pointu Caraflex S8,Plein champ,bed,Chou pointu,young-plant,1.0,Plaque de 100,2025-01-20,2025-02-24,2025-05-05,2025-06-30,,,,,150.0,,1.0,50.0,,kg,1.9,Caraflex F1,100
+2026,,Chou pointu Caraflex S8,Plein champ,bed,Chou pointu,young-plant,1.0,Plaque de 100,2026-01-19,2026-02-23,2026-05-04,2026-06-29,,,,,150.0,,1.0,50.0,,kg,1.9,Caraflex F1,100
+2025,,Chou pointu Chateaurenard S8,Plein champ,bed,Chou pointu,young-plant,1.0,Plaque de 100,2025-01-20,2025-02-24,2025-05-05,2025-06-30,,,,,75.0,,1.0,50.0,,kg,1.9,Chateaurenard,100
+2026,,Chou pointu Chateaurenard S8,Plein champ,bed,Chou pointu,young-plant,1.0,Plaque de 100,2026-01-19,2026-02-23,2026-05-04,2026-06-29,,,,,75.0,,1.0,50.0,,kg,1.9,Chateaurenard,100
+2025,,Chou pointu de Douarnenez S8,Plein champ,bed,Chou pointu,young-plant,1.0,Plaque de 100,2025-01-20,2025-02-24,2025-05-05,2025-06-30,,,,,125.0,,1.0,50.0,,kg,1.9,de Douarnenez,100
+2026,,Chou pointu de Douarnenez S8,Plein champ,bed,Chou pointu,young-plant,1.0,Plaque de 100,2026-01-19,2026-02-23,2026-05-04,2026-06-29,,,,,125.0,,1.0,50.0,,kg,1.9,de Douarnenez,100
+2025,,Chou pointu des vertus S8,Plein champ,bed,Chou pointu,young-plant,1.0,Plaque de 100,2025-01-20,2025-02-24,2025-05-05,2025-06-30,,,,,100.0,,1.0,50.0,,kg,1.9,des vertus,100
+2026,,Chou pointu des vertus S8,Plein champ,bed,Chou pointu,young-plant,1.0,Plaque de 100,2026-01-19,2026-02-23,2026-05-04,2026-06-29,,,,,100.0,,1.0,50.0,,kg,1.9,des vertus,100
+2025,,Chou pommé blanc Bloktor ou Kalistor S23,Plein champ,bed,Chou blanc,young-plant,1.0,Plaque de 100,2025-05-12,2025-06-09,2025-10-06,2025-12-22,,,,,200.0,,1.0,50.0,,kg,1.9,Bloktor,100
+2026,,Chou pommé blanc Bloktor ou Kalistor S23,Plein champ,bed,Chou blanc,young-plant,1.0,Plaque de 100,2026-05-11,2026-06-08,2026-10-05,2026-12-21,,,,,200.0,,1.0,50.0,,kg,1.9,Bloktor,100
+2025,,Chou pommé blanc Storidor ou Epicur S23,Plein champ,bed,Chou blanc,young-plant,1.0,Plaque de 100,2025-05-12,2025-06-09,2025-10-06,2025-12-22,,,,,200.0,,1.0,50.0,,kg,1.9,Storidor,100
+2026,,Chou pommé blanc Storidor ou Epicur S23,Plein champ,bed,Chou blanc,young-plant,1.0,Plaque de 100,2026-05-11,2026-06-08,2026-10-05,2026-12-21,,,,,200.0,,1.0,50.0,,kg,1.9,Storidor,100
+2025,,Chou rouge Rescue S23,Plein champ,bed,Chou rouge,young-plant,1.0,Plaque de 100,2025-05-12,2025-06-09,2025-10-06,2025-12-22,,,,,400.0,,1.0,50.0,,kg,1.9,Rescue,100
+2026,,Chou rouge Rescue S23,Plein champ,bed,Chou rouge,young-plant,1.0,Plaque de 100,2026-05-11,2026-06-08,2026-10-05,2026-12-21,,,,,400.0,,1.0,50.0,,kg,1.9,Rescue,100
+2025,,Chou rouge Travro F1 S23,Plein champ,bed,Chou rouge,young-plant,1.0,Plaque de 100,2025-05-12,2025-06-09,2025-10-06,2025-12-22,,,,,750.0,,1.0,50.0,,kg,1.9,Travero F1,100
+2026,,Chou rouge Travro F1 S23,Plein champ,bed,Chou rouge,young-plant,1.0,Plaque de 100,2026-05-11,2026-06-08,2026-10-05,2026-12-21,,,,,750.0,,1.0,50.0,,kg,1.9,Travero F1,100
+2025,,Chrysanthème comestible S18,Plein champ,bed,Chrysanthème,young-plant,1.0,Plaque de 100,2025-04-07,2025-05-05,2025-06-02,2025-10-13,,,,,10.0,,1.0,50.0,,bunch,10.0,Chrysanthème,100
+2026,,Chrysanthème comestible S18,Plein champ,bed,Chrysanthème,young-plant,1.0,Plaque de 100,2026-04-06,2026-05-04,2026-06-01,2026-10-12,,,,,10.0,,1.0,50.0,,bunch,10.0,Chrysanthème,100
+2025,,Ciboulette chinoise S11,Sous abri,bed,Ciboule de Chine annuelle,young-plant,15.0,Plaque de 100,2024-08-19,2025-03-17,2025-05-05,2025-05-26,,,,,4.0,,16.0,25.0,,bunch,10.0,Ciboulette chinoise,100
+2026,,Ciboulette chinoise S11,Sous abri,bed,Ciboule de Chine annuelle,young-plant,15.0,Plaque de 100,2025-08-18,2026-03-16,2026-05-04,2026-05-25,,,,,4.0,,16.0,25.0,,bunch,10.0,Ciboulette chinoise,100
+2025,,Ciboulette S11,Sous abri,bed,Ciboulette,young-plant,15.0,Plaque de 100,2024-08-19,2025-03-17,2025-05-05,2025-05-26,,,,,10.0,,16.0,25.0,,bunch,10.0,Commune,100
+2026,,Ciboulette S11,Sous abri,bed,Ciboulette,young-plant,15.0,Plaque de 100,2025-08-18,2026-03-16,2026-05-04,2026-05-25,,,,,10.0,,16.0,25.0,,bunch,10.0,Commune,100
+2025,,Claytone de Cuba cycle court sous abri S36,Sous abri,bed,Claytone de Cuba,young-plant,20.0,Plaque de 100,2025-08-11,2025-09-08,2025-10-06,2026-03-16,,,,,,,16.0,25.0,,kg,0.7,Winterpostlein,100
+2026,,Claytone de Cuba cycle court sous abri S36,Sous abri,bed,Claytone de Cuba,young-plant,20.0,Plaque de 100,2026-08-10,2026-09-07,2026-10-05,2027-03-08,,,,,,,16.0,25.0,,kg,0.7,Winterpostlein,100
+2025,,Claytone de Cuba cycle court sous abri S43,Sous abri,bed,Claytone de Cuba,young-plant,20.0,Plaque de 100,2025-09-29,2025-10-27,2025-11-24,2026-05-04,,,,,15.0,,16.0,25.0,,kg,0.7,Winterpostlein,100
+2026,,Claytone de Cuba cycle court sous abri S43,Sous abri,bed,Claytone de Cuba,young-plant,20.0,Plaque de 100,2026-09-28,2026-10-26,2026-11-23,2027-04-26,,,,,5.5,,16.0,25.0,,kg,0.7,Winterpostlein,100
+2025,,Concombre été sous abri Arménien S17,Sous abri,bed,Concombre,young-plant,1.0,Plaque de 32,2025-03-31,2025-04-28,2025-06-09,2025-09-15,,,,,8.6,,1.0,40.0,,kg,3.0,Arménien,100
+2026,,Concombre été sous abri Arménien S17,Sous abri,bed,Concombre,young-plant,1.0,Plaque de 32,2026-03-30,2026-04-27,2026-06-08,2026-09-14,,,,,7.5,,1.0,40.0,,kg,3.0,Arménien,100
+2025,,Concombre été sous abri Caman NT (RZ) ou Akito S17,Sous abri,bed,Concombre,young-plant,1.0,Plaque de 32,2025-03-31,2025-04-28,2025-06-09,2025-09-15,,,,,34.5,,1.0,40.0,,kg,3.0,Akito F1,100
+2026,,Concombre été sous abri Caman NT (RZ) ou Akito S17,Sous abri,bed,Concombre,young-plant,1.0,Plaque de 32,2026-03-30,2026-04-27,2026-06-08,2026-09-14,,,,,30.0,,1.0,40.0,,kg,3.0,Akito F1,100
+2025,,Concombre été sous abri Lockheed S17,Sous abri,bed,Concombre,young-plant,1.0,Plaque de 32,2025-03-31,2025-04-28,2025-06-09,2025-09-15,,,,,34.5,,1.0,40.0,,kg,3.0,Lockheed F1,100
+2026,,Concombre été sous abri Lockheed S17,Sous abri,bed,Concombre,young-plant,1.0,Plaque de 32,2026-03-30,2026-04-27,2026-06-08,2026-09-14,,,,,30.0,,1.0,40.0,,kg,3.0,Lockheed F1,100
+2026,,Concombre été sous abri Paska ou Khassib S17,Sous abri,bed,Concombre,young-plant,1.0,Plaque de 32,2026-03-30,2026-04-27,2026-06-08,2026-09-14,,,,,30.0,,1.0,40.0,,kg,3.0,Paska F1,100
+2025,,Concombre été sous abri Paska ou Khassib S17,Sous abri,bed,Concombre,young-plant,1.0,Plaque de 32,2025-03-31,2025-04-28,2025-06-09,2025-09-15,,,,,34.5,,1.0,40.0,,kg,3.0,Paska F1,100
+2026,,Coriandre Kairos S39,Sous abri,bed,Coriandre,young-plant,4.0,Plaque de 100,2026-08-31,2026-09-28,2026-11-16,2027-02-22,,,,,18.0,,16.0,25.0,,bunch,7.5,Kairos,100
+2025,,Coriandre S36,Sous abri,bed,Coriandre,young-plant,4.0,Plaque de 100,2025-08-11,2025-09-08,2025-10-27,2026-02-09,,,,,30.0,,16.0,25.0,,bunch,7.5,Kairos,100
+2026,,Coriandre S42,Sous abri,bed,Coriandre,young-plant,4.0,Plaque de 100,2026-09-21,2026-10-19,2026-12-14,2027-03-22,,,,,30.0,,16.0,25.0,,bunch,7.5,Kairos,100
+2025,,Coriandre S43,Sous abri,bed,Coriandre,young-plant,4.0,Plaque de 100,2025-09-29,2025-10-27,2025-12-15,2026-03-30,,,,,30.0,,16.0,25.0,,bunch,7.5,Kairos,100
+2026,,Coriandre S46,Sous abri,bed,Coriandre,young-plant,4.0,Plaque de 100,2026-10-19,2026-11-16,2027-01-04,2027-04-12,,,,,30.0,,16.0,25.0,,bunch,7.5,Kairos,100
+2025,,Cosmos S18,Plein champ,bed,Cosmos,young-plant,1.0,Plaque de 100,2025-04-07,2025-05-05,2025-06-02,2025-10-13,,,,,10.0,,1.0,50.0,,bunch,10.0,Sensation,100
+2026,,Cosmos S18,Plein champ,bed,Cosmos,young-plant,1.0,Plaque de 100,2026-04-06,2026-05-04,2026-06-01,2026-10-12,,,,,10.0,,1.0,50.0,,bunch,10.0,Sensation,100
+2025,,Courge plein champ Bleu de Hongrie S18,Plein champ,bed,Courge,young-plant,1.0,Plaque de 32,2025-03-24,2025-05-05,2025-09-15,2025-10-13,,,,,9.0,,5.0,80.0,,kg,1.7,Maxima Bleu de Hongrie,100
+2026,,Courge plein champ Bleu de Hongrie S18,Plein champ,bed,Courge,young-plant,1.0,Plaque de 32,2026-03-23,2026-05-04,2026-09-14,2026-10-12,,,,,8.0,,5.0,80.0,,kg,1.7,Maxima Bleu de Hongrie,100
+2025,,Courge plein champ Blue Ballet S18,Plein champ,bed,Courge,young-plant,1.0,Plaque de 32,2025-03-24,2025-05-05,2025-09-15,2025-10-13,,,,,90.0,,5.0,80.0,,kg,1.7,Potimarron Blue Ballet,100
+2026,,Courge plein champ Blue Ballet S18,Plein champ,bed,Courge,young-plant,1.0,Plaque de 32,2026-03-23,2026-05-04,2026-09-14,2026-10-12,,,,,80.0,,5.0,80.0,,kg,1.7,Potimarron Blue Ballet,100
+2025,,Courge plein champ Butternut S18,Plein champ,bed,Courge,young-plant,1.0,Plaque de 32,2025-03-24,2025-05-05,2025-09-15,2025-10-13,,,,,18.0,,5.0,80.0,,kg,1.7,Moschata Butternut,100
+2025,,Courge plein champ Butternut S18,Plein champ,bed,Courge,young-plant,1.0,Plaque de 32,2025-03-24,2025-05-05,2025-09-15,2025-10-13,,,,,47.3,,5.0,80.0,,kg,1.7,Moschata Butternut mixte de la ferme,100
+2026,,Courge plein champ Butternut S18,Plein champ,bed,Courge,young-plant,1.0,Plaque de 32,2026-03-23,2026-05-04,2026-09-14,2026-10-12,,,,,16.0,,5.0,80.0,,kg,1.7,Moschata Butternut,100
+2026,,Courge plein champ Butternut S18,Plein champ,bed,Courge,young-plant,1.0,Plaque de 32,2026-03-23,2026-05-04,2026-09-14,2026-10-12,,,,,36.0,,5.0,80.0,,kg,1.7,Moschata Butternut mixte de la ferme,100
+2025,,Courge plein champ Carat S18,Plein champ,bed,Courge,young-plant,1.0,Plaque de 32,2025-03-24,2025-05-05,2025-09-15,2025-10-13,,,,,18.0,,5.0,80.0,,kg,1.7,Moschata Carat,100
+2026,,Courge plein champ Carat S18,Plein champ,bed,Courge,young-plant,1.0,Plaque de 32,2026-03-23,2026-05-04,2026-09-14,2026-10-12,,,,,16.0,,5.0,80.0,,kg,1.7,Moschata Carat,100
+2025,,Courge plein champ Delicata S18,Plein champ,bed,Courge,young-plant,1.0,Plaque de 32,2025-03-24,2025-05-05,2025-09-15,2025-10-13,,,,,4.5,,5.0,80.0,,kg,1.7,Pepo Delicata,100
+2025,,Courge plein champ Early butternut S18,Plein champ,bed,Courge,young-plant,1.0,Plaque de 32,2025-03-24,2025-05-05,2025-09-15,2025-10-13,,,,,36.0,,5.0,80.0,,kg,1.7,Moschata Early butternut,100
+2026,,Courge plein champ Early butternut S18,Plein champ,bed,Courge,young-plant,1.0,Plaque de 32,2026-03-23,2026-05-04,2026-09-14,2026-10-12,,,,,16.0,,5.0,80.0,,kg,1.7,Moschata Early butternut,100
+2026,,Courge plein champ Eliana F1 S18,Plein champ,bed,Courge,young-plant,1.0,Plaque de 32,2026-03-23,2026-05-04,2026-09-14,2026-10-12,,,,,16.0,,5.0,80.0,,kg,1.7,Moschata Butternut Eliana F1,100
+2025,,Courge plein champ Fictor S18,Plein champ,bed,Courge,young-plant,1.0,Plaque de 32,2025-03-24,2025-05-05,2025-09-15,2025-10-13,,,,,23.9,,5.0,80.0,,kg,1.7,Potimarron Fictor,100
+2026,,Courge plein champ Fictor S18,Plein champ,bed,Courge,young-plant,1.0,Plaque de 32,2026-03-23,2026-05-04,2026-09-14,2026-10-12,,,,,21.0,,5.0,80.0,,kg,1.7,Potimarron Fictor,100
+2025,,Courge plein champ Futzu black S18,Plein champ,bed,Courge,young-plant,1.0,Plaque de 32,2025-03-24,2025-05-05,2025-09-15,2025-10-13,,,,,18.0,,5.0,80.0,,kg,1.7,Moschata Futsu black,100
+2026,,Courge plein champ Futzu black S18,Plein champ,bed,Courge,young-plant,1.0,Plaque de 32,2026-03-23,2026-05-04,2026-09-14,2026-10-12,,,,,16.0,,5.0,80.0,,kg,1.7,Moschata Futsu black,100
+2025,,Courge plein champ Green d'Okaïdo S18,Plein champ,bed,Courge,young-plant,1.0,Plaque de 32,2025-03-24,2025-05-05,2025-09-15,2025-10-13,,,,,9.0,,5.0,80.0,,kg,1.7,Potimarron Green Hokaïdo,100
+2026,,Courge plein champ Green d'Okaïdo S18,Plein champ,bed,Courge,young-plant,1.0,Plaque de 32,2026-03-23,2026-05-04,2026-09-14,2026-10-12,,,,,8.0,,5.0,80.0,,kg,1.7,Potimarron Green Hokaïdo,100
+2026,,Courge plein champ Ker Madec F1 S18,Plein champ,bed,Courge,young-plant,1.0,Plaque de 32,2026-03-23,2026-05-04,2026-09-14,2026-10-12,,,,,25.6,,5.0,80.0,,kg,1.7,Potimarron Ker Madec F1,100
+2026,,Courge plein champ Longue de Nice S18,Plein champ,bed,Courge,young-plant,1.0,Plaque de 32,2026-03-23,2026-05-04,2026-09-14,2026-10-12,,,,,4.0,,5.0,80.0,,kg,1.7,Moschata Longue de Nice,100
+2025,,Courge plein champ Musquée de Provence S18,Plein champ,bed,Courge,young-plant,1.0,Plaque de 32,2025-03-24,2025-05-05,2025-09-15,2025-10-13,,,,,21.4,,5.0,80.0,,kg,1.7,Moschata Musquée de Provence,100
+2026,,Courge plein champ Musquée de Provence S18,Plein champ,bed,Courge,young-plant,1.0,Plaque de 32,2026-03-23,2026-05-04,2026-09-14,2026-10-12,,,,,19.0,,5.0,80.0,,kg,1.7,Moschata Musquée de Provence,100
+2025,,Courge plein champ Orange summer S18,Plein champ,bed,Courge,young-plant,1.0,Plaque de 32,2025-03-24,2025-05-05,2025-09-15,2025-10-13,,,,,28.8,,5.0,80.0,,kg,1.7,Potimarron Orange Summer F1,100
+2025,,Courge plein champ Patidou S18,Plein champ,bed,Courge,young-plant,1.0,Plaque de 32,2025-03-24,2025-05-05,2025-09-15,2025-10-13,,,,,4.5,,5.0,80.0,,kg,1.7,Pepo Patidou,100
+2026,,Courge plein champ Patidou S18,Plein champ,bed,Courge,young-plant,1.0,Plaque de 32,2026-03-23,2026-05-04,2026-09-14,2026-10-12,,,,,4.0,,5.0,80.0,,kg,1.7,Pepo Patidou,100
+2026,,Courge plein champ Patisson blanc S10,Plein champ,bed,Pâtisson,young-plant,1.0,,2026-01-26,2026-03-09,2026-07-20,2026-08-10,,,,,1.4,,5.0,80.0,,kg,1.7,Blanc,100
+2025,,Courge plein champ Pâtisson Blanc S10,Plein champ,bed,Pâtisson,young-plant,1.0,,2025-01-27,2025-03-10,2025-07-21,2025-08-11,,,,,1.6,,5.0,80.0,,kg,1.7,Blanc,100
+2026,,Courge plein champ Patisson jaune S10,Plein champ,bed,Pâtisson,young-plant,1.0,Plaque de 32,2026-01-26,2026-03-09,2026-07-20,2026-08-10,,,,,1.4,,5.0,80.0,,kg,1.7,Jaune,100
+2025,,Courge plein champ Pâtisson Jaune S10,Plein champ,bed,Pâtisson,young-plant,1.0,Plaque de 32,2025-01-27,2025-03-10,2025-07-21,2025-08-11,,,,,1.6,,5.0,80.0,,kg,1.7,Jaune,100
+2026,,Courge plein champ Patisson orange S10,Plein champ,bed,Pâtisson,young-plant,1.0,Plaque de 32,2026-01-26,2026-03-09,2026-07-20,2026-08-10,,,,,1.4,,5.0,80.0,,kg,1.7,Orange,100
+2025,,Courge plein champ Pâtisson Orange S10,Plein champ,bed,Pâtisson,young-plant,1.0,Plaque de 32,2025-01-27,2025-03-10,2025-07-21,2025-08-11,,,,,1.6,,5.0,80.0,,kg,1.7,Orange,100
+2025,,Courge plein champ Potimarron S18,Plein champ,bed,Courge,young-plant,1.0,Plaque de 32,2025-03-24,2025-05-05,2025-09-15,2025-10-13,,,,,20.3,,5.0,80.0,,kg,1.7,Potimarron mixte de la ferme,100
+2026,,Courge plein champ Potimarron S18,Plein champ,bed,Courge,young-plant,1.0,Plaque de 32,2026-03-23,2026-05-04,2026-09-14,2026-10-12,,,,,12.0,,5.0,80.0,,kg,1.7,Potimarron mixte de la ferme,100
+2026,,Courge plein champ Queensland Blue S18,Plein champ,bed,Courge,young-plant,1.0,Plaque de 32,2026-03-23,2026-05-04,2026-09-14,2026-10-12,,,,,12.0,,5.0,80.0,,kg,1.7,Potiron Queensland blue,100
+2025,,Courge plein champ Queensland S18,Plein champ,bed,Courge,young-plant,1.0,Plaque de 32,2025-03-24,2025-05-05,2025-09-15,2025-10-13,,,,,13.5,,5.0,80.0,,kg,1.7,Potiron Queensland blue,100
+2025,,Courge plein champ Red kuri S18,Plein champ,bed,Courge,young-plant,1.0,Plaque de 32,2025-03-24,2025-05-05,2025-09-15,2025-10-13,,,,,18.0,,5.0,80.0,,kg,1.7,Potimarron Red kuri,100
+2026,,Courge plein champ Red kuri S18,Plein champ,bed,Courge,young-plant,1.0,Plaque de 32,2026-03-23,2026-05-04,2026-09-14,2026-10-12,,,,,16.0,,5.0,80.0,,kg,1.7,Potimarron Red kuri,100
+2025,,Courge sous abri Amphore S18,Sous abri,bed,Courge,young-plant,1.0,Plaque de 32,2025-03-24,2025-05-05,2025-09-15,2025-10-13,,,,,10.0,,1.0,80.0,,kg,1.7,Gourde amphore (Lagenaria siceraria),100
+2026,,Courge sous abri Amphore S18,Sous abri,bed,Courge,young-plant,1.0,Plaque de 32,2026-03-23,2026-05-04,2026-09-14,2026-10-12,,,,,10.0,,1.0,80.0,,kg,1.7,Gourde amphore (Lagenaria siceraria),100
+2025,,Courge sous abri Eponge S18,Sous abri,bed,Courge,young-plant,1.0,Plaque de 32,2025-03-24,2025-05-05,2025-09-15,2025-10-13,,,,,10.0,,1.0,80.0,,kg,1.7,Éponge (Luffa aegyptiaca),100
+2026,,Courge sous abri Eponge S18,Sous abri,bed,Courge,young-plant,1.0,Plaque de 32,2026-03-23,2026-05-04,2026-09-14,2026-10-12,,,,,10.0,,1.0,80.0,,kg,1.7,Éponge (Luffa aegyptiaca),100
+2025,,Courge sous abri Gourde maté S18,Sous abri,bed,Courge,young-plant,1.0,Plaque de 32,2025-03-24,2025-05-05,2025-09-15,2025-10-13,,,,,10.0,,1.0,80.0,,kg,1.7,Gourde maté,100
+2026,,Courge sous abri Gourde maté S18,Sous abri,bed,Courge,young-plant,1.0,Plaque de 32,2026-03-23,2026-05-04,2026-09-14,2026-10-12,,,,,10.0,,1.0,80.0,,kg,1.7,Gourde maté,100
+2025,,Courge sous abri Marenka S18,Sous abri,bed,Courge,young-plant,1.0,Plaque de 32,2025-03-24,2025-05-05,2025-09-15,2025-10-13,,,,,4.6,,1.0,80.0,,kg,1.7,Gourde Marenka (Lagenaria siceraria),100
+2025,,Courge sous abri Marenka S18,Sous abri,bed,Courge,young-plant,1.0,Plaque de 32,2025-03-24,2025-05-05,2025-09-15,2025-10-13,,,,,5.4,,1.0,80.0,,kg,1.7,Gourde Marenka (Lagenaria siceraria),100
+2026,,Courge sous abri Marenka S18,Sous abri,bed,Courge,young-plant,1.0,Plaque de 32,2026-03-23,2026-05-04,2026-09-14,2026-10-12,,,,,10.0,,1.0,80.0,,kg,1.7,Gourde Marenka (Lagenaria siceraria),100
+2025,,Courge sous abri Plate de Corse S18,Sous abri,bed,Courge,young-plant,1.0,Plaque de 32,2025-03-24,2025-05-05,2025-09-15,2025-10-13,,,,,10.0,,1.0,80.0,,kg,1.7,Gourde Plate de Corse (Lagenaria siceraria),100
+2026,,Courge sous abri Plate de Corse S18,Sous abri,bed,Courge,young-plant,1.0,Plaque de 32,2026-03-23,2026-05-04,2026-09-14,2026-10-12,,,,,10.0,,1.0,80.0,,kg,1.7,Gourde Plate de Corse (Lagenaria siceraria),100
+2025,,Courge sous abri pour semence Butternut S18,Sous abri,bed,Courge,young-plant,1.0,Plaque de 32,2025-03-24,2025-05-05,2025-09-01,2025-09-08,,,,,60.0,,5.0,80.0,,kg,1.7,Moschata Butternut mixte de la ferme,100
+2026,,Courge sous abri pour semence Butternut S18,Sous abri,bed,Courge,young-plant,1.0,Plaque de 32,2026-03-23,2026-05-04,2026-08-31,2026-09-07,,,,,60.0,,5.0,80.0,,kg,1.7,Potimarron mixte de la ferme,100
+2025,,Courge sous abri pour semence Potimarron S18,Sous abri,bed,Courge,young-plant,1.0,Plaque de 32,2025-03-24,2025-05-05,2025-09-01,2025-09-01,,,,,60.0,,5.0,80.0,,kg,1.7,Potimarron mixte de la ferme,100
+2026,,Courge sous abri pour semence Potimarron S18,Sous abri,bed,Courge,young-plant,1.0,Plaque de 32,2026-03-23,2026-05-04,2026-08-31,2026-08-31,,,,,60.0,,5.0,80.0,,kg,1.7,Potimarron mixte de la ferme,100
+2025,,Courgette plein champ Goldi F1 S10,Plein champ,bed,Courgette,young-plant,1.0,Plaque de 32,2025-02-10,2025-03-10,2025-05-12,2025-08-25,,,,,13.3,,4.0,80.0,,kg,2.0,Goldi F1,100
+2026,,Courgette plein champ Goldi F1 S15,Plein champ,bed,Courgette,young-plant,1.0,Plaque de 32,2026-03-16,2026-04-13,2026-06-15,2026-10-12,,,,,10.0,,4.0,80.0,,kg,2.0,Goldi F1,100
+2025,,Courgette plein champ Lingodor F1 S10,Plein champ,bed,Courgette,young-plant,1.0,Plaque de 32,2025-02-10,2025-03-10,2025-05-12,2025-08-25,,,,,12.3,,4.0,80.0,,kg,2.0,Lingodor F1,100
+2026,,Courgette plein champ Lingodor F1 S15,Plein champ,bed,Courgette,young-plant,1.0,Plaque de 32,2026-03-16,2026-04-13,2026-06-15,2026-10-12,,,,,9.0,,4.0,80.0,,kg,2.0,Lingodor F1,100
+2025,,Courgette plein champ Luneor F1 S10,Plein champ,bed,Courgette,young-plant,1.0,Plaque de 32,2025-02-10,2025-03-10,2025-05-12,2025-08-25,,,,,1.7,,4.0,80.0,,kg,2.0,Luneor F1,100
+2026,,Courgette plein champ Luneor F1 S15,Plein champ,bed,Courgette,young-plant,1.0,Plaque de 32,2026-03-16,2026-04-13,2026-06-15,2026-10-12,,,,,1.3,,4.0,80.0,,kg,2.0,Luneor F1,100
+2025,,Courgette plein champ Noriac S10,Plein champ,bed,Courgette,young-plant,1.0,Plaque de 32,2025-02-10,2025-03-10,2025-05-12,2025-08-25,,,,,66.7,,4.0,80.0,,kg,2.0,Noriac F1,100
+2025,,Courgette plein champ Twitter S10,Plein champ,bed,Courgette,young-plant,1.0,Plaque de 32,2025-02-10,2025-03-10,2025-05-12,2025-08-25,,,,,26.0,,4.0,80.0,,kg,2.0,Twitter F1,100
+2026,,Courgette plein champ Twitter S15,Plein champ,bed,Courgette,young-plant,1.0,Plaque de 32,2026-03-16,2026-04-13,2026-06-15,2026-10-12,,,,,22.0,,4.0,80.0,,kg,2.0,Twitter F1,100
+2025,,Courgette plein champ Zelia S10,Plein champ,bed,Courgette,young-plant,1.0,Plaque de 32,2025-02-10,2025-03-10,2025-05-12,2025-08-25,,,,,14.7,,4.0,80.0,,kg,2.0,Zelia F1,100
+2026,,Courgette plein champ Zelia S15,Plein champ,bed,Courgette,young-plant,1.0,Plaque de 32,2026-03-16,2026-04-13,2026-06-15,2026-10-12,,,,,11.0,,4.0,80.0,,kg,2.0,Zelia F1,100
+2025,,Courgette plein champ Zodiac S10,Plein champ,bed,Courgette,young-plant,1.0,Plaque de 32,2025-02-10,2025-03-10,2025-05-12,2025-08-25,,,,,66.7,,4.0,80.0,,kg,2.0,Zodiac F1,100
+2026,,Courgette plein champ Zodiac S15,Plein champ,bed,Courgette,young-plant,1.0,Plaque de 32,2026-03-16,2026-04-13,2026-06-15,2026-10-12,,,,,50.0,,4.0,80.0,,kg,2.0,Zodiac F1,100
+2026,,Courgette plein champ Zodiac S27,Plein champ,bed,Courgette,young-plant,1.0,Plaque de 32,2026-06-08,2026-07-06,2026-08-24,2026-11-09,,,,,50.0,,4.0,80.0,,kg,2.0,Zodiac F1,100
+2025,,Courgette précoce sous abri Twitter S11,Sous abri,bed,Courgette,young-plant,1.0,Plaque de 32,2025-02-17,2025-03-17,2025-05-19,2025-06-09,,,,,30.0,,5.0,80.0,,kg,4.0,Twitter F1,100
+2026,,Courgette précoce sous abri Twitter S11,Sous abri,bed,Courgette,young-plant,1.0,Plaque de 32,2026-02-16,2026-03-16,2026-05-18,2026-06-08,,,,,30.0,,5.0,80.0,,kg,4.0,Twitter F1,100
+2025,,Cresson d'hiver S36,Sous abri,bed,Cresson,young-plant,7.0,Plaque de 100,2025-08-11,2025-09-08,2025-10-06,2026-03-16,,,,,15.0,,16.0,25.0,,kg,0.7,d'hiver Bittercress,100
+2026,,Cresson d'hiver S36,Sous abri,bed,Cresson,young-plant,7.0,Plaque de 100,2026-08-10,2026-09-07,2026-10-05,2027-03-08,,,,,15.0,,16.0,25.0,,kg,0.7,d'hiver Bittercress,100
+2025,,Cresson d'hiver S44,Sous abri,bed,Cresson,young-plant,7.0,Plaque de 100,2025-10-06,2025-11-03,2025-12-01,2026-05-11,,,,,15.0,,16.0,25.0,,kg,0.7,d'hiver Bittercress,100
+2026,,Cresson d'hiver S44,Sous abri,bed,Cresson,young-plant,7.0,Plaque de 100,2026-10-05,2026-11-02,2026-11-30,2027-05-03,,,,,15.0,,16.0,25.0,,kg,0.7,d'hiver Bittercress,100
+2025,,Echalote S5,Plein champ,bed,Echalote,young-plant-bought,,,,2025-02-03,2025-06-23,2025-07-14,,,,,153.0,,5.0,17.0,,kg,1.4,Echalote,100
+2026,,Echalote S5,Plein champ,bed,Echalote,young-plant-bought,,,,2026-02-02,2026-06-22,2026-07-13,,,,,153.0,,5.0,17.0,,kg,1.4,Echalote,100
+2025,,Epinard El lucio S37,Sous abri,bed,Épinard,young-plant,4.0,Plaque de 100,2025-08-18,2025-09-15,2025-10-13,2026-02-23,,,,,31.5,,16.0,25.0,,kg,0.7,El lucio,100
+2026,,Epinard El lucio S37,Sous abri,bed,Épinard,young-plant,4.0,Plaque de 100,2026-08-17,2026-09-14,2026-10-12,2027-02-15,,,,,31.5,,16.0,25.0,,kg,0.7,El lucio,100
+2025,,Epinard El lucio S40,Sous abri,bed,Épinard,young-plant,4.0,Plaque de 100,2025-09-08,2025-10-06,2025-11-03,2026-03-16,,,,,12.7,,16.0,25.0,,kg,0.7,El lucio,100
+2025,,Epinard El lucio S40,Sous abri,bed,Épinard,young-plant,4.0,Plaque de 100,2025-09-08,2025-10-06,2025-11-03,2026-03-16,,,,,18.8,,16.0,25.0,,kg,0.7,El lucio,100
+2026,,Epinard El lucio S40,Sous abri,bed,Épinard,young-plant,4.0,Plaque de 100,2026-09-07,2026-10-05,2026-11-02,2027-03-08,,,,,12.7,,16.0,25.0,,kg,0.7,El lucio,100
+2026,,Epinard El lucio S40,Sous abri,bed,Épinard,young-plant,4.0,Plaque de 100,2026-09-07,2026-10-05,2026-11-02,2027-03-08,,,,,18.8,,16.0,25.0,,kg,0.7,El lucio,100
+2025,,Epinard El lucio S42,Sous abri,bed,Épinard,young-plant,4.0,Plaque de 100,2025-09-22,2025-10-20,2025-11-17,2026-03-30,,,,,31.5,,16.0,25.0,,kg,0.7,El lucio,100
+2026,,Epinard El lucio S42,Sous abri,bed,Épinard,young-plant,4.0,Plaque de 100,2026-09-21,2026-10-19,2026-11-16,2027-03-22,,,,,31.5,,16.0,25.0,,kg,0.7,El lucio,100
+2025,,Epinard El lucio S44,Sous abri,bed,Épinard,young-plant,4.0,Plaque de 100,2025-10-06,2025-11-03,2025-12-01,2026-04-13,,,,,9.7,,16.0,25.0,,kg,0.7,El lucio,100
+2025,,Epinard El lucio S44,Sous abri,bed,Épinard,young-plant,4.0,Plaque de 100,2025-10-06,2025-11-03,2025-12-01,2026-04-13,,,,,21.8,,16.0,25.0,,kg,0.7,El lucio,100
+2026,,Epinard El lucio S44,Sous abri,bed,Épinard,young-plant,4.0,Plaque de 100,2026-10-05,2026-11-02,2026-11-30,2027-04-05,,,,,9.7,,16.0,25.0,,kg,0.7,El lucio,100
+2026,,Epinard El lucio S44,Sous abri,bed,Épinard,young-plant,4.0,Plaque de 100,2026-10-05,2026-11-02,2026-11-30,2027-04-05,,,,,21.8,,16.0,25.0,,kg,0.7,El lucio,100
+2025,,Epinard El majistic S33,Sous abri,bed,Épinard,young-plant,4.0,Plaque de 100,2025-07-21,2025-08-18,2025-09-15,2025-10-27,,,,,15.8,,16.0,25.0,,kg,0.7,El majistic,100
+2026,,Epinard El majistic S33,Sous abri,bed,Épinard,young-plant,4.0,Plaque de 100,2026-07-20,2026-08-17,2026-09-14,2027-01-18,,,,,15.8,,16.0,25.0,,kg,0.7,El majistic,100
+2025,,Epinard El majistic S35,Sous abri,bed,Épinard,young-plant,4.0,Plaque de 100,2025-08-04,2025-09-01,2025-09-29,2025-10-27,,,,,15.8,,16.0,25.0,,kg,0.7,El majistic,100
+2026,,Epinard El majistic S35,Sous abri,bed,Épinard,young-plant,4.0,Plaque de 100,2026-08-03,2026-08-31,2026-09-28,2027-02-01,,,,,15.8,,16.0,25.0,,kg,0.7,El majistic,100
+2025,,Epinard El majistic S37,Sous abri,bed,Épinard,young-plant,4.0,Plaque de 100,2025-08-18,2025-09-15,2025-10-13,2026-02-23,,,,,15.8,,16.0,25.0,,kg,0.7,El majistic,100
+2026,,Epinard El majistic S37,Sous abri,bed,Épinard,young-plant,4.0,Plaque de 100,2026-08-17,2026-09-14,2026-10-12,2027-02-15,,,,,15.8,,16.0,25.0,,kg,0.7,El majistic,100
+2025,,Epinard plein champ El majistic S11,Plein champ,bed,Épinard,young-plant,4.0,Plaque de 100,2025-02-17,2025-03-17,2025-04-14,2025-05-05,,,,,15.8,,16.0,25.0,,kg,0.7,El majistic,100
+2026,,Epinard plein champ El majistic S11,Plein champ,bed,Épinard,young-plant,4.0,Plaque de 100,2026-02-16,2026-03-16,2026-04-13,2026-05-04,,,,,15.8,,16.0,25.0,,kg,0.7,El majistic,100
+2025,,Estragon mexicain S18,Plein champ,bed,Tagète Lucida,young-plant,1.0,Plaque de 100,2025-04-07,2025-05-05,2025-06-02,2025-10-13,,,,,10.0,,1.0,50.0,,bunch,10.0,Estragon mexicain,100
+2026,,Estragon mexicain S18,Plein champ,bed,Tagète Lucida,young-plant,1.0,Plaque de 100,2026-04-06,2026-05-04,2026-06-01,2026-10-12,,,,,10.0,,1.0,50.0,,bunch,10.0,Estragon mexicain,100
+2025,,Fenouil Preludio F1 F1 S5,Plein champ,bed,Fenouil,young-plant,1.0,Plaque de 100,2025-01-20,2025-02-03,2025-04-07,2025-04-14,,,,,7.3,,13.0,30.0,,kg,2.0,Preludio F1,100
+2025,,Fenouil Preludio F1 S1,Plein champ,bed,Fenouil,young-plant,1.0,Plaque de 100,2025-12-22,2026-01-05,2026-03-02,2026-03-09,,,,,7.3,,13.0,30.0,,kg,2.0,Preludio F1,100
+2026,,Fenouil Preludio F1 S1,Plein champ,bed,Fenouil,young-plant,1.0,Plaque de 100,2026-12-21,2027-01-04,2027-03-01,2027-03-08,,,,,7.3,,13.0,30.0,,kg,2.0,Preludio F1,100
+2025,,Fenouil Preludio F1 S11,Plein champ,bed,Fenouil,young-plant,1.0,Plaque de 100,2025-03-03,2025-03-17,2025-05-19,2025-05-26,,,,,7.3,,13.0,30.0,,kg,2.0,Preludio F1,100
+2026,,Fenouil Preludio F1 S11,Plein champ,bed,Fenouil,young-plant,1.0,Plaque de 100,2026-03-02,2026-03-16,2026-05-18,2026-05-25,,,,,7.3,,13.0,30.0,,kg,2.0,Preludio F1,100
+2025,,Fenouil Preludio F1 S33,Plein champ,bed,Fenouil,young-plant,1.0,Plaque de 100,2025-08-04,2025-08-18,2025-10-20,2025-10-27,,,,,7.3,,13.0,30.0,,kg,2.0,Preludio F1,100
+2026,,Fenouil Preludio F1 S33,Plein champ,bed,Fenouil,young-plant,1.0,Plaque de 100,2026-08-03,2026-08-17,2026-10-19,2026-10-26,,,,,7.3,,13.0,30.0,,kg,2.0,Preludio F1,100
+2025,,Fenouil Preludio F1 S35,Plein champ,bed,Fenouil,young-plant,1.0,Plaque de 100,2025-08-18,2025-09-01,2025-11-03,2025-11-10,,,,,7.3,,13.0,30.0,,kg,2.0,Preludio F1,100
+2026,,Fenouil Preludio F1 S35,Plein champ,bed,Fenouil,young-plant,1.0,Plaque de 100,2026-08-17,2026-08-31,2026-11-02,2026-11-09,,,,,7.3,,13.0,30.0,,kg,2.0,Preludio F1,100
+2025,,Fenouil Preludio F1 S37,Plein champ,bed,Fenouil,young-plant,1.0,Plaque de 100,2025-09-01,2025-09-15,2025-11-17,2025-11-24,,,,,7.3,,13.0,30.0,,kg,2.0,Preludio F1,100
+2026,,Fenouil Preludio F1 S37,Plein champ,bed,Fenouil,young-plant,1.0,Plaque de 100,2026-08-31,2026-09-14,2026-11-16,2026-11-23,,,,,7.3,,13.0,30.0,,kg,2.0,Preludio F1,100
+2025,,Fenouil Preludio F1 S39,Plein champ,bed,Fenouil,young-plant,1.0,Plaque de 100,2025-09-15,2025-09-29,2025-12-01,2025-12-08,,,,,7.3,,13.0,30.0,,kg,2.0,Preludio F1,100
+2026,,Fenouil Preludio F1 S39,Plein champ,bed,Fenouil,young-plant,1.0,Plaque de 100,2026-09-14,2026-09-28,2026-11-30,2026-12-07,,,,,7.3,,13.0,30.0,,kg,2.0,Preludio F1,100
+2025,,Fenouil Preludio F1 S41,Plein champ,bed,Fenouil,young-plant,1.0,Plaque de 100,2025-09-29,2025-10-13,2025-12-15,2025-12-22,,,,,7.3,,13.0,30.0,,kg,2.0,Preludio F1,100
+2026,,Fenouil Preludio F1 S41,Plein champ,bed,Fenouil,young-plant,1.0,Plaque de 100,2026-09-28,2026-10-12,2026-12-14,2026-12-21,,,,,7.3,,13.0,30.0,,kg,2.0,Preludio F1,100
+2025,,Fenouil Preludio F1 S43,Plein champ,bed,Fenouil,young-plant,1.0,Plaque de 100,2025-10-13,2025-10-27,2025-12-22,2025-12-22,,,,,7.3,,13.0,30.0,,kg,2.0,Preludio F1,100
+2026,,Fenouil Preludio F1 S43,Plein champ,bed,Fenouil,young-plant,1.0,Plaque de 100,2026-10-12,2026-10-26,2026-12-21,2026-12-21,,,,,7.3,,13.0,30.0,,kg,2.0,Preludio F1,100
+2025,,Fenouil Preludio F1 S45,Plein champ,bed,Fenouil,young-plant,1.0,Plaque de 100,2025-10-27,2025-11-10,2026-01-05,2026-01-12,,,,,7.3,,13.0,30.0,,kg,2.0,Preludio F1,100
+2026,,Fenouil Preludio F1 S45,Plein champ,bed,Fenouil,young-plant,1.0,Plaque de 100,2026-10-26,2026-11-09,2027-01-04,2027-01-04,,,,,7.3,,13.0,30.0,,kg,2.0,Preludio F1,100
+2025,,Fenouil Preludio F1 S49,Plein champ,bed,Fenouil,young-plant,1.0,Plaque de 100,2025-11-24,2025-12-08,2026-02-02,2026-02-09,,,,,7.3,,13.0,30.0,,kg,2.0,Preludio F1,100
+2026,,Fenouil Preludio F1 S49,Plein champ,bed,Fenouil,young-plant,1.0,Plaque de 100,2026-11-23,2026-12-07,2027-01-25,2027-02-01,,,,,7.3,,13.0,30.0,,kg,2.0,Preludio F1,100
+2025,,Fenouil Preludio F1 S5,Plein champ,bed,Fenouil,young-plant,1.0,Plaque de 100,2025-01-20,2025-02-03,2025-04-07,2025-04-14,,,,,7.3,,13.0,30.0,,kg,2.0,Preludio F1,100
+2026,,Fenouil Preludio F1 S5,Plein champ,bed,Fenouil,young-plant,1.0,Plaque de 100,2026-01-19,2026-02-02,2026-04-06,2026-04-13,,,,,7.3,,13.0,30.0,,kg,2.0,Preludio F1,100
+2025,,Fenouil Preludio F1 S7,Plein champ,bed,Fenouil,young-plant,1.0,Plaque de 100,2025-02-03,2025-02-17,2025-04-21,2025-04-28,,,,,7.3,,13.0,30.0,,kg,2.0,Preludio F1,100
+2026,,Fenouil Preludio F1 S7,Plein champ,bed,Fenouil,young-plant,1.0,Plaque de 100,2026-02-02,2026-02-16,2026-04-20,2026-04-27,,,,,7.3,,13.0,30.0,,kg,2.0,Preludio F1,100
+2025,,Fenouil Preludio F1 S9,Plein champ,bed,Fenouil,young-plant,1.0,Plaque de 100,2025-02-17,2025-03-03,2025-05-05,2025-05-12,,,,,7.3,,13.0,30.0,,kg,2.0,Preludio F1,100
+2026,,Fenouil Preludio F1 S9,Plein champ,bed,Fenouil,young-plant,1.0,Plaque de 100,2026-02-16,2026-03-02,2026-05-04,2026-05-11,,,,,7.3,,13.0,30.0,,kg,2.0,Preludio F1,100
+2025,,Fenouil Rondo F1 S13,Plein champ,bed,Fenouil,young-plant,1.0,Plaque de 100,2025-03-17,2025-03-31,2025-06-02,2025-06-09,,,,,9.5,,13.0,30.0,,kg,2.0,Rondo F1,100
+2026,,Fenouil Rondo F1 S13,Plein champ,bed,Fenouil,young-plant,1.0,Plaque de 100,2026-03-16,2026-03-30,2026-06-01,2026-06-08,,,,,9.5,,13.0,30.0,,kg,2.0,Rondo F1,100
+2025,,Fenouil Rondo F1 S15,Plein champ,bed,Fenouil,young-plant,1.0,Plaque de 100,2025-03-31,2025-04-14,2025-06-16,2025-06-23,,,,,9.5,,13.0,30.0,,kg,2.0,Rondo F1,100
+2026,,Fenouil Rondo F1 S15,Plein champ,bed,Fenouil,young-plant,1.0,Plaque de 100,2026-03-30,2026-04-13,2026-06-15,2026-06-22,,,,,9.5,,13.0,30.0,,kg,2.0,Rondo F1,100
+2025,,Fenouil Rondo F1 S17,Plein champ,bed,Fenouil,young-plant,1.0,Plaque de 100,2025-04-14,2025-04-28,2025-06-30,2025-07-07,,,,,9.5,,13.0,30.0,,kg,2.0,Rondo F1,100
+2026,,Fenouil Rondo F1 S17,Plein champ,bed,Fenouil,young-plant,1.0,Plaque de 100,2026-04-13,2026-04-27,2026-06-29,2026-07-06,,,,,9.5,,13.0,30.0,,kg,2.0,Rondo F1,100
+2025,,Fenouil Rondo F1 S19,Plein champ,bed,Fenouil,young-plant,1.0,Plaque de 100,2025-04-28,2025-05-12,2025-07-14,2025-07-21,,,,,9.5,,13.0,30.0,,kg,2.0,Rondo F1,100
+2026,,Fenouil Rondo F1 S19,Plein champ,bed,Fenouil,young-plant,1.0,Plaque de 100,2026-04-27,2026-05-11,2026-07-13,2026-07-20,,,,,9.5,,13.0,30.0,,kg,2.0,Rondo F1,100
+2025,,Fenouil Rondo F1 S21,Plein champ,bed,Fenouil,young-plant,1.0,Plaque de 100,2025-05-12,2025-05-26,2025-07-28,2025-08-04,,,,,9.5,,13.0,30.0,,kg,2.0,Rondo F1,100
+2026,,Fenouil Rondo F1 S21,Plein champ,bed,Fenouil,young-plant,1.0,Plaque de 100,2026-05-11,2026-05-25,2026-07-27,2026-08-03,,,,,9.5,,13.0,30.0,,kg,2.0,Rondo F1,100
+2025,,Fenouil Rondo F1 S23,Plein champ,bed,Fenouil,young-plant,1.0,Plaque de 100,2025-05-26,2025-06-09,2025-08-11,2025-08-18,,,,,9.5,,13.0,30.0,,kg,2.0,Rondo F1,100
+2026,,Fenouil Rondo F1 S23,Plein champ,bed,Fenouil,young-plant,1.0,Plaque de 100,2026-05-25,2026-06-08,2026-08-10,2026-08-17,,,,,9.5,,13.0,30.0,,kg,2.0,Rondo F1,100
+2025,,Fenouil Rondo F1 S25,Plein champ,bed,Fenouil,young-plant,1.0,Plaque de 100,2025-06-09,2025-06-23,2025-08-25,2025-09-01,,,,,9.5,,13.0,30.0,,kg,2.0,Rondo F1,100
+2026,,Fenouil Rondo F1 S25,Plein champ,bed,Fenouil,young-plant,1.0,Plaque de 100,2026-06-08,2026-06-22,2026-08-24,2026-08-31,,,,,9.5,,13.0,30.0,,kg,2.0,Rondo F1,100
+2025,,Fenouil Rondo F1 S27,Plein champ,bed,Fenouil,young-plant,1.0,Plaque de 100,2025-06-23,2025-07-07,2025-09-08,2025-09-15,,,,,9.5,,13.0,30.0,,kg,2.0,Rondo F1,100
+2026,,Fenouil Rondo F1 S27,Plein champ,bed,Fenouil,young-plant,1.0,Plaque de 100,2026-06-22,2026-07-06,2026-09-07,2026-09-14,,,,,9.5,,13.0,30.0,,kg,2.0,Rondo F1,100
+2025,,Fenouil Rondo F1 S29,Plein champ,bed,Fenouil,young-plant,1.0,Plaque de 100,2025-07-07,2025-07-21,2025-09-22,2025-09-29,,,,,9.5,,13.0,30.0,,kg,2.0,Rondo F1,100
+2026,,Fenouil Rondo F1 S29,Plein champ,bed,Fenouil,young-plant,1.0,Plaque de 100,2026-07-06,2026-07-20,2026-09-21,2026-09-28,,,,,9.5,,13.0,30.0,,kg,2.0,Rondo F1,100
+2025,,Fenouil Rondo F1 S31,Plein champ,bed,Fenouil,young-plant,1.0,Plaque de 100,2025-07-21,2025-08-04,2025-09-29,2025-09-29,,,,,9.5,,13.0,30.0,,kg,2.0,Rondo F1,100
+2026,,Fenouil Rondo F1 S31,Plein champ,bed,Fenouil,young-plant,1.0,Plaque de 100,2026-07-20,2026-08-03,2026-09-28,2026-09-28,,,,,9.5,,13.0,30.0,,kg,2.0,Rondo F1,100
+2025,,Fève Eleonora S9,Plein champ,bed,Fève,sowing,3.0,,2025-03-03,,2025-06-02,2025-06-23,,,,,450.0,,1.0,30.0,,kg,0.9,Eleonora,100
+2026,,Fève Eleonora S9,Plein champ,bed,Fève,sowing,3.0,,2026-03-02,,2026-06-01,2026-06-22,,,,,450.0,,1.0,30.0,,kg,0.9,Eleonora,100
+2025,,Fève Ratio S9,Plein champ,bed,Fève,sowing,3.0,,2025-03-03,,2025-06-02,2025-06-23,,,,,450.0,,1.0,30.0,,kg,0.9,Ratio,100
+2026,,Fève Ratio S9,Plein champ,bed,Fève,sowing,3.0,,2026-03-02,,2026-06-01,2026-06-22,,,,,450.0,,1.0,30.0,,kg,0.9,Ratio,100
+2025,,Fève Super agualduce S9,Plein champ,bed,Fève,sowing,3.0,,2025-03-03,,2025-06-02,2025-06-23,,,,,450.0,,1.0,30.0,,kg,0.9,Super d’agualdulce,100
+2026,,Fève Super agualduce S9,Plein champ,bed,Fève,sowing,3.0,,2026-03-02,,2026-06-01,2026-06-22,,,,,450.0,,1.0,30.0,,kg,0.9,Super d’agualdulce,100
+2025,,Haricot coco à écosser été plein champ Big borloto S18,Plein champ,bed,Haricot,sowing,3.0,,2025-05-05,,2025-09-08,2025-09-22,,,,,480.0,,1.0,30.0,,kg,1.0,Big borlotto,100
+2026,,Haricot coco à écosser été plein champ Big borloto S18,Plein champ,bed,Haricot,sowing,3.0,,2026-05-04,,2026-09-07,2026-09-21,,,,,480.0,,1.0,30.0,,kg,1.0,Big borlotto,100
+2025,,Haricot vert été plein champ Pongo S18,Plein champ,bed,Haricot,sowing,3.0,,2025-05-05,,2025-06-30,2025-07-14,,,,,180.0,,2.0,30.0,,kg,0.5,Pongo,100
+2026,,Haricot vert été plein champ Pongo S18,Plein champ,bed,Haricot,sowing,3.0,,2026-05-04,,2026-06-29,2026-07-13,,,,,180.0,,2.0,30.0,,kg,0.5,Pongo,100
+2025,,Haricot vert semé sous abri Pongo S16,Sous abri,bed,Haricot,sowing,3.0,,2025-04-21,,2025-06-23,2025-07-14,,,,,60.0,,2.0,30.0,,kg,1.4,Pongo,100
+2026,,Haricot vert semé sous abri Pongo S16,Sous abri,bed,Haricot,sowing,3.0,,2026-04-20,,2026-06-22,2026-07-13,,,,,60.0,,2.0,30.0,,kg,1.4,Pongo,100
+2025,,Laitue cycle court été plein champ Batavia rouge Magenta S11,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-02-17,2025-03-17,2025-04-21,2025-05-05,,,,,2.4,,14.0,30.0,,unit,3.6,Batavia rouge Magenta,100
+2026,,Laitue cycle court été plein champ Batavia rouge Magenta S11,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-02-16,2026-03-16,2026-04-20,2026-05-04,,,,,2.4,,14.0,30.0,,unit,3.6,Batavia rouge Magenta,100
+2025,,Laitue cycle court été plein champ Batavia rouge Magenta S13,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-03-03,2025-03-31,2025-05-05,2025-05-19,,,,,2.4,,14.0,30.0,,unit,3.6,Batavia rouge Magenta,100
+2026,,Laitue cycle court été plein champ Batavia rouge Magenta S13,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-03-02,2026-03-30,2026-05-04,2026-05-18,,,,,2.4,,14.0,30.0,,unit,3.6,Batavia rouge Magenta,100
+2025,,Laitue cycle court été plein champ Batavia rouge Magenta S15,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-03-17,2025-04-14,2025-05-19,2025-06-02,,,,,2.4,,14.0,30.0,,unit,3.6,Batavia rouge Magenta,100
+2026,,Laitue cycle court été plein champ Batavia rouge Magenta S15,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-03-16,2026-04-13,2026-05-18,2026-06-01,,,,,2.4,,14.0,30.0,,unit,3.6,Batavia rouge Magenta,100
+2025,,Laitue cycle court été plein champ Batavia rouge Magenta S17,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-03-31,2025-04-28,2025-06-02,2025-06-16,,,,,2.4,,14.0,30.0,,unit,3.6,Batavia rouge Magenta,100
+2026,,Laitue cycle court été plein champ Batavia rouge Magenta S17,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-03-30,2026-04-27,2026-06-01,2026-06-15,,,,,2.4,,14.0,30.0,,unit,3.6,Batavia rouge Magenta,100
+2025,,Laitue cycle court été plein champ Batavia rouge Magenta S19,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-04-14,2025-05-12,2025-06-16,2025-06-30,,,,,2.4,,14.0,30.0,,unit,3.6,Batavia rouge Magenta,100
+2026,,Laitue cycle court été plein champ Batavia rouge Magenta S19,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-04-13,2026-05-11,2026-06-15,2026-06-29,,,,,2.4,,14.0,30.0,,unit,3.6,Batavia rouge Magenta,100
+2025,,Laitue cycle court été plein champ Batavia rouge Magenta S21,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-04-28,2025-05-26,2025-06-30,2025-07-14,,,,,2.4,,14.0,30.0,,unit,3.6,Batavia rouge Magenta,100
+2026,,Laitue cycle court été plein champ Batavia rouge Magenta S21,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-04-27,2026-05-25,2026-06-29,2026-07-13,,,,,2.4,,14.0,30.0,,unit,3.6,Batavia rouge Magenta,100
+2025,,Laitue cycle court été plein champ Batavia rouge Magenta S23,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-05-12,2025-06-09,2025-07-14,2025-07-28,,,,,2.4,,14.0,30.0,,unit,3.6,Batavia rouge Magenta,100
+2026,,Laitue cycle court été plein champ Batavia rouge Magenta S23,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-05-11,2026-06-08,2026-07-13,2026-07-27,,,,,2.4,,14.0,30.0,,unit,3.6,Batavia rouge Magenta,100
+2025,,Laitue cycle court été plein champ Batavia rouge Magenta S25,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-05-26,2025-06-23,2025-07-28,2025-08-11,,,,,2.4,,14.0,30.0,,unit,3.6,Batavia rouge Magenta,100
+2026,,Laitue cycle court été plein champ Batavia rouge Magenta S25,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-05-25,2026-06-22,2026-07-27,2026-08-10,,,,,2.4,,14.0,30.0,,unit,3.6,Batavia rouge Magenta,100
+2025,,Laitue cycle court été plein champ Batavia rouge Magenta S27,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-06-09,2025-07-07,2025-08-11,2025-08-25,,,,,2.4,,14.0,30.0,,unit,3.6,Batavia rouge Magenta,100
+2026,,Laitue cycle court été plein champ Batavia rouge Magenta S27,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-06-08,2026-07-06,2026-08-10,2026-08-24,,,,,2.4,,14.0,30.0,,unit,3.6,Batavia rouge Magenta,100
+2025,,Laitue cycle court été plein champ Batavia rouge Magenta S29,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-06-23,2025-07-21,2025-08-25,2025-09-08,,,,,2.4,,14.0,30.0,,unit,3.6,Batavia rouge Magenta,100
+2026,,Laitue cycle court été plein champ Batavia rouge Magenta S29,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-06-22,2026-07-20,2026-08-24,2026-09-07,,,,,2.4,,14.0,30.0,,unit,3.6,Batavia rouge Magenta,100
+2025,,Laitue cycle court été plein champ Batavia rouge Magenta S31,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-07-07,2025-08-04,2025-09-08,2025-09-22,,,,,2.4,,14.0,30.0,,unit,3.6,Batavia rouge Magenta,100
+2026,,Laitue cycle court été plein champ Batavia rouge Magenta S31,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-07-06,2026-08-03,2026-09-07,2026-09-21,,,,,2.4,,14.0,30.0,,unit,3.6,Batavia rouge Magenta,100
+2025,,Laitue cycle court été plein champ Batavia rouge Magenta S33,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-07-21,2025-08-18,2025-09-22,2025-10-06,,,,,2.4,,14.0,30.0,,unit,3.6,Batavia rouge Magenta,100
+2026,,Laitue cycle court été plein champ Batavia rouge Magenta S33,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-07-20,2026-08-17,2026-09-21,2026-10-05,,,,,2.4,,14.0,30.0,,unit,3.6,Batavia rouge Magenta,100
+2025,,Laitue cycle court été plein champ Batavia rouge Magenta S35,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-08-04,2025-09-01,2025-10-06,2025-10-20,,,,,2.4,,14.0,30.0,,unit,3.6,Batavia rouge Magenta,100
+2026,,Laitue cycle court été plein champ Batavia rouge Magenta S35,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-08-03,2026-08-31,2026-10-05,2026-10-19,,,,,2.4,,14.0,30.0,,unit,3.6,Batavia rouge Magenta,100
+2025,,Laitue cycle court été plein champ Batavia rouge Magenta S7,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-01-20,2025-02-17,2025-03-24,2025-04-07,,,,,2.4,,14.0,30.0,,unit,3.6,Batavia rouge Magenta,100
+2026,,Laitue cycle court été plein champ Batavia rouge Magenta S7,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-01-19,2026-02-16,2026-03-23,2026-04-06,,,,,2.4,,14.0,30.0,,unit,3.6,Batavia rouge Magenta,100
+2025,,Laitue cycle court été plein champ Batavia rouge Magenta S9,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-02-03,2025-03-03,2025-04-07,2025-04-21,,,,,2.4,,14.0,30.0,,unit,3.6,Batavia rouge Magenta,100
+2026,,Laitue cycle court été plein champ Batavia rouge Magenta S9,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-02-02,2026-03-02,2026-04-06,2026-04-20,,,,,2.4,,14.0,30.0,,unit,3.6,Batavia rouge Magenta,100
+2025,,Laitue cycle court été plein champ Batavia verte Amarosa S11,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-02-17,2025-03-17,2025-04-21,2025-05-05,,,,,2.1,,14.0,30.0,,unit,3.6,Batavia verte Amarosa,100
+2026,,Laitue cycle court été plein champ Batavia verte Amarosa S11,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-02-16,2026-03-16,2026-04-20,2026-05-04,,,,,2.1,,14.0,30.0,,unit,3.6,Batavia verte Amarosa,100
+2025,,Laitue cycle court été plein champ Batavia verte Amarosa S13,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-03-03,2025-03-31,2025-05-05,2025-05-19,,,,,2.1,,14.0,30.0,,unit,3.6,Batavia verte Amarosa,100
+2026,,Laitue cycle court été plein champ Batavia verte Amarosa S13,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-03-02,2026-03-30,2026-05-04,2026-05-18,,,,,2.1,,14.0,30.0,,unit,3.6,Batavia verte Amarosa,100
+2025,,Laitue cycle court été plein champ Batavia verte Amarosa S15,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-03-17,2025-04-14,2025-05-19,2025-06-02,,,,,2.1,,14.0,30.0,,unit,3.6,Batavia verte Amarosa,100
+2026,,Laitue cycle court été plein champ Batavia verte Amarosa S15,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-03-16,2026-04-13,2026-05-18,2026-06-01,,,,,2.1,,14.0,30.0,,unit,3.6,Batavia verte Amarosa,100
+2025,,Laitue cycle court été plein champ Batavia verte Amarosa S17,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-03-31,2025-04-28,2025-06-02,2025-06-16,,,,,2.1,,14.0,30.0,,unit,3.6,Batavia verte Amarosa,100
+2026,,Laitue cycle court été plein champ Batavia verte Amarosa S17,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-03-30,2026-04-27,2026-06-01,2026-06-15,,,,,2.1,,14.0,30.0,,unit,3.6,Batavia verte Amarosa,100
+2025,,Laitue cycle court été plein champ Batavia verte Amarosa S19,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-04-14,2025-05-12,2025-06-16,2025-06-30,,,,,2.1,,14.0,30.0,,unit,3.6,Batavia verte Amarosa,100
+2026,,Laitue cycle court été plein champ Batavia verte Amarosa S19,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-04-13,2026-05-11,2026-06-15,2026-06-29,,,,,2.1,,14.0,30.0,,unit,3.6,Batavia verte Amarosa,100
+2025,,Laitue cycle court été plein champ Batavia verte Amarosa S21,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-04-28,2025-05-26,2025-06-30,2025-07-14,,,,,2.1,,14.0,30.0,,unit,3.6,Batavia verte Amarosa,100
+2026,,Laitue cycle court été plein champ Batavia verte Amarosa S21,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-04-27,2026-05-25,2026-06-29,2026-07-13,,,,,2.1,,14.0,30.0,,unit,3.6,Batavia verte Amarosa,100
+2025,,Laitue cycle court été plein champ Batavia verte Amarosa S23,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-05-12,2025-06-09,2025-07-14,2025-07-28,,,,,2.1,,14.0,30.0,,unit,3.6,Batavia verte Amarosa,100
+2026,,Laitue cycle court été plein champ Batavia verte Amarosa S23,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-05-11,2026-06-08,2026-07-13,2026-07-27,,,,,2.1,,14.0,30.0,,unit,3.6,Batavia verte Amarosa,100
+2025,,Laitue cycle court été plein champ Batavia verte Amarosa S25,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-05-26,2025-06-23,2025-07-28,2025-08-11,,,,,2.1,,14.0,30.0,,unit,3.6,Batavia verte Amarosa,100
+2026,,Laitue cycle court été plein champ Batavia verte Amarosa S25,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-05-25,2026-06-22,2026-07-27,2026-08-10,,,,,2.1,,14.0,30.0,,unit,3.6,Batavia verte Amarosa,100
+2025,,Laitue cycle court été plein champ Batavia verte Amarosa S27,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-06-09,2025-07-07,2025-08-11,2025-08-25,,,,,2.1,,14.0,30.0,,unit,3.6,Batavia verte Amarosa,100
+2026,,Laitue cycle court été plein champ Batavia verte Amarosa S27,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-06-08,2026-07-06,2026-08-10,2026-08-24,,,,,2.1,,14.0,30.0,,unit,3.6,Batavia verte Amarosa,100
+2025,,Laitue cycle court été plein champ Batavia verte Amarosa S29,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-06-23,2025-07-21,2025-08-25,2025-09-08,,,,,2.1,,14.0,30.0,,unit,3.6,Batavia verte Amarosa,100
+2026,,Laitue cycle court été plein champ Batavia verte Amarosa S29,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-06-22,2026-07-20,2026-08-24,2026-09-07,,,,,2.1,,14.0,30.0,,unit,3.6,Batavia verte Amarosa,100
+2025,,Laitue cycle court été plein champ Batavia verte Amarosa S31,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-07-07,2025-08-04,2025-09-08,2025-09-22,,,,,2.1,,14.0,30.0,,unit,3.6,Batavia verte Amarosa,100
+2026,,Laitue cycle court été plein champ Batavia verte Amarosa S31,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-07-06,2026-08-03,2026-09-07,2026-09-21,,,,,2.1,,14.0,30.0,,unit,3.6,Batavia verte Amarosa,100
+2025,,Laitue cycle court été plein champ Batavia verte Amarosa S33,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-07-21,2025-08-18,2025-09-22,2025-10-06,,,,,2.1,,14.0,30.0,,unit,3.6,Batavia verte Amarosa,100
+2026,,Laitue cycle court été plein champ Batavia verte Amarosa S33,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-07-20,2026-08-17,2026-09-21,2026-10-05,,,,,2.1,,14.0,30.0,,unit,3.6,Batavia verte Amarosa,100
+2025,,Laitue cycle court été plein champ Batavia verte Amarosa S35,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-08-04,2025-09-01,2025-10-06,2025-10-20,,,,,2.1,,14.0,30.0,,unit,3.6,Batavia verte Amarosa,100
+2026,,Laitue cycle court été plein champ Batavia verte Amarosa S35,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-08-03,2026-08-31,2026-10-05,2026-10-19,,,,,2.1,,14.0,30.0,,unit,3.6,Batavia verte Amarosa,100
+2025,,Laitue cycle court été plein champ Batavia verte Amarosa S7,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-01-20,2025-02-17,2025-03-24,2025-04-07,,,,,2.1,,14.0,30.0,,unit,3.6,Batavia verte Amarosa,100
+2026,,Laitue cycle court été plein champ Batavia verte Amarosa S7,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-01-19,2026-02-16,2026-03-23,2026-04-06,,,,,2.1,,14.0,30.0,,unit,3.6,Batavia verte Amarosa,100
+2025,,Laitue cycle court été plein champ Batavia verte Amarosa S9,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-02-03,2025-03-03,2025-04-07,2025-04-21,,,,,2.1,,14.0,30.0,,unit,3.6,Batavia verte Amarosa,100
+2026,,Laitue cycle court été plein champ Batavia verte Amarosa S9,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-02-02,2026-03-02,2026-04-06,2026-04-20,,,,,2.1,,14.0,30.0,,unit,3.6,Batavia verte Amarosa,100
+2025,,Laitue cycle court été plein champ Cogueta S11,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-02-17,2025-03-17,2025-04-21,2025-05-05,,,,,2.1,,14.0,30.0,,unit,3.6,Cogueta,100
+2026,,Laitue cycle court été plein champ Cogueta S11,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-02-16,2026-03-16,2026-04-20,2026-05-04,,,,,2.1,,14.0,30.0,,unit,3.6,Cogueta,100
+2025,,Laitue cycle court été plein champ Cogueta S13,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-03-03,2025-03-31,2025-05-05,2025-05-19,,,,,2.1,,14.0,30.0,,unit,3.6,Cogueta,100
+2026,,Laitue cycle court été plein champ Cogueta S13,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-03-02,2026-03-30,2026-05-04,2026-05-18,,,,,2.1,,14.0,30.0,,unit,3.6,Cogueta,100
+2025,,Laitue cycle court été plein champ Cogueta S15,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-03-17,2025-04-14,2025-05-19,2025-06-02,,,,,2.1,,14.0,30.0,,unit,3.6,Cogueta,100
+2026,,Laitue cycle court été plein champ Cogueta S15,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-03-16,2026-04-13,2026-05-18,2026-06-01,,,,,2.1,,14.0,30.0,,unit,3.6,Cogueta,100
+2025,,Laitue cycle court été plein champ Cogueta S17,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-03-31,2025-04-28,2025-06-02,2025-06-16,,,,,2.1,,14.0,30.0,,unit,3.6,Cogueta,100
+2026,,Laitue cycle court été plein champ Cogueta S17,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-03-30,2026-04-27,2026-06-01,2026-06-15,,,,,2.1,,14.0,30.0,,unit,3.6,Cogueta,100
+2025,,Laitue cycle court été plein champ Cogueta S19,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-04-14,2025-05-12,2025-06-16,2025-06-30,,,,,2.1,,14.0,30.0,,unit,3.6,Cogueta,100
+2026,,Laitue cycle court été plein champ Cogueta S19,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-04-13,2026-05-11,2026-06-15,2026-06-29,,,,,2.1,,14.0,30.0,,unit,3.6,Cogueta,100
+2025,,Laitue cycle court été plein champ Cogueta S21,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-04-28,2025-05-26,2025-06-30,2025-07-14,,,,,2.1,,14.0,30.0,,unit,3.6,Cogueta,100
+2026,,Laitue cycle court été plein champ Cogueta S21,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-04-27,2026-05-25,2026-06-29,2026-07-13,,,,,2.1,,14.0,30.0,,unit,3.6,Cogueta,100
+2025,,Laitue cycle court été plein champ Cogueta S23,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-05-12,2025-06-09,2025-07-14,2025-07-28,,,,,2.1,,14.0,30.0,,unit,3.6,Cogueta,100
+2026,,Laitue cycle court été plein champ Cogueta S23,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-05-11,2026-06-08,2026-07-13,2026-07-27,,,,,2.1,,14.0,30.0,,unit,3.6,Cogueta,100
+2025,,Laitue cycle court été plein champ Cogueta S25,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-05-26,2025-06-23,2025-07-28,2025-08-11,,,,,2.1,,14.0,30.0,,unit,3.6,Cogueta,100
+2026,,Laitue cycle court été plein champ Cogueta S25,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-05-25,2026-06-22,2026-07-27,2026-08-10,,,,,2.1,,14.0,30.0,,unit,3.6,Cogueta,100
+2025,,Laitue cycle court été plein champ Cogueta S27,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-06-09,2025-07-07,2025-08-11,2025-08-25,,,,,2.1,,14.0,30.0,,unit,3.6,Cogueta,100
+2026,,Laitue cycle court été plein champ Cogueta S27,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-06-08,2026-07-06,2026-08-10,2026-08-24,,,,,2.1,,14.0,30.0,,unit,3.6,Cogueta,100
+2025,,Laitue cycle court été plein champ Cogueta S29,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-06-23,2025-07-21,2025-08-25,2025-09-08,,,,,2.1,,14.0,30.0,,unit,3.6,Cogueta,100
+2026,,Laitue cycle court été plein champ Cogueta S29,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-06-22,2026-07-20,2026-08-24,2026-09-07,,,,,2.1,,14.0,30.0,,unit,3.6,Cogueta,100
+2025,,Laitue cycle court été plein champ Cogueta S31,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-07-07,2025-08-04,2025-09-08,2025-09-22,,,,,2.1,,14.0,30.0,,unit,3.6,Cogueta,100
+2026,,Laitue cycle court été plein champ Cogueta S31,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-07-06,2026-08-03,2026-09-07,2026-09-21,,,,,2.1,,14.0,30.0,,unit,3.6,Cogueta,100
+2025,,Laitue cycle court été plein champ Cogueta S33,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-07-21,2025-08-18,2025-09-22,2025-10-06,,,,,2.1,,14.0,30.0,,unit,3.6,Cogueta,100
+2026,,Laitue cycle court été plein champ Cogueta S33,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-07-20,2026-08-17,2026-09-21,2026-10-05,,,,,2.1,,14.0,30.0,,unit,3.6,Cogueta,100
+2025,,Laitue cycle court été plein champ Cogueta S35,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-08-04,2025-09-01,2025-10-06,2025-10-20,,,,,2.1,,14.0,30.0,,unit,3.6,Cogueta,100
+2026,,Laitue cycle court été plein champ Cogueta S35,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-08-03,2026-08-31,2026-10-05,2026-10-19,,,,,2.1,,14.0,30.0,,unit,3.6,Cogueta,100
+2025,,Laitue cycle court été plein champ Cogueta S7,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-01-20,2025-02-17,2025-03-24,2025-04-07,,,,,2.1,,14.0,30.0,,unit,3.6,Cogueta,100
+2026,,Laitue cycle court été plein champ Cogueta S7,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-01-19,2026-02-16,2026-03-23,2026-04-06,,,,,2.1,,14.0,30.0,,unit,3.6,Cogueta,100
+2025,,Laitue cycle court été plein champ Cogueta S9,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-02-03,2025-03-03,2025-04-07,2025-04-21,,,,,2.1,,14.0,30.0,,unit,3.6,Cogueta,100
+2026,,Laitue cycle court été plein champ Cogueta S9,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-02-02,2026-03-02,2026-04-06,2026-04-20,,,,,2.1,,14.0,30.0,,unit,3.6,Cogueta,100
+2025,,Laitue cycle court été plein champ Feuille de chêne rouge Alonix S11,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-02-17,2025-03-17,2025-04-21,2025-05-05,,,,,2.8,,14.0,30.0,,unit,3.6,Feuille de chêne rouge Alonix,100
+2026,,Laitue cycle court été plein champ Feuille de chêne rouge Alonix S11,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-02-16,2026-03-16,2026-04-20,2026-05-04,,,,,2.8,,14.0,30.0,,unit,3.6,Feuille de chêne rouge Alonix,100
+2025,,Laitue cycle court été plein champ Feuille de chêne rouge Alonix S13,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-03-03,2025-03-31,2025-05-05,2025-05-19,,,,,2.8,,14.0,30.0,,unit,3.6,Feuille de chêne rouge Alonix,100
+2026,,Laitue cycle court été plein champ Feuille de chêne rouge Alonix S13,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-03-02,2026-03-30,2026-05-04,2026-05-18,,,,,2.8,,14.0,30.0,,unit,3.6,Feuille de chêne rouge Alonix,100
+2025,,Laitue cycle court été plein champ Feuille de chêne rouge Alonix S15,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-03-17,2025-04-14,2025-05-19,2025-06-02,,,,,2.8,,14.0,30.0,,unit,3.6,Feuille de chêne rouge Alonix,100
+2026,,Laitue cycle court été plein champ Feuille de chêne rouge Alonix S15,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-03-16,2026-04-13,2026-05-18,2026-06-01,,,,,2.8,,14.0,30.0,,unit,3.6,Feuille de chêne rouge Alonix,100
+2025,,Laitue cycle court été plein champ Feuille de chêne rouge Alonix S17,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-03-31,2025-04-28,2025-06-02,2025-06-16,,,,,2.8,,14.0,30.0,,unit,3.6,Feuille de chêne rouge Alonix,100
+2026,,Laitue cycle court été plein champ Feuille de chêne rouge Alonix S17,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-03-30,2026-04-27,2026-06-01,2026-06-15,,,,,2.8,,14.0,30.0,,unit,3.6,Feuille de chêne rouge Alonix,100
+2025,,Laitue cycle court été plein champ Feuille de chêne rouge Alonix S19,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-04-14,2025-05-12,2025-06-16,2025-06-30,,,,,2.8,,14.0,30.0,,unit,3.6,Feuille de chêne rouge Alonix,100
+2026,,Laitue cycle court été plein champ Feuille de chêne rouge Alonix S19,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-04-13,2026-05-11,2026-06-15,2026-06-29,,,,,2.8,,14.0,30.0,,unit,3.6,Feuille de chêne rouge Alonix,100
+2025,,Laitue cycle court été plein champ Feuille de chêne rouge Alonix S21,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-04-28,2025-05-26,2025-06-30,2025-07-14,,,,,1.4,,14.0,30.0,,unit,3.6,Feuille de chêne rouge Alonix,100
+2026,,Laitue cycle court été plein champ Feuille de chêne rouge Alonix S21,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-04-27,2026-05-25,2026-06-29,2026-07-13,,,,,1.4,,14.0,30.0,,unit,3.6,Feuille de chêne rouge Alonix,100
+2025,,Laitue cycle court été plein champ Feuille de chêne rouge Alonix S23,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-05-12,2025-06-09,2025-07-14,2025-07-28,,,,,1.4,,14.0,30.0,,unit,3.6,Feuille de chêne rouge Alonix,100
+2026,,Laitue cycle court été plein champ Feuille de chêne rouge Alonix S23,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-05-11,2026-06-08,2026-07-13,2026-07-27,,,,,1.4,,14.0,30.0,,unit,3.6,Feuille de chêne rouge Alonix,100
+2025,,Laitue cycle court été plein champ Feuille de chêne rouge Alonix S25,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-05-26,2025-06-23,2025-07-28,2025-08-11,,,,,1.4,,14.0,30.0,,unit,3.6,Feuille de chêne rouge Alonix,100
+2026,,Laitue cycle court été plein champ Feuille de chêne rouge Alonix S25,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-05-25,2026-06-22,2026-07-27,2026-08-10,,,,,1.4,,14.0,30.0,,unit,3.6,Feuille de chêne rouge Alonix,100
+2025,,Laitue cycle court été plein champ Feuille de chêne rouge Alonix S27,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-06-09,2025-07-07,2025-08-11,2025-08-25,,,,,1.4,,14.0,30.0,,unit,3.6,Feuille de chêne rouge Alonix,100
+2026,,Laitue cycle court été plein champ Feuille de chêne rouge Alonix S27,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-06-08,2026-07-06,2026-08-10,2026-08-24,,,,,1.4,,14.0,30.0,,unit,3.6,Feuille de chêne rouge Alonix,100
+2025,,Laitue cycle court été plein champ Feuille de chêne rouge Alonix S29,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-06-23,2025-07-21,2025-08-25,2025-09-08,,,,,1.4,,14.0,30.0,,unit,3.6,Feuille de chêne rouge Alonix,100
+2026,,Laitue cycle court été plein champ Feuille de chêne rouge Alonix S29,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-06-22,2026-07-20,2026-08-24,2026-09-07,,,,,1.4,,14.0,30.0,,unit,3.6,Feuille de chêne rouge Alonix,100
+2025,,Laitue cycle court été plein champ Feuille de chêne rouge Alonix S31,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-07-07,2025-08-04,2025-09-08,2025-09-22,,,,,1.4,,14.0,30.0,,unit,3.6,Feuille de chêne rouge Alonix,100
+2026,,Laitue cycle court été plein champ Feuille de chêne rouge Alonix S31,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-07-06,2026-08-03,2026-09-07,2026-09-21,,,,,1.4,,14.0,30.0,,unit,3.6,Feuille de chêne rouge Alonix,100
+2025,,Laitue cycle court été plein champ Feuille de chêne rouge Alonix S33,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-07-21,2025-08-18,2025-09-22,2025-10-06,,,,,1.4,,14.0,30.0,,unit,3.6,Feuille de chêne rouge Alonix,100
+2026,,Laitue cycle court été plein champ Feuille de chêne rouge Alonix S33,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-07-20,2026-08-17,2026-09-21,2026-10-05,,,,,1.4,,14.0,30.0,,unit,3.6,Feuille de chêne rouge Alonix,100
+2025,,Laitue cycle court été plein champ Feuille de chêne rouge Alonix S35,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-08-04,2025-09-01,2025-10-06,2025-10-20,,,,,2.8,,14.0,30.0,,unit,3.6,Feuille de chêne rouge Alonix,100
+2026,,Laitue cycle court été plein champ Feuille de chêne rouge Alonix S35,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-08-03,2026-08-31,2026-10-05,2026-10-19,,,,,2.8,,14.0,30.0,,unit,3.6,Feuille de chêne rouge Alonix,100
+2025,,Laitue cycle court été plein champ Feuille de chêne rouge Alonix S7,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-01-20,2025-02-17,2025-03-24,2025-04-07,,,,,2.8,,14.0,30.0,,unit,3.6,Feuille de chêne rouge Alonix,100
+2026,,Laitue cycle court été plein champ Feuille de chêne rouge Alonix S7,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-01-19,2026-02-16,2026-03-23,2026-04-06,,,,,2.8,,14.0,30.0,,unit,3.6,Feuille de chêne rouge Alonix,100
+2025,,Laitue cycle court été plein champ Feuille de chêne rouge Alonix S9,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-02-03,2025-03-03,2025-04-07,2025-04-21,,,,,2.8,,14.0,30.0,,unit,3.6,Feuille de chêne rouge Alonix,100
+2026,,Laitue cycle court été plein champ Feuille de chêne rouge Alonix S9,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-02-02,2026-03-02,2026-04-06,2026-04-20,,,,,2.8,,14.0,30.0,,unit,3.6,Feuille de chêne rouge Alonix,100
+2025,,Laitue cycle court été plein champ Feuille de chêne rouge Azerix S21,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-04-28,2025-05-26,2025-06-30,2025-07-14,,,,,1.4,,14.0,30.0,,unit,3.6,Feuille de chêne rouge Azerix,100
+2026,,Laitue cycle court été plein champ Feuille de chêne rouge Azerix S21,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-04-27,2026-05-25,2026-06-29,2026-07-13,,,,,1.4,,14.0,30.0,,unit,3.6,Feuille de chêne rouge Azerix,100
+2025,,Laitue cycle court été plein champ Feuille de chêne rouge Azerix S23,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-05-12,2025-06-09,2025-07-14,2025-07-28,,,,,1.4,,14.0,30.0,,unit,3.6,Feuille de chêne rouge Azerix,100
+2026,,Laitue cycle court été plein champ Feuille de chêne rouge Azerix S23,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-05-11,2026-06-08,2026-07-13,2026-07-27,,,,,1.4,,14.0,30.0,,unit,3.6,Feuille de chêne rouge Azerix,100
+2025,,Laitue cycle court été plein champ Feuille de chêne rouge Azerix S25,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-05-26,2025-06-23,2025-07-28,2025-08-11,,,,,1.4,,14.0,30.0,,unit,3.6,Feuille de chêne rouge Azerix,100
+2026,,Laitue cycle court été plein champ Feuille de chêne rouge Azerix S25,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-05-25,2026-06-22,2026-07-27,2026-08-10,,,,,1.4,,14.0,30.0,,unit,3.6,Feuille de chêne rouge Azerix,100
+2025,,Laitue cycle court été plein champ Feuille de chêne rouge Azerix S27,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-06-09,2025-07-07,2025-08-11,2025-08-25,,,,,1.4,,14.0,30.0,,unit,3.6,Feuille de chêne rouge Azerix,100
+2026,,Laitue cycle court été plein champ Feuille de chêne rouge Azerix S27,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-06-08,2026-07-06,2026-08-10,2026-08-24,,,,,1.4,,14.0,30.0,,unit,3.6,Feuille de chêne rouge Azerix,100
+2025,,Laitue cycle court été plein champ Feuille de chêne rouge Azerix S29,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-06-23,2025-07-21,2025-08-25,2025-09-08,,,,,1.4,,14.0,30.0,,unit,3.6,Feuille de chêne rouge Azerix,100
+2026,,Laitue cycle court été plein champ Feuille de chêne rouge Azerix S29,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-06-22,2026-07-20,2026-08-24,2026-09-07,,,,,1.4,,14.0,30.0,,unit,3.6,Feuille de chêne rouge Azerix,100
+2025,,Laitue cycle court été plein champ Feuille de chêne rouge Azerix S31,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-07-07,2025-08-04,2025-09-08,2025-09-22,,,,,1.4,,14.0,30.0,,unit,3.6,Feuille de chêne rouge Azerix,100
+2026,,Laitue cycle court été plein champ Feuille de chêne rouge Azerix S31,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-07-06,2026-08-03,2026-09-07,2026-09-21,,,,,1.4,,14.0,30.0,,unit,3.6,Feuille de chêne rouge Azerix,100
+2025,,Laitue cycle court été plein champ Feuille de chêne rouge Azerix S33,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-07-21,2025-08-18,2025-09-22,2025-10-06,,,,,1.4,,14.0,30.0,,unit,3.6,Feuille de chêne rouge Azerix,100
+2026,,Laitue cycle court été plein champ Feuille de chêne rouge Azerix S33,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-07-20,2026-08-17,2026-09-21,2026-10-05,,,,,1.4,,14.0,30.0,,unit,3.6,Feuille de chêne rouge Azerix,100
+2025,,Laitue cycle court été plein champ Feuille de chêne verte Floranice S19,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-04-14,2025-05-12,2025-06-16,2025-06-30,,,,,3.4,,14.0,30.0,,unit,3.6,Feuille de chêne verte Floranice,100
+2026,,Laitue cycle court été plein champ Feuille de chêne verte Floranice S19,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-04-13,2026-05-11,2026-06-15,2026-06-29,,,,,3.4,,14.0,30.0,,unit,3.6,Feuille de chêne verte Floranice,100
+2025,,Laitue cycle court été plein champ Feuille de chêne verte Floranice S21,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-04-28,2025-05-26,2025-06-30,2025-07-14,,,,,3.4,,14.0,30.0,,unit,3.6,Feuille de chêne verte Floranice,100
+2026,,Laitue cycle court été plein champ Feuille de chêne verte Floranice S21,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-04-27,2026-05-25,2026-06-29,2026-07-13,,,,,3.4,,14.0,30.0,,unit,3.6,Feuille de chêne verte Floranice,100
+2025,,Laitue cycle court été plein champ Feuille de chêne verte Floranice S23,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-05-12,2025-06-09,2025-07-14,2025-07-28,,,,,3.4,,14.0,30.0,,unit,3.6,Feuille de chêne verte Floranice,100
+2026,,Laitue cycle court été plein champ Feuille de chêne verte Floranice S23,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-05-11,2026-06-08,2026-07-13,2026-07-27,,,,,3.4,,14.0,30.0,,unit,3.6,Feuille de chêne verte Floranice,100
+2025,,Laitue cycle court été plein champ Feuille de chêne verte Floranice S25,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-05-26,2025-06-23,2025-07-28,2025-08-11,,,,,3.4,,14.0,30.0,,unit,3.6,Feuille de chêne verte Floranice,100
+2026,,Laitue cycle court été plein champ Feuille de chêne verte Floranice S25,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-05-25,2026-06-22,2026-07-27,2026-08-10,,,,,3.4,,14.0,30.0,,unit,3.6,Feuille de chêne verte Floranice,100
+2025,,Laitue cycle court été plein champ Feuille de chêne verte Floranice S27,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-06-09,2025-07-07,2025-08-11,2025-08-25,,,,,3.4,,14.0,30.0,,unit,3.6,Feuille de chêne verte Floranice,100
+2026,,Laitue cycle court été plein champ Feuille de chêne verte Floranice S27,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-06-08,2026-07-06,2026-08-10,2026-08-24,,,,,3.4,,14.0,30.0,,unit,3.6,Feuille de chêne verte Floranice,100
+2025,,Laitue cycle court été plein champ Feuille de chêne verte Floranice S29,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-06-23,2025-07-21,2025-08-25,2025-09-08,,,,,3.4,,14.0,30.0,,unit,3.6,Feuille de chêne verte Floranice,100
+2026,,Laitue cycle court été plein champ Feuille de chêne verte Floranice S29,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-06-22,2026-07-20,2026-08-24,2026-09-07,,,,,3.4,,14.0,30.0,,unit,3.6,Feuille de chêne verte Floranice,100
+2025,,Laitue cycle court été plein champ Feuille de chêne verte Floranice S31,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-07-07,2025-08-04,2025-09-08,2025-09-22,,,,,3.4,,14.0,30.0,,unit,3.6,Feuille de chêne verte Floranice,100
+2026,,Laitue cycle court été plein champ Feuille de chêne verte Floranice S31,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-07-06,2026-08-03,2026-09-07,2026-09-21,,,,,3.4,,14.0,30.0,,unit,3.6,Feuille de chêne verte Floranice,100
+2025,,Laitue cycle court été plein champ Feuille de chêne verte Floranice S33,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-07-21,2025-08-18,2025-09-22,2025-10-06,,,,,3.4,,14.0,30.0,,unit,3.6,Feuille de chêne verte Floranice,100
+2026,,Laitue cycle court été plein champ Feuille de chêne verte Floranice S33,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-07-20,2026-08-17,2026-09-21,2026-10-05,,,,,3.4,,14.0,30.0,,unit,3.6,Feuille de chêne verte Floranice,100
+2025,,Laitue cycle court été plein champ Feuille de chêne verte Lenir S11,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-02-17,2025-03-17,2025-04-21,2025-05-05,,,,,3.4,,14.0,30.0,,unit,3.6,Feuille de chêne verte Lenir,100
+2026,,Laitue cycle court été plein champ Feuille de chêne verte Lenir S11,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-02-16,2026-03-16,2026-04-20,2026-05-04,,,,,3.4,,14.0,30.0,,unit,3.6,Feuille de chêne verte Lenir,100
+2025,,Laitue cycle court été plein champ Feuille de chêne verte Lenir S13,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-03-03,2025-03-31,2025-05-05,2025-05-19,,,,,3.4,,14.0,30.0,,unit,3.6,Feuille de chêne verte Lenir,100
+2026,,Laitue cycle court été plein champ Feuille de chêne verte Lenir S13,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-03-02,2026-03-30,2026-05-04,2026-05-18,,,,,3.4,,14.0,30.0,,unit,3.6,Feuille de chêne verte Lenir,100
+2025,,Laitue cycle court été plein champ Feuille de chêne verte Lenir S15,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-03-17,2025-04-14,2025-05-19,2025-06-02,,,,,3.4,,14.0,30.0,,unit,3.6,Feuille de chêne verte Lenir,100
+2026,,Laitue cycle court été plein champ Feuille de chêne verte Lenir S15,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-03-16,2026-04-13,2026-05-18,2026-06-01,,,,,3.4,,14.0,30.0,,unit,3.6,Feuille de chêne verte Lenir,100
+2025,,Laitue cycle court été plein champ Feuille de chêne verte Lenir S17,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-03-31,2025-04-28,2025-06-02,2025-06-16,,,,,3.4,,14.0,30.0,,unit,3.6,Feuille de chêne verte Lenir,100
+2026,,Laitue cycle court été plein champ Feuille de chêne verte Lenir S17,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-03-30,2026-04-27,2026-06-01,2026-06-15,,,,,3.4,,14.0,30.0,,unit,3.6,Feuille de chêne verte Lenir,100
+2025,,Laitue cycle court été plein champ Feuille de chêne verte Lenir S35,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-08-04,2025-09-01,2025-10-06,2025-10-20,,,,,3.4,,14.0,30.0,,unit,3.6,Feuille de chêne verte Lenir,100
+2026,,Laitue cycle court été plein champ Feuille de chêne verte Lenir S35,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-08-03,2026-08-31,2026-10-05,2026-10-19,,,,,3.4,,14.0,30.0,,unit,3.6,Feuille de chêne verte Lenir,100
+2025,,Laitue cycle court été plein champ Feuille de chêne verte Lenir S7,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-01-20,2025-02-17,2025-03-24,2025-04-07,,,,,3.4,,14.0,30.0,,unit,3.6,Feuille de chêne verte Lenir,100
+2026,,Laitue cycle court été plein champ Feuille de chêne verte Lenir S7,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-01-19,2026-02-16,2026-03-23,2026-04-06,,,,,3.4,,14.0,30.0,,unit,3.6,Feuille de chêne verte Lenir,100
+2025,,Laitue cycle court été plein champ Feuille de chêne verte Lenir S9,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-02-03,2025-03-03,2025-04-07,2025-04-21,,,,,3.4,,14.0,30.0,,unit,3.6,Feuille de chêne verte Lenir,100
+2026,,Laitue cycle court été plein champ Feuille de chêne verte Lenir S9,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-02-02,2026-03-02,2026-04-06,2026-04-20,,,,,3.4,,14.0,30.0,,unit,3.6,Feuille de chêne verte Lenir,100
+2025,,Laitue cycle court été plein champ Laitue verte Vilandry S11,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-02-17,2025-03-17,2025-04-21,2025-05-05,,,,,4.1,,14.0,30.0,,unit,3.6,Laitue verte Vilandry,100
+2026,,Laitue cycle court été plein champ Laitue verte Vilandry S11,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-02-16,2026-03-16,2026-04-20,2026-05-04,,,,,4.1,,14.0,30.0,,unit,3.6,Laitue verte Vilandry,100
+2025,,Laitue cycle court été plein champ Laitue verte Vilandry S13,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-03-03,2025-03-31,2025-05-05,2025-05-19,,,,,4.1,,14.0,30.0,,unit,3.6,Laitue verte Vilandry,100
+2026,,Laitue cycle court été plein champ Laitue verte Vilandry S13,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-03-02,2026-03-30,2026-05-04,2026-05-18,,,,,4.1,,14.0,30.0,,unit,3.6,Laitue verte Vilandry,100
+2025,,Laitue cycle court été plein champ Laitue verte Vilandry S15,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-03-17,2025-04-14,2025-05-19,2025-06-02,,,,,4.1,,14.0,30.0,,unit,3.6,Laitue verte Vilandry,100
+2026,,Laitue cycle court été plein champ Laitue verte Vilandry S15,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-03-16,2026-04-13,2026-05-18,2026-06-01,,,,,4.1,,14.0,30.0,,unit,3.6,Laitue verte Vilandry,100
+2025,,Laitue cycle court été plein champ Laitue verte Vilandry S17,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-03-31,2025-04-28,2025-06-02,2025-06-16,,,,,4.1,,14.0,30.0,,unit,3.6,Laitue verte Vilandry,100
+2026,,Laitue cycle court été plein champ Laitue verte Vilandry S17,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-03-30,2026-04-27,2026-06-01,2026-06-15,,,,,4.1,,14.0,30.0,,unit,3.6,Laitue verte Vilandry,100
+2025,,Laitue cycle court été plein champ Laitue verte Vilandry S19,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-04-14,2025-05-12,2025-06-16,2025-06-30,,,,,4.1,,14.0,30.0,,unit,3.6,Laitue verte Vilandry,100
+2026,,Laitue cycle court été plein champ Laitue verte Vilandry S19,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-04-13,2026-05-11,2026-06-15,2026-06-29,,,,,4.1,,14.0,30.0,,unit,3.6,Laitue verte Vilandry,100
+2025,,Laitue cycle court été plein champ Laitue verte Vilandry S21,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-04-28,2025-05-26,2025-06-30,2025-07-14,,,,,4.1,,14.0,30.0,,unit,3.6,Laitue verte Vilandry,100
+2026,,Laitue cycle court été plein champ Laitue verte Vilandry S21,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-04-27,2026-05-25,2026-06-29,2026-07-13,,,,,4.1,,14.0,30.0,,unit,3.6,Laitue verte Vilandry,100
+2025,,Laitue cycle court été plein champ Laitue verte Vilandry S23,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-05-12,2025-06-09,2025-07-14,2025-07-28,,,,,4.1,,14.0,30.0,,unit,3.6,Laitue verte Vilandry,100
+2026,,Laitue cycle court été plein champ Laitue verte Vilandry S23,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-05-11,2026-06-08,2026-07-13,2026-07-27,,,,,4.1,,14.0,30.0,,unit,3.6,Laitue verte Vilandry,100
+2025,,Laitue cycle court été plein champ Laitue verte Vilandry S25,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-05-26,2025-06-23,2025-07-28,2025-08-11,,,,,4.1,,14.0,30.0,,unit,3.6,Laitue verte Vilandry,100
+2026,,Laitue cycle court été plein champ Laitue verte Vilandry S25,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-05-25,2026-06-22,2026-07-27,2026-08-10,,,,,4.1,,14.0,30.0,,unit,3.6,Laitue verte Vilandry,100
+2025,,Laitue cycle court été plein champ Laitue verte Vilandry S27,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-06-09,2025-07-07,2025-08-11,2025-08-25,,,,,4.1,,14.0,30.0,,unit,3.6,Laitue verte Vilandry,100
+2026,,Laitue cycle court été plein champ Laitue verte Vilandry S27,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-06-08,2026-07-06,2026-08-10,2026-08-24,,,,,4.1,,14.0,30.0,,unit,3.6,Laitue verte Vilandry,100
+2025,,Laitue cycle court été plein champ Laitue verte Vilandry S29,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-06-23,2025-07-21,2025-08-25,2025-09-08,,,,,4.1,,14.0,30.0,,unit,3.6,Laitue verte Vilandry,100
+2026,,Laitue cycle court été plein champ Laitue verte Vilandry S29,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-06-22,2026-07-20,2026-08-24,2026-09-07,,,,,4.1,,14.0,30.0,,unit,3.6,Laitue verte Vilandry,100
+2025,,Laitue cycle court été plein champ Laitue verte Vilandry S31,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-07-07,2025-08-04,2025-09-08,2025-09-22,,,,,4.1,,14.0,30.0,,unit,3.6,Laitue verte Vilandry,100
+2026,,Laitue cycle court été plein champ Laitue verte Vilandry S31,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-07-06,2026-08-03,2026-09-07,2026-09-21,,,,,4.1,,14.0,30.0,,unit,3.6,Laitue verte Vilandry,100
+2025,,Laitue cycle court été plein champ Laitue verte Vilandry S33,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-07-21,2025-08-18,2025-09-22,2025-10-06,,,,,4.1,,14.0,30.0,,unit,3.6,Laitue verte Vilandry,100
+2026,,Laitue cycle court été plein champ Laitue verte Vilandry S33,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-07-20,2026-08-17,2026-09-21,2026-10-05,,,,,4.1,,14.0,30.0,,unit,3.6,Laitue verte Vilandry,100
+2025,,Laitue cycle court été plein champ Laitue verte Vilandry S35,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-08-04,2025-09-01,2025-10-06,2025-10-20,,,,,4.1,,14.0,30.0,,unit,3.6,Laitue verte Vilandry,100
+2026,,Laitue cycle court été plein champ Laitue verte Vilandry S35,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-08-03,2026-08-31,2026-10-05,2026-10-19,,,,,4.1,,14.0,30.0,,unit,3.6,Laitue verte Vilandry,100
+2025,,Laitue cycle court été plein champ Laitue verte Vilandry S7,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-01-20,2025-02-17,2025-03-24,2025-04-07,,,,,4.1,,14.0,30.0,,unit,3.6,Laitue verte Vilandry,100
+2026,,Laitue cycle court été plein champ Laitue verte Vilandry S7,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-01-19,2026-02-16,2026-03-23,2026-04-06,,,,,4.1,,14.0,30.0,,unit,3.6,Laitue verte Vilandry,100
+2025,,Laitue cycle court été plein champ Laitue verte Vilandry S9,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-02-03,2025-03-03,2025-04-07,2025-04-21,,,,,4.1,,14.0,30.0,,unit,3.6,Laitue verte Vilandry,100
+2026,,Laitue cycle court été plein champ Laitue verte Vilandry S9,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-02-02,2026-03-02,2026-04-06,2026-04-20,,,,,4.1,,14.0,30.0,,unit,3.6,Laitue verte Vilandry,100
+2025,,Laitue cycle court été plein champ Rougette Ketale S11,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-02-17,2025-03-17,2025-04-21,2025-05-05,,,,,4.5,,14.0,30.0,,unit,3.6,Rougette Ketale,100
+2026,,Laitue cycle court été plein champ Rougette Ketale S11,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-02-16,2026-03-16,2026-04-20,2026-05-04,,,,,4.5,,14.0,30.0,,unit,3.6,Rougette Ketale,100
+2025,,Laitue cycle court été plein champ Rougette Ketale S13,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-03-03,2025-03-31,2025-05-05,2025-05-19,,,,,4.5,,14.0,30.0,,unit,3.6,Rougette Ketale,100
+2026,,Laitue cycle court été plein champ Rougette Ketale S13,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-03-02,2026-03-30,2026-05-04,2026-05-18,,,,,4.5,,14.0,30.0,,unit,3.6,Rougette Ketale,100
+2025,,Laitue cycle court été plein champ Rougette Ketale S15,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-03-17,2025-04-14,2025-05-19,2025-06-02,,,,,4.5,,14.0,30.0,,unit,3.6,Rougette Ketale,100
+2026,,Laitue cycle court été plein champ Rougette Ketale S15,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-03-16,2026-04-13,2026-05-18,2026-06-01,,,,,4.5,,14.0,30.0,,unit,3.6,Rougette Ketale,100
+2025,,Laitue cycle court été plein champ Rougette Ketale S17,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-03-31,2025-04-28,2025-06-02,2025-06-16,,,,,4.5,,14.0,30.0,,unit,3.6,Rougette Ketale,100
+2026,,Laitue cycle court été plein champ Rougette Ketale S17,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-03-30,2026-04-27,2026-06-01,2026-06-15,,,,,4.5,,14.0,30.0,,unit,3.6,Rougette Ketale,100
+2025,,Laitue cycle court été plein champ Rougette Ketale S19,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-04-14,2025-05-12,2025-06-16,2025-06-30,,,,,4.5,,14.0,30.0,,unit,3.6,Rougette Ketale,100
+2026,,Laitue cycle court été plein champ Rougette Ketale S19,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-04-13,2026-05-11,2026-06-15,2026-06-29,,,,,4.5,,14.0,30.0,,unit,3.6,Rougette Ketale,100
+2025,,Laitue cycle court été plein champ Rougette Ketale S21,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-04-28,2025-05-26,2025-06-30,2025-07-14,,,,,4.5,,14.0,30.0,,unit,3.6,Rougette Ketale,100
+2026,,Laitue cycle court été plein champ Rougette Ketale S21,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-04-27,2026-05-25,2026-06-29,2026-07-13,,,,,4.5,,14.0,30.0,,unit,3.6,Rougette Ketale,100
+2025,,Laitue cycle court été plein champ Rougette Ketale S23,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-05-12,2025-06-09,2025-07-14,2025-07-28,,,,,4.5,,14.0,30.0,,unit,3.6,Rougette Ketale,100
+2026,,Laitue cycle court été plein champ Rougette Ketale S23,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-05-11,2026-06-08,2026-07-13,2026-07-27,,,,,4.5,,14.0,30.0,,unit,3.6,Rougette Ketale,100
+2025,,Laitue cycle court été plein champ Rougette Ketale S25,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-05-26,2025-06-23,2025-07-28,2025-08-11,,,,,4.5,,14.0,30.0,,unit,3.6,Rougette Ketale,100
+2026,,Laitue cycle court été plein champ Rougette Ketale S25,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-05-25,2026-06-22,2026-07-27,2026-08-10,,,,,4.5,,14.0,30.0,,unit,3.6,Rougette Ketale,100
+2025,,Laitue cycle court été plein champ Rougette Ketale S27,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-06-09,2025-07-07,2025-08-11,2025-08-25,,,,,4.5,,14.0,30.0,,unit,3.6,Rougette Ketale,100
+2026,,Laitue cycle court été plein champ Rougette Ketale S27,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-06-08,2026-07-06,2026-08-10,2026-08-24,,,,,4.5,,14.0,30.0,,unit,3.6,Rougette Ketale,100
+2025,,Laitue cycle court été plein champ Rougette Ketale S29,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-06-23,2025-07-21,2025-08-25,2025-09-08,,,,,4.5,,14.0,30.0,,unit,3.6,Rougette Ketale,100
+2026,,Laitue cycle court été plein champ Rougette Ketale S29,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-06-22,2026-07-20,2026-08-24,2026-09-07,,,,,4.5,,14.0,30.0,,unit,3.6,Rougette Ketale,100
+2025,,Laitue cycle court été plein champ Rougette Ketale S31,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-07-07,2025-08-04,2025-09-08,2025-09-22,,,,,4.5,,14.0,30.0,,unit,3.6,Rougette Ketale,100
+2026,,Laitue cycle court été plein champ Rougette Ketale S31,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-07-06,2026-08-03,2026-09-07,2026-09-21,,,,,4.5,,14.0,30.0,,unit,3.6,Rougette Ketale,100
+2025,,Laitue cycle court été plein champ Rougette Ketale S33,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-07-21,2025-08-18,2025-09-22,2025-10-06,,,,,4.5,,14.0,30.0,,unit,3.6,Rougette Ketale,100
+2026,,Laitue cycle court été plein champ Rougette Ketale S33,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-07-20,2026-08-17,2026-09-21,2026-10-05,,,,,4.5,,14.0,30.0,,unit,3.6,Rougette Ketale,100
+2025,,Laitue cycle court été plein champ Rougette Ketale S35,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-08-04,2025-09-01,2025-10-06,2025-10-20,,,,,4.5,,14.0,30.0,,unit,3.6,Rougette Ketale,100
+2026,,Laitue cycle court été plein champ Rougette Ketale S35,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-08-03,2026-08-31,2026-10-05,2026-10-19,,,,,4.5,,14.0,30.0,,unit,3.6,Rougette Ketale,100
+2025,,Laitue cycle court été plein champ Rougette Ketale S7,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-01-20,2025-02-17,2025-03-24,2025-04-07,,,,,4.5,,14.0,30.0,,unit,3.6,Rougette Ketale,100
+2026,,Laitue cycle court été plein champ Rougette Ketale S7,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-01-19,2026-02-16,2026-03-23,2026-04-06,,,,,4.5,,14.0,30.0,,unit,3.6,Rougette Ketale,100
+2025,,Laitue cycle court été plein champ Rougette Ketale S9,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2025-02-03,2025-03-03,2025-04-07,2025-04-21,,,,,4.5,,14.0,30.0,,unit,3.6,Rougette Ketale,100
+2026,,Laitue cycle court été plein champ Rougette Ketale S9,Plein champ,bed,Laitue,young-plant,1.0,Plaque de 100,2026-02-02,2026-03-02,2026-04-06,2026-04-20,,,,,4.5,,14.0,30.0,,unit,3.6,Rougette Ketale,100
+2025,,Laitue d'automne sous abri Batavia verte d'abri Liboga S43,Sous abri,bed,Laitue,young-plant,1.0,Plaque de 100,2025-10-06,2025-10-27,2025-12-22,2026-01-19,,,,,3.8,,14.0,30.0,,unit,5.8,Batavia verte d'abri Liboga,100
+2026,,Laitue d'automne sous abri Batavia verte d'abri Liboga S43,Sous abri,bed,Laitue,young-plant,1.0,Plaque de 100,2026-10-05,2026-10-26,2026-12-21,2027-01-11,,,,,3.8,,14.0,30.0,,unit,5.8,Batavia verte d'abri Liboga,100
+2025,,Laitue d'automne sous abri Batavia verte d'abri Liboga S46,Sous abri,bed,Laitue,young-plant,1.0,Plaque de 100,2025-10-27,2025-11-17,2026-01-12,2026-02-16,,,,,3.8,,14.0,30.0,,unit,5.8,Batavia verte d'abri Liboga,100
+2026,,Laitue d'automne sous abri Batavia verte d'abri Liboga S46,Sous abri,bed,Laitue,young-plant,1.0,Plaque de 100,2026-10-26,2026-11-16,2027-01-04,2027-02-08,,,,,3.8,,14.0,30.0,,unit,5.8,Batavia verte d'abri Liboga,100
+2025,,Laitue d'automne sous abri Batavia verte d'abri Liboga S5,Sous abri,bed,Laitue,young-plant,1.0,Plaque de 100,2026-01-12,2026-02-02,2026-03-30,2026-05-04,,,,,3.8,,14.0,30.0,,unit,5.8,Batavia verte d'abri Liboga,100
+2026,,Laitue d'automne sous abri Batavia verte d'abri Liboga S5,Sous abri,bed,Laitue,young-plant,1.0,Plaque de 100,2027-01-11,2027-02-01,2027-03-29,2027-05-03,,,,,3.8,,14.0,30.0,,unit,5.8,Batavia verte d'abri Liboga,100
+2025,,Laitue d'automne sous abri Batavia verte d'abri Liboga S7,Sous abri,bed,Laitue,young-plant,1.0,Plaque de 100,2026-01-26,2026-02-16,2026-04-13,2026-05-18,,,,,3.8,,14.0,30.0,,unit,5.8,Batavia verte d'abri Liboga,100
+2026,,Laitue d'automne sous abri Batavia verte d'abri Liboga S7,Sous abri,bed,Laitue,young-plant,1.0,Plaque de 100,2027-01-25,2027-02-15,2027-04-12,2027-05-17,,,,,3.8,,14.0,30.0,,unit,5.8,Batavia verte d'abri Liboga,100
+2025,,Laitue d'automne sous abri Feuille de chêne rouge Boucan S43,Sous abri,bed,Laitue,young-plant,1.0,Plaque de 100,2025-10-06,2025-10-27,2025-12-22,2026-01-19,,,,,3.8,,14.0,30.0,,unit,5.8,Feuille de chêne rouge Boucan,100
+2026,,Laitue d'automne sous abri Feuille de chêne rouge Boucan S43,Sous abri,bed,Laitue,young-plant,1.0,Plaque de 100,2026-10-05,2026-10-26,2026-12-21,2027-01-11,,,,,3.8,,14.0,30.0,,unit,5.8,Feuille de chêne rouge Boucan,100
+2025,,Laitue d'automne sous abri Feuille de chêne rouge Boucan S46,Sous abri,bed,Laitue,young-plant,1.0,Plaque de 100,2025-10-27,2025-11-17,2026-01-12,2026-02-16,,,,,3.8,,14.0,30.0,,unit,5.8,Feuille de chêne rouge Boucan,100
+2026,,Laitue d'automne sous abri Feuille de chêne rouge Boucan S46,Sous abri,bed,Laitue,young-plant,1.0,Plaque de 100,2026-10-26,2026-11-16,2027-01-04,2027-02-08,,,,,3.8,,14.0,30.0,,unit,5.8,Feuille de chêne rouge Boucan,100
+2025,,Laitue d'automne sous abri Feuille de chêne rouge Boucan S5,Sous abri,bed,Laitue,young-plant,1.0,Plaque de 100,2026-01-12,2026-02-02,2026-03-30,2026-05-04,,,,,3.8,,14.0,30.0,,unit,5.8,Feuille de chêne rouge Boucan,100
+2026,,Laitue d'automne sous abri Feuille de chêne rouge Boucan S5,Sous abri,bed,Laitue,young-plant,1.0,Plaque de 100,2027-01-11,2027-02-01,2027-03-29,2027-05-03,,,,,3.8,,14.0,30.0,,unit,5.8,Feuille de chêne rouge Boucan,100
+2025,,Laitue d'automne sous abri Feuille de chêne rouge Boucan S7,Sous abri,bed,Laitue,young-plant,1.0,Plaque de 100,2026-01-26,2026-02-16,2026-04-13,2026-05-18,,,,,3.8,,14.0,30.0,,unit,5.8,Feuille de chêne rouge Boucan,100
+2026,,Laitue d'automne sous abri Feuille de chêne rouge Boucan S7,Sous abri,bed,Laitue,young-plant,1.0,Plaque de 100,2027-01-25,2027-02-15,2027-04-12,2027-05-17,,,,,3.8,,14.0,30.0,,unit,5.8,Feuille de chêne rouge Boucan,100
+2025,,Laitue d'automne sous abri Feuille de chêne verte Kiela S43,Sous abri,bed,Laitue,young-plant,1.0,Plaque de 100,2025-10-06,2025-10-27,2025-12-22,2026-01-19,,,,,3.8,,14.0,30.0,,unit,5.8,Feuille de chêne verte Kiela,100
+2026,,Laitue d'automne sous abri Feuille de chêne verte Kiela S43,Sous abri,bed,Laitue,young-plant,1.0,Plaque de 100,2026-10-05,2026-10-26,2026-12-21,2027-01-11,,,,,3.8,,14.0,30.0,,unit,5.8,Feuille de chêne verte Kiela,100
+2025,,Laitue d'automne sous abri Feuille de chêne verte Kiela S46,Sous abri,bed,Laitue,young-plant,1.0,Plaque de 100,2025-10-27,2025-11-17,2026-01-12,2026-02-16,,,,,3.8,,14.0,30.0,,unit,5.8,Feuille de chêne verte Kiela,100
+2026,,Laitue d'automne sous abri Feuille de chêne verte Kiela S46,Sous abri,bed,Laitue,young-plant,1.0,Plaque de 100,2026-10-26,2026-11-16,2027-01-04,2027-02-08,,,,,3.8,,14.0,30.0,,unit,5.8,Feuille de chêne verte Kiela,100
+2025,,Laitue d'automne sous abri Feuille de chêne verte Kiela S5,Sous abri,bed,Laitue,young-plant,1.0,Plaque de 100,2026-01-12,2026-02-02,2026-03-30,2026-05-04,,,,,3.8,,14.0,30.0,,unit,5.8,Feuille de chêne verte Kiela,100
+2026,,Laitue d'automne sous abri Feuille de chêne verte Kiela S5,Sous abri,bed,Laitue,young-plant,1.0,Plaque de 100,2027-01-11,2027-02-01,2027-03-29,2027-05-03,,,,,3.8,,14.0,30.0,,unit,5.8,Feuille de chêne verte Kiela,100
+2025,,Laitue d'automne sous abri Feuille de chêne verte Kiela S7,Sous abri,bed,Laitue,young-plant,1.0,Plaque de 100,2026-01-26,2026-02-16,2026-04-13,2026-05-18,,,,,3.8,,14.0,30.0,,unit,5.8,Feuille de chêne verte Kiela,100
+2026,,Laitue d'automne sous abri Feuille de chêne verte Kiela S7,Sous abri,bed,Laitue,young-plant,1.0,Plaque de 100,2027-01-25,2027-02-15,2027-04-12,2027-05-17,,,,,3.8,,14.0,30.0,,unit,5.8,Feuille de chêne verte Kiela,100
+2025,,Laitue d'automne sous abri Laitue verte d’abri Bretzel S43,Sous abri,bed,Laitue,young-plant,1.0,Plaque de 100,2025-10-06,2025-10-27,2025-12-22,2026-01-19,,,,,3.8,,14.0,30.0,,unit,5.8,Laitue verte d’abri Bretzel,100
+2026,,Laitue d'automne sous abri Laitue verte d’abri Bretzel S43,Sous abri,bed,Laitue,young-plant,1.0,Plaque de 100,2026-10-05,2026-10-26,2026-12-21,2027-01-11,,,,,3.8,,14.0,30.0,,unit,5.8,Laitue verte d’abri Bretzel,100
+2025,,Laitue d'automne sous abri Laitue verte d’abri Bretzel S46,Sous abri,bed,Laitue,young-plant,1.0,Plaque de 100,2025-10-27,2025-11-17,2026-01-12,2026-02-16,,,,,3.8,,14.0,30.0,,unit,5.8,Laitue verte d’abri Bretzel,100
+2026,,Laitue d'automne sous abri Laitue verte d’abri Bretzel S46,Sous abri,bed,Laitue,young-plant,1.0,Plaque de 100,2026-10-26,2026-11-16,2027-01-04,2027-02-08,,,,,3.8,,14.0,30.0,,unit,5.8,Laitue verte d’abri Bretzel,100
+2025,,Laitue d'automne sous abri Laitue verte d’abri Bretzel S5,Sous abri,bed,Laitue,young-plant,1.0,Plaque de 100,2026-01-12,2026-02-02,2026-03-30,2026-05-04,,,,,3.8,,14.0,30.0,,unit,5.8,Laitue verte d’abri Bretzel,100
+2026,,Laitue d'automne sous abri Laitue verte d’abri Bretzel S5,Sous abri,bed,Laitue,young-plant,1.0,Plaque de 100,2027-01-11,2027-02-01,2027-03-29,2027-05-03,,,,,3.8,,14.0,30.0,,unit,5.8,Laitue verte d’abri Bretzel,100
+2025,,Laitue d'automne sous abri Laitue verte d’abri Bretzel S7,Sous abri,bed,Laitue,young-plant,1.0,Plaque de 100,2026-01-26,2026-02-16,2026-04-13,2026-05-18,,,,,3.8,,14.0,30.0,,unit,5.8,Laitue verte d’abri Bretzel,100
+2026,,Laitue d'automne sous abri Laitue verte d’abri Bretzel S7,Sous abri,bed,Laitue,young-plant,1.0,Plaque de 100,2027-01-25,2027-02-15,2027-04-12,2027-05-17,,,,,3.8,,14.0,30.0,,unit,5.8,Laitue verte d’abri Bretzel,100
+2025,,livèche officinale S10,Plein champ,bed,Livèche officinale,young-plant,3.0,Plaque de 100,2025-02-10,2025-03-10,2025-05-05,2025-10-20,,,,,10.0,,1.0,50.0,,bunch,1.0,Livèche officinale,100
+2026,,livèche officinale S10,Plein champ,bed,Livèche officinale,young-plant,3.0,Plaque de 100,2026-02-09,2026-03-09,2026-05-04,2026-10-19,,,,,10.0,,1.0,50.0,,bunch,1.0,Livèche officinale,100
+2025,,Mâche Clara S2,Sous abri,bed,Mâche,young-plant,7.0,Plaque de 150,2025-12-29,2026-01-12,2026-02-09,2026-02-23,,,,,18.4,,14.0,14.0,,kg,1.0,Klara,100
+2026,,Mâche Clara S2,Sous abri,bed,Mâche,young-plant,7.0,Plaque de 150,2026-12-28,2027-01-11,2027-02-08,2027-02-22,,,,,18.4,,14.0,14.0,,kg,1.0,Klara,100
+2025,,Mâche Clara S35,Sous abri,bed,Mâche,young-plant,7.0,Plaque de 150,2025-08-18,2025-09-01,2025-09-29,2025-10-13,,,,,18.4,,14.0,14.0,,kg,1.0,Klara,100
+2026,,Mâche Clara S35,Sous abri,bed,Mâche,young-plant,7.0,Plaque de 150,2026-08-17,2026-08-31,2026-09-28,2026-10-12,,,,,18.4,,14.0,14.0,,kg,1.0,Klara,100
+2025,,Mâche Clara S37,Sous abri,bed,Mâche,young-plant,7.0,Plaque de 150,2025-09-01,2025-09-15,2025-10-13,2025-10-27,,,,,28.2,,14.0,14.0,,kg,1.0,Klara,100
+2026,,Mâche Clara S37,Sous abri,bed,Mâche,young-plant,7.0,Plaque de 150,2026-08-31,2026-09-14,2026-10-12,2026-10-26,,,,,28.2,,14.0,14.0,,kg,1.0,Klara,100
+2025,,Mâche Clara S39,Sous abri,bed,Mâche,young-plant,7.0,Plaque de 150,2025-09-15,2025-09-29,2025-10-27,2025-11-10,,,,,18.4,,14.0,14.0,,kg,1.0,Klara,100
+2026,,Mâche Clara S39,Sous abri,bed,Mâche,young-plant,7.0,Plaque de 150,2026-09-14,2026-09-28,2026-10-26,2026-11-09,,,,,18.4,,14.0,14.0,,kg,1.0,Klara,100
+2025,,Mâche Clara S41,Sous abri,bed,Mâche,young-plant,7.0,Plaque de 150,2025-09-29,2025-10-13,2025-11-10,2025-11-24,,,,,18.4,,14.0,14.0,,kg,1.0,Klara,100
+2025,,Mâche Clara S41,Sous abri,bed,Mâche,young-plant,7.0,Plaque de 150,2025-09-29,2025-10-13,2025-11-10,2025-11-24,,,,,18.4,,14.0,14.0,,kg,1.0,Klara,100
+2026,,Mâche Clara S41,Sous abri,bed,Mâche,young-plant,7.0,Plaque de 150,2026-09-28,2026-10-12,2026-11-09,2026-11-23,,,,,18.4,,14.0,14.0,,kg,1.0,Klara,100
+2025,,Mâche Clara S43,Sous abri,bed,Mâche,young-plant,7.0,Plaque de 150,2025-10-13,2025-10-27,2025-11-24,2025-12-08,,,,,18.4,,14.0,14.0,,kg,1.0,Klara,100
+2026,,Mâche Clara S43,Sous abri,bed,Mâche,young-plant,7.0,Plaque de 150,2026-10-12,2026-10-26,2026-11-23,2026-12-07,,,,,18.4,,14.0,14.0,,kg,1.0,Klara,100
+2025,,Mâche Clara S45,Sous abri,bed,Mâche,young-plant,7.0,Plaque de 150,2025-10-27,2025-11-10,2025-12-08,2025-12-22,,,,,18.4,,14.0,14.0,,kg,1.0,Klara,100
+2026,,Mâche Clara S45,Sous abri,bed,Mâche,young-plant,7.0,Plaque de 150,2026-10-26,2026-11-09,2026-12-07,2026-12-21,,,,,18.4,,14.0,14.0,,kg,1.0,Klara,100
+2025,,Mâche Clara S47,Sous abri,bed,Mâche,young-plant,7.0,Plaque de 150,2025-11-10,2025-11-24,2025-12-22,2026-01-05,,,,,18.4,,14.0,14.0,,kg,1.0,Klara,100
+2026,,Mâche Clara S47,Sous abri,bed,Mâche,young-plant,7.0,Plaque de 150,2026-11-09,2026-11-23,2026-12-21,2027-01-04,,,,,18.4,,14.0,14.0,,kg,1.0,Klara,100
+2025,,Mâche Clara S50,Sous abri,bed,Mâche,young-plant,7.0,Plaque de 150,2025-12-01,2025-12-15,2026-01-12,2026-01-26,,,,,18.4,,14.0,14.0,,kg,1.0,Klara,100
+2026,,Mâche Clara S50,Sous abri,bed,Mâche,young-plant,7.0,Plaque de 150,2026-11-30,2026-12-14,2027-01-04,2027-01-18,,,,,18.4,,14.0,14.0,,kg,1.0,Klara,100
+2025,,Mâche Trophy S34,Sous abri,bed,Mâche,young-plant,7.0,Plaque de 150,2025-08-11,2025-08-25,2025-09-22,2025-10-06,,,,,18.4,,14.0,14.0,,kg,1.0,Trophy,100
+2026,,Mâche Trophy S34,Sous abri,bed,Mâche,young-plant,7.0,Plaque de 150,2026-08-10,2026-08-24,2026-09-21,2026-10-05,,,,,18.4,,14.0,14.0,,kg,1.0,Trophy,100
+2025,,Mâche Trophy S36,Sous abri,bed,Mâche,young-plant,7.0,Plaque de 150,2025-08-25,2025-09-08,2025-10-06,2025-10-20,,,,,28.2,,14.0,14.0,,kg,1.0,Trophy,100
+2026,,Mâche Trophy S36,Sous abri,bed,Mâche,young-plant,7.0,Plaque de 150,2026-08-24,2026-09-07,2026-10-05,2026-10-19,,,,,28.2,,14.0,14.0,,kg,1.0,Trophy,100
+2025,,Mâche Trophy S38,Sous abri,bed,Mâche,young-plant,7.0,Plaque de 150,2025-09-08,2025-09-22,2025-10-20,2025-11-03,,,,,14.1,,14.0,14.0,,kg,1.0,Trophy,100
+2026,,Mâche Trophy S38,Sous abri,bed,Mâche,young-plant,7.0,Plaque de 150,2026-09-07,2026-09-21,2026-10-19,2026-11-02,,,,,14.1,,14.0,14.0,,kg,1.0,Trophy,100
+2025,,Mâche Trophy S40,Sous abri,bed,Mâche,young-plant,7.0,Plaque de 150,2025-09-22,2025-10-06,2025-11-03,2025-11-17,,,,,18.4,,14.0,14.0,,kg,1.0,Trophy,100
+2025,,Mâche Trophy S40,Sous abri,bed,Mâche,young-plant,7.0,Plaque de 150,2025-09-22,2025-10-06,2025-11-03,2025-11-17,,,,,18.4,,14.0,14.0,,kg,1.0,Trophy,100
+2026,,Mâche Trophy S40,Sous abri,bed,Mâche,young-plant,7.0,Plaque de 150,2026-09-21,2026-10-05,2026-11-02,2026-11-16,,,,,18.4,,14.0,14.0,,kg,1.0,Trophy,100
+2025,,Mâche Trophy S42,Sous abri,bed,Mâche,young-plant,7.0,Plaque de 150,2025-10-06,2025-10-20,2025-11-17,2025-12-01,,,,,18.4,,14.0,14.0,,kg,1.0,Trophy,100
+2026,,Mâche Trophy S42,Sous abri,bed,Mâche,young-plant,7.0,Plaque de 150,2026-10-05,2026-10-19,2026-11-16,2026-11-30,,,,,18.4,,14.0,14.0,,kg,1.0,Trophy,100
+2025,,Mâche Trophy S44,Sous abri,bed,Mâche,young-plant,7.0,Plaque de 150,2025-10-20,2025-11-03,2025-12-01,2025-12-15,,,,,18.4,,14.0,14.0,,kg,1.0,Trophy,100
+2025,,Mâche Trophy S44,Sous abri,bed,Mâche,young-plant,7.0,Plaque de 150,2025-10-20,2025-11-03,2025-12-01,2025-12-15,,,,,18.4,,14.0,14.0,,kg,1.0,Trophy,100
+2026,,Mâche Trophy S44,Sous abri,bed,Mâche,young-plant,7.0,Plaque de 150,2026-10-19,2026-11-02,2026-11-30,2026-12-14,,,,,18.4,,14.0,14.0,,kg,1.0,Trophy,100
+2025,,Mâche Trophy S46,Sous abri,bed,Mâche,young-plant,7.0,Plaque de 150,2025-11-03,2025-11-17,2025-12-15,2025-12-29,,,,,18.4,,14.0,14.0,,kg,1.0,Trophy,100
+2026,,Mâche Trophy S46,Sous abri,bed,Mâche,young-plant,7.0,Plaque de 150,2026-11-02,2026-11-16,2026-12-14,2026-12-28,,,,,18.4,,14.0,14.0,,kg,1.0,Trophy,100
+2025,,Mâche Trophy S48,Sous abri,bed,Mâche,young-plant,7.0,Plaque de 150,2025-11-17,2025-12-01,2025-12-29,2026-01-12,,,,,18.4,,14.0,14.0,,kg,1.0,Trophy,100
+2026,,Mâche Trophy S48,Sous abri,bed,Mâche,young-plant,7.0,Plaque de 150,2026-11-16,2026-11-30,2026-12-28,2027-01-04,,,,,18.4,,14.0,14.0,,kg,1.0,Trophy,100
+2025,,Mâche Trophy S52,Sous abri,bed,Mâche,young-plant,7.0,Plaque de 150,2025-12-15,2025-12-29,2026-01-26,2026-02-09,,,,,18.4,,14.0,14.0,,kg,1.0,Trophy,100
+2026,,Mâche Trophy S52,Sous abri,bed,Mâche,young-plant,7.0,Plaque de 150,2026-12-14,2026-12-28,2027-01-18,2027-02-01,,,,,18.4,,14.0,14.0,,kg,1.0,Trophy,100
+2025,,Mauve des bois S18,Plein champ,bed,Mauve des bois,young-plant,1.0,Plaque de 100,2025-04-07,2025-05-05,2025-06-02,2025-10-13,,,,,10.0,,1.0,50.0,,bunch,10.0,de Mauritanie,100
+2026,,Mauve des bois S18,Plein champ,bed,Mauve des bois,young-plant,1.0,Plaque de 100,2026-04-06,2026-05-04,2026-06-01,2026-10-12,,,,,10.0,,1.0,50.0,,bunch,10.0,de Mauritanie,100
+2025,,Mertensia S18,Plein champ,bed,Mertensie maritime,young-plant,1.0,Plaque de 100,2025-04-07,2025-05-05,2025-06-02,2025-10-13,,,,,10.0,,1.0,50.0,,bunch,10.0,Mertensie maritime,100
+2026,,Mertensia S18,Plein champ,bed,Mertensie maritime,young-plant,1.0,Plaque de 100,2026-04-06,2026-05-04,2026-06-01,2026-10-12,,,,,10.0,,1.0,50.0,,bunch,10.0,Mertensie maritime,100
+2025,,Mesclun de laitue S37,Sous abri,bed,Mesclun,young-plant,7.0,Plaque de 100,2025-09-01,2025-09-15,2025-10-06,2025-10-06,,,,,5.0,,14.0,14.0,,kg,0.7,de laitue,100
+2026,,Mesclun de laitue S37,Sous abri,bed,Mesclun,young-plant,7.0,Plaque de 100,2026-08-31,2026-09-14,2026-10-05,2026-10-05,,,,,5.0,,14.0,14.0,,kg,0.7,de laitue,100
+2025,,Mesclun de laitue S40,Sous abri,bed,Mesclun,young-plant,7.0,Plaque de 100,2025-09-22,2025-10-06,2025-10-27,2025-12-29,,,,,5.0,,14.0,14.0,,kg,0.7,de laitue,100
+2026,,Mesclun de laitue S40,Sous abri,bed,Mesclun,young-plant,7.0,Plaque de 100,2026-09-21,2026-10-05,2026-10-26,2027-01-25,,,,,5.0,,14.0,14.0,,kg,0.7,de laitue,100
+2025,,Mesclun de laitue S43,Sous abri,bed,Mesclun,young-plant,7.0,Plaque de 100,2025-10-13,2025-10-27,2025-11-17,2026-02-23,,,,,5.0,,14.0,14.0,,kg,0.7,de laitue,100
+2026,,Mesclun de laitue S43,Sous abri,bed,Mesclun,young-plant,7.0,Plaque de 100,2026-10-12,2026-10-26,2026-11-16,2027-02-15,,,,,5.0,,14.0,14.0,,kg,0.7,de laitue,100
+2025,,Mesclun Golden frills S37,Sous abri,bed,Mesclun,young-plant,7.0,Plaque de 100,2025-09-01,2025-09-15,2025-10-06,2025-10-06,,,,,2.0,,14.0,14.0,,kg,0.7,Golden frills,100
+2026,,Mesclun Golden frills S37,Sous abri,bed,Mesclun,young-plant,7.0,Plaque de 100,2026-08-31,2026-09-14,2026-10-05,2026-10-05,,,,,2.0,,14.0,14.0,,kg,0.7,Golden frills,100
+2025,,Mesclun Golden frills S40,Sous abri,bed,Mesclun,young-plant,7.0,Plaque de 100,2025-09-22,2025-10-06,2025-10-27,2025-12-29,,,,,2.0,,14.0,14.0,,kg,0.7,Golden frills,100
+2026,,Mesclun Golden frills S40,Sous abri,bed,Mesclun,young-plant,7.0,Plaque de 100,2026-09-21,2026-10-05,2026-10-26,2027-01-25,,,,,2.0,,14.0,14.0,,kg,0.7,Golden frills,100
+2025,,Mesclun Golden frills S43,Sous abri,bed,Mesclun,young-plant,7.0,Plaque de 100,2025-10-13,2025-10-27,2025-11-17,2026-02-23,,,,,2.0,,14.0,14.0,,kg,0.7,Golden frills,100
+2026,,Mesclun Golden frills S43,Sous abri,bed,Mesclun,young-plant,7.0,Plaque de 100,2026-10-12,2026-10-26,2026-11-16,2027-02-15,,,,,2.0,,14.0,14.0,,kg,0.7,Golden frills,100
+2025,,Mesclun Mizuna rouge S37,Sous abri,bed,Mesclun,young-plant,7.0,Plaque de 100,2025-09-01,2025-09-15,2025-10-06,2025-10-06,,,,,3.4,,14.0,14.0,,kg,0.7,Mizuna rouge,100
+2026,,Mesclun Mizuna rouge S37,Sous abri,bed,Mesclun,young-plant,7.0,Plaque de 100,2026-08-31,2026-09-14,2026-10-05,2026-10-05,,,,,3.4,,14.0,14.0,,kg,0.7,Mizuna rouge,100
+2025,,Mesclun Mizuna rouge S40,Sous abri,bed,Mesclun,young-plant,7.0,Plaque de 100,2025-09-22,2025-10-06,2025-10-27,2025-12-29,,,,,3.4,,14.0,14.0,,kg,0.7,Mizuna rouge,100
+2026,,Mesclun Mizuna rouge S40,Sous abri,bed,Mesclun,young-plant,7.0,Plaque de 100,2026-09-21,2026-10-05,2026-10-26,2027-01-25,,,,,3.4,,14.0,14.0,,kg,0.7,Mizuna rouge,100
+2025,,Mesclun Mizuna rouge S43,Sous abri,bed,Mesclun,young-plant,7.0,Plaque de 100,2025-10-13,2025-10-27,2025-11-17,2026-02-23,,,,,3.4,,14.0,14.0,,kg,0.7,Mizuna rouge,100
+2026,,Mesclun Mizuna rouge S43,Sous abri,bed,Mesclun,young-plant,7.0,Plaque de 100,2026-10-12,2026-10-26,2026-11-16,2027-02-15,,,,,3.4,,14.0,14.0,,kg,0.7,Mizuna rouge,100
+2025,,Mesclun Mizuna verte S37,Sous abri,bed,Mesclun,young-plant,7.0,Plaque de 100,2025-09-01,2025-09-15,2025-10-06,2025-10-06,,,,,2.0,,14.0,14.0,,kg,0.7,Mizuna verte,100
+2026,,Mesclun Mizuna verte S37,Sous abri,bed,Mesclun,young-plant,7.0,Plaque de 100,2026-08-31,2026-09-14,2026-10-05,2026-10-05,,,,,2.0,,14.0,14.0,,kg,0.7,Mizuna verte,100
+2025,,Mesclun Mizuna verte S40,Sous abri,bed,Mesclun,young-plant,7.0,Plaque de 100,2025-09-22,2025-10-06,2025-10-27,2025-12-29,,,,,2.0,,14.0,14.0,,kg,0.7,Mizuna verte,100
+2026,,Mesclun Mizuna verte S40,Sous abri,bed,Mesclun,young-plant,7.0,Plaque de 100,2026-09-21,2026-10-05,2026-10-26,2027-01-25,,,,,2.0,,14.0,14.0,,kg,0.7,Mizuna verte,100
+2025,,Mesclun Mizuna verte S43,Sous abri,bed,Mesclun,young-plant,7.0,Plaque de 100,2025-10-13,2025-10-27,2025-11-17,2026-02-23,,,,,2.0,,14.0,14.0,,kg,0.7,Mizuna verte,100
+2026,,Mesclun Mizuna verte S43,Sous abri,bed,Mesclun,young-plant,7.0,Plaque de 100,2026-10-12,2026-10-26,2026-11-16,2027-02-15,,,,,2.0,,14.0,14.0,,kg,0.7,Mizuna verte,100
+2025,,Mesclun Moutarde Osaka S37,Sous abri,bed,Mesclun,young-plant,7.0,Plaque de 100,2025-09-01,2025-09-15,2025-10-06,2025-10-06,,,,,3.4,,14.0,14.0,,kg,0.7,Moutarde Osaka,100
+2026,,Mesclun Moutarde Osaka S37,Sous abri,bed,Mesclun,young-plant,7.0,Plaque de 100,2026-08-31,2026-09-14,2026-10-05,2026-10-05,,,,,3.4,,14.0,14.0,,kg,0.7,Moutarde Osaka,100
+2025,,Mesclun Moutarde Osaka S40,Sous abri,bed,Mesclun,young-plant,7.0,Plaque de 100,2025-09-22,2025-10-06,2025-10-27,2025-12-29,,,,,3.4,,14.0,14.0,,kg,0.7,Moutarde Osaka,100
+2026,,Mesclun Moutarde Osaka S40,Sous abri,bed,Mesclun,young-plant,7.0,Plaque de 100,2026-09-21,2026-10-05,2026-10-26,2027-01-25,,,,,3.4,,14.0,14.0,,kg,0.7,Moutarde Osaka,100
+2025,,Mesclun Moutarde Osaka S43,Sous abri,bed,Mesclun,young-plant,7.0,Plaque de 100,2025-10-13,2025-10-27,2025-11-17,2026-02-23,,,,,3.4,,14.0,14.0,,kg,0.7,Moutarde Osaka,100
+2026,,Mesclun Moutarde Osaka S43,Sous abri,bed,Mesclun,young-plant,7.0,Plaque de 100,2026-10-12,2026-10-26,2026-11-16,2027-02-15,,,,,3.4,,14.0,14.0,,kg,0.7,Moutarde Osaka,100
+2025,,Mesclun Pé tsaï granaat S37,Sous abri,bed,Mesclun,young-plant,7.0,Plaque de 100,2025-09-01,2025-09-15,2025-10-06,2025-10-06,,,,,2.0,,14.0,14.0,,kg,0.7,Pé tsaï granaat,100
+2026,,Mesclun Pé tsaï granaat S37,Sous abri,bed,Mesclun,young-plant,7.0,Plaque de 100,2026-08-31,2026-09-14,2026-10-05,2026-10-05,,,,,2.0,,14.0,14.0,,kg,0.7,Pé tsaï granaat,100
+2025,,Mesclun Pé tsaï granaat S40,Sous abri,bed,Mesclun,young-plant,7.0,Plaque de 100,2025-09-22,2025-10-06,2025-10-27,2025-12-29,,,,,2.0,,14.0,14.0,,kg,0.7,Pé tsaï granaat,100
+2026,,Mesclun Pé tsaï granaat S40,Sous abri,bed,Mesclun,young-plant,7.0,Plaque de 100,2026-09-21,2026-10-05,2026-10-26,2027-01-25,,,,,2.0,,14.0,14.0,,kg,0.7,Pé tsaï granaat,100
+2025,,Mesclun Pé tsaï granaat S43,Sous abri,bed,Mesclun,young-plant,7.0,Plaque de 100,2025-10-13,2025-10-27,2025-11-17,2026-02-23,,,,,2.0,,14.0,14.0,,kg,0.7,Pé tsaï granaat,100
+2026,,Mesclun Pé tsaï granaat S43,Sous abri,bed,Mesclun,young-plant,7.0,Plaque de 100,2026-10-12,2026-10-26,2026-11-16,2027-02-15,,,,,2.0,,14.0,14.0,,kg,0.7,Pé tsaï granaat,100
+2025,,Mesclun Purple frills S37,Sous abri,bed,Mesclun,young-plant,7.0,Plaque de 100,2025-09-01,2025-09-15,2025-10-06,2025-10-06,,,,,3.4,,14.0,14.0,,kg,0.7,Purple frills,100
+2026,,Mesclun Purple frills S37,Sous abri,bed,Mesclun,young-plant,7.0,Plaque de 100,2026-08-31,2026-09-14,2026-10-05,2026-10-05,,,,,3.4,,14.0,14.0,,kg,0.7,Purple frills,100
+2025,,Mesclun Purple frills S40,Sous abri,bed,Mesclun,young-plant,7.0,Plaque de 100,2025-09-22,2025-10-06,2025-10-27,2025-12-29,,,,,3.4,,14.0,14.0,,kg,0.7,Purple frills,100
+2026,,Mesclun Purple frills S40,Sous abri,bed,Mesclun,young-plant,7.0,Plaque de 100,2026-09-21,2026-10-05,2026-10-26,2027-01-25,,,,,3.4,,14.0,14.0,,kg,0.7,Purple frills,100
+2025,,Mesclun Purple frills S43,Sous abri,bed,Mesclun,young-plant,7.0,Plaque de 100,2025-10-13,2025-10-27,2025-11-17,2026-02-23,,,,,3.4,,14.0,14.0,,kg,0.7,Purple frills,100
+2026,,Mesclun Purple frills S43,Sous abri,bed,Mesclun,young-plant,7.0,Plaque de 100,2026-10-12,2026-10-26,2026-11-16,2027-02-15,,,,,3.4,,14.0,14.0,,kg,0.7,Purple frills,100
+2025,,Navet botte plein champ Atlantic S11,Plein champ,bed,Navet,young-plant,7.0,Plaque de 100,2025-01-20,2025-03-17,2025-05-26,2025-06-02,,,,,15.0,,8.0,25.0,,bunch,12.0,Atlantic,100
+2026,,Navet botte plein champ Atlantic S11,Plein champ,bed,Navet,young-plant,7.0,Plaque de 100,2026-01-19,2026-03-16,2026-05-25,2026-06-01,,,,,15.0,,8.0,25.0,,bunch,12.0,Atlantic,100
+2025,,Navet botte plein champ Atlantic S13,Plein champ,bed,Navet,young-plant,7.0,Plaque de 100,2025-02-03,2025-03-31,2025-06-09,2025-06-09,,,,,15.0,,8.0,25.0,,bunch,12.0,Atlantic,100
+2026,,Navet botte plein champ Atlantic S13,Plein champ,bed,Navet,young-plant,7.0,Plaque de 100,2026-02-02,2026-03-30,2026-06-08,2026-06-08,,,,,15.0,,8.0,25.0,,bunch,12.0,Atlantic,100
+2025,,Navet botte plein champ Atlantic S16,Plein champ,bed,Navet,young-plant,7.0,Plaque de 100,2025-02-24,2025-04-21,2025-06-30,2025-07-07,,,,,15.0,,8.0,25.0,,bunch,12.0,Atlantic,100
+2026,,Navet botte plein champ Atlantic S16,Plein champ,bed,Navet,young-plant,7.0,Plaque de 100,2026-02-23,2026-04-20,2026-06-29,2026-07-06,,,,,15.0,,8.0,25.0,,bunch,12.0,Atlantic,100
+2025,,Navet sous abri Atlantic S4,Sous abri,bed,Navet,young-plant,7.0,Plaque de 100,2024-12-09,2025-01-27,2025-03-31,2025-04-21,,,,,15.0,,8.0,25.0,,bunch,12.0,Atlantic,100
+2026,,Navet sous abri Atlantic S4,Sous abri,bed,Navet,young-plant,7.0,Plaque de 100,2025-12-08,2026-01-26,2026-03-30,2026-04-20,,,,,15.0,,8.0,25.0,,bunch,12.0,Atlantic,100
+2025,,Navet sous abri Atlantic S9,Sous abri,bed,Navet,young-plant,7.0,Plaque de 100,2025-01-13,2025-03-03,2025-05-12,2025-05-12,,,,,15.0,,8.0,25.0,,bunch,12.0,Atlantic,100
+2026,,Navet sous abri Atlantic S9,Sous abri,bed,Navet,young-plant,7.0,Plaque de 100,2026-01-12,2026-03-02,2026-05-11,2026-05-11,,,,,15.0,,8.0,25.0,,bunch,12.0,Atlantic,100
+2025,,Navet vrac plein champ Blanc globe à collet violet S35,Plein champ,bed,Navet,sowing,,,2025-09-01,,2025-11-10,2025-12-08,,,,,240.0,,1.0,2.0,,kg,1.5,Blanc globe à collet violet,100
+2026,,Navet vrac plein champ Blanc globe à collet violet S35,Plein champ,bed,Navet,sowing,,,2026-08-31,,2026-11-09,2026-12-07,,,,,240.0,,1.0,2.0,,kg,1.5,Blanc globe à collet violet,100
+2025,,Navet vrac plein champ Jaune boule d'or S35,Plein champ,bed,Navet,sowing,,,2025-09-01,,2025-11-10,2025-12-08,,,,,240.0,,1.0,2.0,,kg,1.5,Jaune boule d'or,100
+2026,,Navet vrac plein champ Jaune boule d'or S35,Plein champ,bed,Navet,sowing,,,2026-08-31,,2026-11-09,2026-12-07,,,,,240.0,,1.0,2.0,,kg,1.5,Jaune boule d'or,100
+2025,,Navet vrac plein champ Oregon S35,Plein champ,bed,Navet,sowing,,,2025-09-01,,2025-11-10,2025-12-08,,,,,240.0,,1.0,2.0,,kg,1.5,Oregon F1,100
+2026,,Navet vrac plein champ Oregon S35,Plein champ,bed,Navet,sowing,,,2026-08-31,,2026-11-09,2026-12-07,,,,,240.0,,1.0,2.0,,kg,1.5,Oregon F1,100
+2025,,Navet vrac plein champ Richelieu S35,Plein champ,bed,Navet,sowing,,,2025-09-01,,2025-11-10,2025-12-08,,,,,240.0,,1.0,2.0,,kg,1.5,Richelieu F1,100
+2026,,Navet vrac plein champ Richelieu S35,Plein champ,bed,Navet,sowing,,,2026-08-31,,2026-11-09,2026-12-07,,,,,240.0,,1.0,2.0,,kg,1.5,Richelieu F1,100
+2025,,Oignon botte plein champ Blanc Barona S10,Plein champ,bed,Oignon,young-plant,7.0,Plaque de 100,2025-02-24,2025-03-10,2025-05-26,2025-07-07,,,,,40.0,,5.0,22.0,,bunch,1.8,Blanc Barona,100
+2026,,Oignon botte plein champ Blanc Barona S10,Plein champ,bed,Oignon,young-plant,7.0,Plaque de 100,2026-02-23,2026-03-09,2026-05-25,2026-07-06,,,,,40.0,,5.0,22.0,,bunch,1.8,Blanc Barona,100
+2025,,Oignon botte plein champ Blanc de Barletta S10,Plein champ,bed,Oignon,young-plant,7.0,Plaque de 100,2025-02-24,2025-03-10,2025-05-26,2025-07-07,,,,,40.0,,5.0,22.0,,bunch,1.8,Blanc de Barletta,100
+2026,,Oignon botte plein champ Blanc de Barletta S10,Plein champ,bed,Oignon,young-plant,7.0,Plaque de 100,2026-02-23,2026-03-09,2026-05-25,2026-07-06,,,,,40.0,,5.0,22.0,,bunch,1.8,Blanc de Barletta,100
+2025,,Oignon conservation plein champ Hylander F1 S10,Plein champ,bed,Oignon,young-plant,4.0,Plaque de 100,2025-02-24,2025-03-10,2025-06-02,2025-07-07,,,,,750.0,,4.0,22.0,,kg,1.8,Hylander F1,100
+2026,,Oignon conservation plein champ Hylander F1 S10,Plein champ,bed,Oignon,young-plant,4.0,Plaque de 100,2026-02-23,2026-03-09,2026-06-01,2026-07-06,,,,,750.0,,4.0,22.0,,kg,1.8,Hylander F1,100
+2025,,Oignon conservation plein champ Rosé d'Armorique S10,Plein champ,bed,Oignon,young-plant,4.0,Plaque de 100,2025-02-24,2025-03-10,2025-06-02,2025-07-07,,,,,109.1,,4.0,22.0,,kg,1.8,Rosé d'Armorique,100
+2025,,Oignon conservation plein champ Rosé d'Armorique S10,Plein champ,bed,Oignon,young-plant,4.0,Plaque de 100,2025-02-24,2025-03-10,2025-06-02,2025-07-07,,,,,340.9,,4.0,22.0,,kg,1.8,Rosé d'Armorique,100
+2026,,Oignon conservation plein champ Rosé d'Armorique S10,Plein champ,bed,Oignon,young-plant,4.0,Plaque de 100,2026-02-23,2026-03-09,2026-06-01,2026-07-06,,,,,109.1,,4.0,22.0,,kg,1.8,Rosé d'Armorique,100
+2026,,Oignon conservation plein champ Rosé d'Armorique S10,Plein champ,bed,Oignon,young-plant,4.0,Plaque de 100,2026-02-23,2026-03-09,2026-06-01,2026-07-06,,,,,340.9,,4.0,22.0,,kg,1.8,Rosé d'Armorique,100
+2025,,Oignon conservation plein champ Rouge Red Baron S10,Plein champ,bed,Oignon,young-plant,4.0,Plaque de 100,2025-02-24,2025-03-10,2025-06-02,2025-07-07,,,,,49.0,,4.0,22.0,,kg,1.8,Rouge Red Baron,100
+2026,,Oignon conservation plein champ Rouge Red Baron S10,Plein champ,bed,Oignon,young-plant,4.0,Plaque de 100,2026-02-23,2026-03-09,2026-06-01,2026-07-06,,,,,49.0,,4.0,22.0,,kg,1.8,Rouge Red Baron,100
+2025,,Oignon conservation plein champ Rouge Redspark F1 S10,Plein champ,bed,Oignon,young-plant,4.0,Plaque de 100,2025-02-24,2025-03-10,2025-06-02,2025-07-07,,,,,11.0,,4.0,22.0,,kg,1.8,Rouge Redspark F1,100
+2026,,Oignon conservation plein champ Rouge Redspark F1 S10,Plein champ,bed,Oignon,young-plant,4.0,Plaque de 100,2026-02-23,2026-03-09,2026-06-01,2026-07-06,,,,,11.0,,4.0,22.0,,kg,1.8,Rouge Redspark F1,100
+2025,,Oignon plantés plein champ Rouge Red Baron bulbille S10,Plein champ,bed,Oignon,sowing,,,2025-03-10,,2025-05-26,2025-07-07,,,,,60.0,,4.0,22.0,,kg,1.8,Rouge Red Baron bulbille,100
+2026,,Oignon plantés plein champ Rouge Red Baron bulbille S10,Plein champ,bed,Oignon,sowing,,,2026-03-09,,2026-05-25,2026-07-06,,,,,60.0,,4.0,22.0,,kg,1.8,Rouge Red Baron bulbille,100
+2025,,Panais Palace F1 S17,Plein champ,bed,Panais,sowing,,,2025-04-28,,2025-11-10,2025-11-17,,,,,125.0,,1.0,10.0,,kg,1.5,Palace F1,100
+2026,,Panais Palace F1 S17,Plein champ,bed,Panais,sowing,,,2026-04-27,,2026-11-09,2026-11-16,,,,,125.0,,1.0,10.0,,kg,1.5,Palace F1,100
+2025,,Panais Pearl F1 S17,Plein champ,bed,Panais,sowing,,,2025-04-28,,2025-11-10,2025-11-17,,,,,125.0,,1.0,10.0,,kg,1.5,Pearl F1,100
+2026,,Panais Pearl F1 S17,Plein champ,bed,Panais,sowing,,,2026-04-27,,2026-11-02,2026-11-09,,,,,125.0,,1.0,10.0,,kg,1.5,Pearl F1,100
+2025,,Panais Phantom F1 S17,Plein champ,bed,Panais,sowing,,,2025-04-28,,2025-11-10,2025-11-17,,,,,125.0,,1.0,10.0,,kg,1.5,Phantom F1,100
+2026,,Panais Phantom F1 S17,Plein champ,bed,Panais,sowing,,,2026-04-27,,2026-11-02,2026-11-09,,,,,125.0,,1.0,10.0,,kg,1.5,Phantom F1,100
+2025,,Panais Turga pré-germé S17,Plein champ,bed,Panais,sowing,,,2025-04-28,,2025-11-10,2025-11-17,,,,,125.0,,1.0,10.0,,kg,1.5,Turga pré-germé,100
+2026,,Panais Turga pré-germé S17,Plein champ,bed,Panais,sowing,,,2026-04-27,,2026-11-09,2026-11-16,,,,,125.0,,1.0,10.0,,kg,1.5,Turga pré-germé,100
+2025,,Pensée tricolore S18,Plein champ,bed,Pensée tricolore,young-plant,1.0,Plaque de 100,2025-04-07,2025-05-05,2025-06-02,2025-10-13,,,,,10.0,,1.0,50.0,,bunch,10.0,Pensée tricolore,100
+2026,,Pensée tricolore S18,Plein champ,bed,Pensée tricolore,young-plant,1.0,Plaque de 100,2026-04-06,2026-05-04,2026-06-01,2026-10-12,,,,,10.0,,1.0,50.0,,bunch,10.0,Pensée tricolore,100
+2025,,Persil plants à vendre Frisé grüne Perle S13,Plein champ,bed,Persil,young-plant,6.0,Plaque de 100,2025-03-10,2025-03-31,2025-05-26,2025-05-26,,,,,0.4,1.0,,,,unit,1.0,Frisé grüne Perle,100
+2026,,Persil plants à vendre Frisé grüne Perle S13,Plein champ,bed,Persil,young-plant,6.0,Plaque de 100,2026-03-09,2026-03-30,2026-05-25,2026-05-25,,,,,0.0,1.0,,,,unit,1.0,Frisé grüne Perle,100
+2025,,Persil plants à vendre Frisé grüne Perle S16,Plein champ,bed,Persil,young-plant,6.0,Plaque de 100,2025-03-31,2025-04-21,2025-06-16,2025-06-16,,,,,0.4,1.0,,,,unit,1.0,Frisé grüne Perle,100
+2026,,Persil plants à vendre Frisé grüne Perle S16,Plein champ,bed,Persil,young-plant,6.0,Plaque de 100,2026-03-30,2026-04-20,2026-06-15,2026-06-15,,,,,0.0,1.0,,,,unit,1.0,Frisé grüne Perle,100
+2025,,Persil plants à vendre Frisé grüne Perle S19,Plein champ,bed,Persil,young-plant,6.0,Plaque de 100,2025-04-21,2025-05-12,2025-07-07,2025-07-07,,,,,0.4,1.0,,,,unit,1.0,Frisé grüne Perle,100
+2026,,Persil plants à vendre Frisé grüne Perle S19,Plein champ,bed,Persil,young-plant,6.0,Plaque de 100,2026-04-20,2026-05-11,2026-07-06,2026-07-06,,,,,0.0,1.0,,,,unit,1.0,Frisé grüne Perle,100
+2025,,Persil plants à vendre Frisé grüne Perle S22,Plein champ,bed,Persil,young-plant,6.0,Plaque de 100,2025-05-12,2025-06-02,2025-07-28,2025-07-28,,,,,0.4,1.0,,,,unit,1.0,Frisé grüne Perle,100
+2026,,Persil plants à vendre Frisé grüne Perle S22,Plein champ,bed,Persil,young-plant,6.0,Plaque de 100,2026-05-11,2026-06-01,2026-07-27,2026-07-27,,,,,0.0,1.0,,,,unit,1.0,Frisé grüne Perle,100
+2025,,Persil plants à vendre Géant d'Italie S13,Plein champ,bed,Persil,young-plant,6.0,Plaque de 100,2025-03-10,2025-03-31,2025-05-26,2025-05-26,,,,,0.4,1.0,,,,unit,1.0,Géant d'Italie,100
+2026,,Persil plants à vendre Géant d'Italie S13,Plein champ,bed,Persil,young-plant,6.0,Plaque de 100,2026-03-09,2026-03-30,2026-05-25,2026-05-25,,,,,0.0,1.0,,,,unit,1.0,Géant d'Italie,100
+2025,,Persil plants à vendre Géant d'Italie S16,Plein champ,bed,Persil,young-plant,6.0,Plaque de 100,2025-03-31,2025-04-21,2025-06-16,2025-06-16,,,,,0.4,1.0,,,,unit,1.0,Géant d'Italie,100
+2026,,Persil plants à vendre Géant d'Italie S16,Plein champ,bed,Persil,young-plant,6.0,Plaque de 100,2026-03-30,2026-04-20,2026-06-15,2026-06-15,,,,,0.0,1.0,,,,unit,1.0,Géant d'Italie,100
+2025,,Persil plants à vendre Géant d'Italie S19,Plein champ,bed,Persil,young-plant,6.0,Plaque de 100,2025-04-21,2025-05-12,2025-07-07,2025-07-07,,,,,0.4,1.0,,,,unit,1.0,Géant d'Italie,100
+2026,,Persil plants à vendre Géant d'Italie S19,Plein champ,bed,Persil,young-plant,6.0,Plaque de 100,2026-04-20,2026-05-11,2026-07-06,2026-07-06,,,,,0.0,1.0,,,,unit,1.0,Géant d'Italie,100
+2025,,Persil plants à vendre Géant d'Italie S22,Plein champ,bed,Persil,young-plant,6.0,Plaque de 100,2025-05-12,2025-06-02,2025-07-28,2025-07-28,,,,,0.4,1.0,,,,unit,1.0,Géant d'Italie,100
+2026,,Persil plants à vendre Géant d'Italie S22,Plein champ,bed,Persil,young-plant,6.0,Plaque de 100,2026-05-11,2026-06-01,2026-07-27,2026-07-27,,,,,0.0,1.0,,,,unit,1.0,Géant d'Italie,100
+2025,,Persil plein champ Frisé grüne Perle S27,Plein champ,bed,Persil,young-plant,6.0,Plaque de 100,2025-06-02,2025-07-07,2025-09-01,2025-12-22,,,,,13.5,,1.0,30.0,,bunch,5.0,Frisé grüne Perle,100
+2026,,Persil plein champ Frisé grüne Perle S27,Plein champ,bed,Persil,young-plant,6.0,Plaque de 100,2026-06-01,2026-07-06,2026-08-31,2026-12-21,,,,,13.5,,1.0,30.0,,bunch,5.0,Frisé grüne Perle,100
+2025,,Persil plein champ Géant d'Italie S27,Plein champ,bed,Persil,young-plant,6.0,Plaque de 100,2025-06-02,2025-07-07,2025-09-01,2025-12-22,,,,,19.5,,1.0,30.0,,bunch,5.0,Géant d'Italie,100
+2026,,Persil plein champ Géant d'Italie S27,Plein champ,bed,Persil,young-plant,6.0,Plaque de 100,2026-06-01,2026-07-06,2026-08-31,2026-12-21,,,,,19.5,,1.0,30.0,,bunch,5.0,Géant d'Italie,100
+2025,,Persil sous abri Frisé grüne Perle S19,Sous abri,bed,Persil,young-plant,6.0,Plaque de 100,2025-01-27,2025-05-12,2025-06-23,2025-09-15,,,,,13.5,,16.0,25.0,,bunch,8.5,Frisé grüne Perle,100
+2026,,Persil sous abri Frisé grüne Perle S19,Sous abri,bed,Persil,young-plant,6.0,Plaque de 100,2026-01-26,2026-05-11,2026-06-22,2026-09-14,,,,,13.5,,16.0,25.0,,bunch,8.5,Frisé grüne Perle,100
+2025,,Persil sous abri Frisé grüne Perle S36,Sous abri,bed,Persil,young-plant,6.0,Plaque de 100,2025-05-26,2025-09-08,2025-10-20,2026-02-09,,,,,12.0,,16.0,25.0,,bunch,8.5,Frisé grüne Perle,100
+2026,,Persil sous abri Frisé grüne Perle S36,Sous abri,bed,Persil,young-plant,6.0,Plaque de 100,2026-05-25,2026-09-07,2026-10-19,2027-02-01,,,,,12.0,,16.0,25.0,,bunch,8.5,Frisé grüne Perle,100
+2025,,Persil sous abri Géant d'Italie S19,Sous abri,bed,Persil,young-plant,6.0,Plaque de 100,2025-01-27,2025-05-12,2025-06-23,2025-09-15,,,,,19.5,,16.0,25.0,,bunch,8.5,Géant d'Italie,100
+2026,,Persil sous abri Géant d'Italie S19,Sous abri,bed,Persil,young-plant,6.0,Plaque de 100,2026-01-26,2026-05-11,2026-06-22,2026-09-14,,,,,19.5,,16.0,25.0,,bunch,8.5,Géant d'Italie,100
+2025,,Persil sous abri Géant d'Italie S36,Sous abri,bed,Persil,young-plant,6.0,Plaque de 100,2025-05-26,2025-09-08,2025-10-20,2026-02-09,,,,,18.0,,16.0,25.0,,bunch,8.5,Géant d'Italie,100
+2026,,Persil sous abri Géant d'Italie S36,Sous abri,bed,Persil,young-plant,6.0,Plaque de 100,2026-05-25,2026-09-07,2026-10-19,2027-02-01,,,,,18.0,,16.0,25.0,,bunch,8.5,Géant d'Italie,100
+2025,,Piment Biquinho S22,Sous abri,bed,Piment,young-plant,1.0,Plaque de 32,2025-01-27,2025-06-02,2025-07-28,2025-11-10,,,,,6.4,,1.0,40.0,,kg,1.5,Biquinho de la ferme,100
+2026,,Piment Biquinho S22,Sous abri,bed,Piment,young-plant,1.0,Plaque de 32,2026-01-26,2026-06-01,2026-07-27,2026-11-09,,,,,4.0,,1.0,40.0,,kg,1.5,Biquinho de la ferme,100
+2025,,Piment Boule de turquie S22,Sous abri,bed,Piment,young-plant,1.0,Plaque de 32,2025-01-27,2025-06-02,2025-07-28,2025-11-24,,,,,6.4,,1.0,40.0,,kg,1.5,Boule de turquie,100
+2025,,Piment Doux très long des Landes S22,Sous abri,bed,Piment,young-plant,1.0,Plaque de 32,2025-01-27,2025-06-02,2025-07-28,2025-11-10,,,,,3.2,,1.0,40.0,,kg,1.5,Doux très long des Landes,100
+2025,,Piment Goria S22,Sous abri,bed,Piment,young-plant,1.0,Plaque de 32,2025-01-27,2025-06-02,2025-07-28,2025-11-24,,,,,6.4,,1.0,40.0,,kg,1.5,Goria,100
+2026,,Piment Goria S22,Sous abri,bed,Piment,young-plant,1.0,Plaque de 32,2026-01-26,2026-06-01,2026-07-27,2026-11-09,,,,,2.0,,1.0,40.0,,kg,1.5,Goria,100
+2025,,Piment Habanero golden S22,Sous abri,bed,Piment,young-plant,1.0,Plaque de 32,2025-01-27,2025-06-02,2025-07-28,2025-11-24,,,,,3.2,,1.0,40.0,,kg,1.5,Habanero golden,100
+2025,,Piment Habanero orange S22,Sous abri,bed,Piment,young-plant,1.0,Plaque de 32,2025-01-27,2025-06-02,2025-07-28,2025-11-24,,,,,3.2,,1.0,40.0,,kg,1.5,Habanero orange,100
+2026,,Piment Habanero orange S22,Sous abri,bed,Piment,young-plant,1.0,Plaque de 32,2026-01-26,2026-06-01,2026-07-27,2026-11-09,,,,,2.0,,1.0,40.0,,kg,1.5,Habanero orange,100
+2025,,Piment Tropical red S22,Sous abri,bed,Piment,young-plant,1.0,Plaque de 32,2025-01-27,2025-06-02,2025-07-28,2025-11-24,,,,,3.2,,1.0,40.0,,kg,1.5,Tropical red,100
+2026,,Piment Tropical red S22,Sous abri,bed,Piment,young-plant,1.0,Plaque de 32,2026-01-26,2026-06-01,2026-07-27,2026-11-09,,,,,2.0,,1.0,40.0,,kg,1.5,Tropical red,100
+2025,,Piment Végétarien S22,Sous abri,bed,Piment,young-plant,1.0,Plaque de 32,2025-01-27,2025-06-02,2025-07-28,2025-11-10,,,,,9.6,,1.0,40.0,,kg,1.5,Végétarien,100
+2026,,Piment Végétarien S22,Sous abri,bed,Piment,young-plant,1.0,Plaque de 32,2026-01-26,2026-06-01,2026-07-27,2026-11-09,,,,,6.0,,1.0,40.0,,kg,1.5,Végétarien,100
+2025,,Poireau plein champ Atlanta S26,Plein champ,bed,Poireau,young-plant,1.0,,2025-03-03,2025-06-30,2025-10-20,2026-03-09,,,,,481.4,,1.0,10.0,,kg,1.5,Atlanta,100
+2025,,Poireau plein champ Atlanta S26,Plein champ,bed,Poireau,young-plant,1.0,,2025-03-03,2025-06-30,2025-10-20,2026-03-09,,,,,2493.3,,1.0,10.0,,kg,1.5,Atlanta,100
+2025,,Poireau plein champ Atlanta S26,Plein champ,bed,Poireau,young-plant,1.0,,2025-03-03,2025-06-30,2025-10-20,2026-03-09,,,,,800.0,,1.0,10.0,,kg,1.5,Atlanta,100
+2025,,Poireau plein champ Atlanta S26,Plein champ,bed,Poireau,young-plant,1.0,,2025-03-03,2025-06-30,2025-10-20,2026-03-09,,,,,225.3,,1.0,10.0,,kg,1.5,Atlanta,100
+2026,,Poireau plein champ Atlanta S26,Plein champ,bed,Poireau,young-plant,1.0,,2026-03-02,2026-06-29,2026-10-19,2027-03-01,,,,,481.4,,1.0,10.0,,kg,1.5,Atlanta,100
+2026,,Poireau plein champ Atlanta S26,Plein champ,bed,Poireau,young-plant,1.0,,2026-03-02,2026-06-29,2026-10-19,2027-03-01,,,,,2493.3,,1.0,10.0,,kg,1.5,Atlanta,100
+2026,,Poireau plein champ Atlanta S26,Plein champ,bed,Poireau,young-plant,1.0,,2026-03-02,2026-06-29,2026-10-19,2027-03-01,,,,,800.0,,1.0,10.0,,kg,1.5,Atlanta,100
+2026,,Poireau plein champ Atlanta S26,Plein champ,bed,Poireau,young-plant,1.0,,2026-03-02,2026-06-29,2026-10-19,2027-03-01,,,,,225.3,,1.0,10.0,,kg,1.5,Atlanta,100
+2025,,Poivron de la ferme Corno di bue giallo S18,Sous abri,bed,Poivron,young-plant,1.0,Plaque de 50,2024-12-30,2025-05-05,2025-06-30,2025-11-24,,,,,12.0,,1.0,40.0,,kg,2.2,Corno di bue giallo,100
+2026,,Poivron de la ferme Corno di bue giallo S18,Sous abri,bed,Poivron,young-plant,1.0,Plaque de 50,2025-12-29,2026-05-04,2026-06-29,2026-10-12,,,,,30.0,,1.0,40.0,,kg,2.2,Corno di bue giallo,100
+2025,,Poivron de la ferme Corno di toro rosso S18,Sous abri,bed,Poivron,young-plant,1.0,Plaque de 32,2024-12-30,2025-05-05,2025-06-30,2025-11-24,,,,,12.0,,1.0,40.0,,kg,2.2,Corno di toro rosso,100
+2026,,Poivron de la ferme Corno di toro rosso S18,Sous abri,bed,Poivron,young-plant,1.0,Plaque de 32,2025-12-29,2026-05-04,2026-06-29,2026-10-12,,,,,15.0,,1.0,40.0,,kg,2.2,Corno di toro rosso,100
+2025,,Poivron de la ferme Kyra F1 S18,Sous abri,bed,Poivron,young-plant,1.0,Plaque de 32,2024-12-30,2025-05-05,2025-06-30,2025-11-24,,,,,12.0,,1.0,40.0,,kg,2.2,Kyra F1,100
+2026,,Poivron de la ferme Kyra F1 S18,Sous abri,bed,Poivron,young-plant,1.0,Plaque de 32,2025-12-29,2026-05-04,2026-06-29,2026-10-12,,,,,15.0,,1.0,40.0,,kg,2.2,Kyra F1,100
+2025,,Poivron de la ferme Pantos S18,Sous abri,bed,Poivron,young-plant,1.0,Plaque de 32,2024-12-30,2025-05-05,2025-06-30,2025-11-24,,,,,12.0,,1.0,40.0,,kg,2.2,Pantos,100
+2026,,Poivron de la ferme Pantos S18,Sous abri,bed,Poivron,young-plant,1.0,Plaque de 32,2025-12-29,2026-05-04,2026-06-29,2026-10-12,,,,,15.0,,1.0,40.0,,kg,2.2,Pantos,100
+2025,,Poivron plants Corno di bue giallo S18,Sous abri,bed,Poivron,young-plant-bought,,Plaque de 50,,2025-05-05,2025-06-30,2025-11-24,,,,,48.0,,1.0,40.0,,kg,2.2,Corno di bue giallo,100
+2026,,Poivron plants Corno di bue giallo S18,Sous abri,bed,Poivron,young-plant-bought,,Plaque de 50,,2026-05-04,2026-06-29,2026-11-23,,,,,60.0,,1.0,40.0,,kg,2.2,Corno di bue giallo,100
+2025,,Poivron plants Corno di toro rosso S18,Sous abri,bed,Poivron,young-plant-bought,,Plaque de 32,,2025-05-05,2025-06-30,2025-11-24,,,,,48.0,,1.0,40.0,,kg,2.2,Corno di toro rosso,100
+2026,,Poivron plants Corno di toro rosso S18,Sous abri,bed,Poivron,young-plant-bought,,Plaque de 32,,2026-05-04,2026-06-29,2026-11-23,,,,,60.0,,1.0,40.0,,kg,2.2,Corno di toro rosso,100
+2025,,Poivron plants Estilo F1 S18,Sous abri,bed,Poivron,young-plant-bought,,Plaque de 50,,2025-05-05,2025-06-30,2025-11-24,,,,,48.0,,1.0,40.0,,kg,2.2,Estilo F1,100
+2026,,Poivron plants Estilo F1 S18,Sous abri,bed,Poivron,young-plant-bought,,Plaque de 50,,2026-05-04,2026-06-29,2026-11-23,,,,,60.0,,1.0,40.0,,kg,2.2,Estilo F1,100
+2025,,Poivron plants Fiesta F1 S18,Sous abri,bed,Poivron,young-plant-bought,,Plaque de 50,,2025-05-05,2025-06-30,2025-11-24,,,,,12.0,,1.0,40.0,,kg,2.2,Fiesta F1,100
+2026,,Poivron plants Fiesta F1 S18,Sous abri,bed,Poivron,young-plant-bought,,Plaque de 50,,2026-05-04,2026-06-29,2026-11-23,,,,,15.0,,1.0,40.0,,kg,2.2,Fiesta F1,100
+2025,,Poivron plants Milena F1 S18,Sous abri,bed,Poivron,young-plant-bought,,Plaque de 32,,2025-05-05,2025-06-30,2025-11-24,,,,,12.0,,1.0,40.0,,kg,2.2,Milena F1,100
+2026,,Poivron plants Milena F1 S18,Sous abri,bed,Poivron,young-plant-bought,,Plaque de 32,,2026-05-04,2026-06-29,2026-11-23,,,,,15.0,,1.0,40.0,,kg,2.2,Milena F1,100
+2025,,Poivron plants Oranos F1 S18,Sous abri,bed,Poivron,young-plant-bought,,Plaque de 50,,2025-05-05,2025-06-30,2025-11-24,,,,,48.0,,1.0,40.0,,kg,2.2,Oranos F1,100
+2026,,Poivron plants Oranos F1 S18,Sous abri,bed,Poivron,young-plant-bought,,Plaque de 50,,2026-05-04,2026-06-29,2026-11-23,,,,,60.0,,1.0,40.0,,kg,2.2,Oranos F1,100
+2025,,Poivron plants Palladio F1 S18,Sous abri,bed,Poivron,young-plant-bought,,Plaque de 50,,2025-05-05,2025-06-30,2025-11-24,,,,,24.0,,1.0,40.0,,kg,2.2,Palladio F1,100
+2026,,Poivron plants Palladio F1 S18,Sous abri,bed,Poivron,young-plant-bought,,Plaque de 50,,2026-05-04,2026-06-29,2026-11-23,,,,,30.0,,1.0,40.0,,kg,2.2,Palladio F1,100
+2025,,Poivron plants Sprinter F1 S18,Sous abri,bed,Poivron,young-plant-bought,,Plaque de 50,,2025-05-05,2025-06-30,2025-11-24,,,,,12.0,,1.0,40.0,,kg,2.2,Sprinter F1,100
+2026,,Poivron plants Sprinter F1 S18,Sous abri,bed,Poivron,young-plant-bought,,Plaque de 50,,2026-05-04,2026-06-29,2026-11-23,,,,,15.0,,1.0,40.0,,kg,2.2,Sprinter F1,100
+2025,,Pomme de terre précoce sous abri S1,Sous abri,bed,Pomme de terre,young-plant-bought,,,,2025-01-06,2025-03-24,2025-04-07,,,,,60.0,,8.0,30.0,,kg,1.3,Alians,100
+2026,,Pomme de terre précoce sous abri S1,Sous abri,bed,Pomme de terre,young-plant-bought,,,,2026-01-05,2026-03-23,2026-04-06,,,,,60.0,,8.0,30.0,,kg,1.3,Alians,100
+2026,,Pomme de terre précoce sous abri S1,Sous abri,bed,Pomme de terre,young-plant-bought,,,,2026-01-05,2026-03-23,2026-04-06,,,,,60.0,,8.0,30.0,,kg,1.3,Alians,100
+2025,,Radis botte plein champ S24,Plein champ,bed,Radis botte,sowing,,,2025-06-16,,2025-07-07,2025-07-14,,,,,15.0,,24.0,3.0,,bunch,3.1,À forcer rond écarlate,100
+2026,,Radis botte plein champ S24,Plein champ,bed,Radis botte,sowing,,,2026-06-15,,2026-07-06,2026-07-13,,,,,15.0,,24.0,3.0,,bunch,3.1,À forcer rond écarlate,100
+2025,,Radis botte plein champ S26,Plein champ,bed,Radis botte,sowing,,,2025-06-30,,2025-07-21,2025-08-04,,,,,15.0,,24.0,3.0,,bunch,3.1,À forcer rond écarlate,100
+2026,,Radis botte plein champ S26,Plein champ,bed,Radis botte,sowing,,,2026-06-29,,2026-07-20,2026-08-03,,,,,15.0,,24.0,3.0,,bunch,3.1,À forcer rond écarlate,100
+2025,,Radis botte plein champ S28,Plein champ,bed,Radis botte,sowing,,,2025-07-14,,2025-08-04,2025-08-18,,,,,15.0,,24.0,3.0,,bunch,3.1,À forcer rond écarlate,100
+2026,,Radis botte plein champ S28,Plein champ,bed,Radis botte,sowing,,,2026-07-13,,2026-08-03,2026-08-17,,,,,15.0,,24.0,3.0,,bunch,3.1,À forcer rond écarlate,100
+2025,,Radis botte plein champ S30,Plein champ,bed,Radis botte,sowing,,,2025-07-28,,2025-08-18,2025-09-01,,,,,15.0,,24.0,3.0,,bunch,3.1,À forcer rond écarlate,100
+2026,,Radis botte plein champ S30,Plein champ,bed,Radis botte,sowing,,,2026-07-27,,2026-08-17,2026-08-31,,,,,15.0,,24.0,3.0,,bunch,3.1,À forcer rond écarlate,100
+2025,,Radis botte plein champ S32,Plein champ,bed,Radis botte,sowing,,,2025-08-11,,2025-09-01,2025-09-15,,,,,15.0,,24.0,3.0,,bunch,3.1,À forcer rond écarlate,100
+2026,,Radis botte plein champ S32,Plein champ,bed,Radis botte,sowing,,,2026-08-10,,2026-08-31,2026-09-14,,,,,15.0,,24.0,3.0,,bunch,3.1,À forcer rond écarlate,100
+2025,,Radis botte plein champ S34,Plein champ,bed,Radis botte,sowing,,,2025-08-25,,2025-09-15,2025-09-29,,,,,15.0,,24.0,3.0,,bunch,3.1,À forcer rond écarlate,100
+2026,,Radis botte plein champ S34,Plein champ,bed,Radis botte,sowing,,,2026-08-24,,2026-09-14,2026-09-28,,,,,15.0,,24.0,3.0,,bunch,3.1,À forcer rond écarlate,100
+2025,,Radis botte plein champ S36,Plein champ,bed,Radis botte,sowing,,,2025-09-08,,2025-09-29,2025-10-13,,,,,15.0,,24.0,3.0,,bunch,3.1,À forcer rond écarlate,100
+2026,,Radis botte plein champ S36,Plein champ,bed,Radis botte,sowing,,,2026-09-07,,2026-09-28,2026-10-12,,,,,15.0,,24.0,3.0,,bunch,3.1,À forcer rond écarlate,100
+2025,,Radis botte plein champ S38,Plein champ,bed,Radis botte,sowing,,,2025-09-22,,2025-10-13,2025-10-27,,,,,15.0,,24.0,3.0,,bunch,3.1,À forcer rond écarlate,100
+2026,,Radis botte plein champ S38,Plein champ,bed,Radis botte,sowing,,,2026-09-21,,2026-10-12,2026-10-26,,,,,15.0,,24.0,3.0,,bunch,3.1,À forcer rond écarlate,100
+2025,,Radis botte plein champ S40,Plein champ,bed,Radis botte,sowing,,,2025-10-06,,2025-10-27,2025-11-10,,,,,15.0,,24.0,3.0,,bunch,3.1,À forcer rond écarlate,100
+2026,,Radis botte plein champ S40,Plein champ,bed,Radis botte,sowing,,,2026-10-05,,2026-10-26,2026-11-09,,,,,15.0,,24.0,3.0,,bunch,3.1,À forcer rond écarlate,100
+2025,,Radis botte plein champ S42,Plein champ,bed,Radis botte,sowing,,,2025-10-20,,2025-11-10,2025-11-24,,,,,15.0,,24.0,3.0,,bunch,3.1,À forcer rond écarlate,100
+2026,,Radis botte plein champ S42,Plein champ,bed,Radis botte,sowing,,,2026-10-19,,2026-11-09,2026-11-23,,,,,15.0,,24.0,3.0,,bunch,3.1,À forcer rond écarlate,100
+2025,,Radis botte plein champ S44,Plein champ,bed,Radis botte,sowing,,,2025-11-03,,2025-11-24,2025-12-08,,,,,15.0,,24.0,3.0,,bunch,3.1,À forcer rond écarlate,100
+2026,,Radis botte plein champ S44,Plein champ,bed,Radis botte,sowing,,,2026-11-02,,2026-11-23,2026-12-07,,,,,15.0,,24.0,3.0,,bunch,3.1,À forcer rond écarlate,100
+2025,,Radis botte plein champ S46,Plein champ,bed,Radis botte,sowing,,,2025-11-17,,2025-12-08,2025-12-22,,,,,15.0,,24.0,3.0,,bunch,3.1,À forcer rond écarlate,100
+2026,,Radis botte plein champ S46,Plein champ,bed,Radis botte,sowing,,,2026-11-16,,2026-12-07,2026-12-21,,,,,15.0,,24.0,3.0,,bunch,3.1,À forcer rond écarlate,100
+2025,,Radis botte sous abri S1,Sous abri,bed,Radis botte,sowing,,,2025-01-06,,2025-02-03,2025-02-24,,,,,15.0,,24.0,3.0,,bunch,3.1,À forcer rond écarlate,100
+2026,,Radis botte sous abri S1,Sous abri,bed,Radis botte,sowing,,,2026-01-05,,2026-02-02,2026-02-23,,,,,15.0,,24.0,3.0,,bunch,3.1,À forcer rond écarlate,100
+2025,,Radis botte sous abri S13,Sous abri,bed,Radis botte,sowing,,,2025-03-31,,2025-04-28,2025-05-26,,,,,15.0,,24.0,3.0,,bunch,3.1,À forcer rond écarlate,100
+2026,,Radis botte sous abri S13,Sous abri,bed,Radis botte,sowing,,,2026-03-30,,2026-04-27,2026-05-25,,,,,15.0,,24.0,3.0,,bunch,3.1,À forcer rond écarlate,100
+2025,,Radis botte sous abri S17,Sous abri,bed,Radis botte,sowing,,,2025-04-28,,2025-05-26,2025-06-23,,,,,15.0,,24.0,3.0,,bunch,3.1,À forcer rond écarlate,100
+2026,,Radis botte sous abri S17,Sous abri,bed,Radis botte,sowing,,,2026-04-27,,2026-05-25,2026-06-22,,,,,15.0,,24.0,3.0,,bunch,3.1,À forcer rond écarlate,100
+2025,,Radis botte sous abri S21,Sous abri,bed,Radis botte,sowing,,,2025-05-26,,2025-06-23,2025-07-21,,,,,15.0,,24.0,3.0,,bunch,3.1,À forcer rond écarlate,100
+2026,,Radis botte sous abri S21,Sous abri,bed,Radis botte,sowing,,,2026-05-25,,2026-06-22,2026-07-20,,,,,15.0,,24.0,3.0,,bunch,3.1,À forcer rond écarlate,100
+2025,,Radis botte sous abri S48,Sous abri,bed,Radis botte,sowing,,,2025-12-01,,2025-12-29,2026-01-26,,,,,15.0,,24.0,3.0,,bunch,3.1,À forcer rond écarlate,100
+2026,,Radis botte sous abri S48,Sous abri,bed,Radis botte,sowing,,,2026-11-30,,2026-12-28,2027-01-18,,,,,15.0,,24.0,3.0,,bunch,3.1,À forcer rond écarlate,100
+2025,,Radis botte sous abri S5,Sous abri,bed,Radis botte,sowing,,,2025-02-03,,2025-03-03,2025-03-31,,,,,15.0,,24.0,3.0,,bunch,3.1,À forcer rond écarlate,100
+2026,,Radis botte sous abri S5,Sous abri,bed,Radis botte,sowing,,,2026-02-02,,2026-03-02,2026-03-30,,,,,15.0,,24.0,3.0,,bunch,3.1,À forcer rond écarlate,100
+2025,,Radis botte sous abri S9,Sous abri,bed,Radis botte,sowing,,,2025-03-03,,2025-03-31,2025-04-28,,,,,15.0,,24.0,3.0,,bunch,3.1,À forcer rond écarlate,100
+2026,,Radis botte sous abri S9,Sous abri,bed,Radis botte,sowing,,,2026-03-02,,2026-03-30,2026-04-27,,,,,15.0,,24.0,3.0,,bunch,3.1,À forcer rond écarlate,100
+2025,,Radis rave Daïkon S32,Plein champ,bed,Radis rave,sowing,,,2025-08-11,,2025-10-06,2025-12-22,,,,,40.0,,1.0,3.0,,kg,1.7,Daïkon,100
+2026,,Radis rave Daïkon S32,Plein champ,bed,Radis rave,sowing,,,2026-08-10,,2026-10-05,2026-12-21,,,,,40.0,,1.0,3.0,,kg,1.7,Daïkon,100
+2025,,Radis rave Deliblue F1 S32,Plein champ,bed,Radis rave,sowing,,,2025-08-11,,2025-10-06,2025-12-22,,,,,100.0,,1.0,3.0,,kg,1.7,Deliblue F1,100
+2026,,Radis rave Deliblue F1 S32,Plein champ,bed,Radis rave,sowing,,,2026-08-10,,2026-10-05,2026-12-21,,,,,100.0,,1.0,3.0,,kg,1.7,Deliblue F1,100
+2025,,Radis rave Delipink F1 S32,Plein champ,bed,Radis rave,sowing,,,2025-08-11,,2025-10-06,2025-12-22,,,,,100.0,,1.0,3.0,,kg,1.7,Delipink F1,100
+2026,,Radis rave Delipink F1 S32,Plein champ,bed,Radis rave,sowing,,,2026-08-10,,2026-10-05,2026-12-21,,,,,100.0,,1.0,3.0,,kg,1.7,Delipink F1,100
+2025,,Radis rave Mizato red S32,Plein champ,bed,Radis rave,sowing,,,2025-08-11,,2025-10-06,2025-12-22,,,,,100.0,,1.0,3.0,,kg,1.7,Mizato red,100
+2026,,Radis rave Mizato red S32,Plein champ,bed,Radis rave,sowing,,,2026-08-10,,2026-10-05,2026-12-21,,,,,100.0,,1.0,3.0,,kg,1.7,Mizato red,100
+2025,,Radis rave Noir gros rond d'hiver S32,Plein champ,bed,Radis rave,sowing,,,2025-08-11,,2025-10-06,2025-12-22,,,,,300.0,,1.0,3.0,,kg,1.7,Noir gros rond d'hiver,100
+2026,,Radis rave Noir gros rond d'hiver S32,Plein champ,bed,Radis rave,sowing,,,2026-08-10,,2026-10-05,2026-12-21,,,,,300.0,,1.0,3.0,,kg,1.7,Noir gros rond d'hiver,100
+2025,,Radis rave Noir long poids d'horloge S32,Plein champ,bed,Radis rave,sowing,,,2025-08-11,,2025-10-06,2025-12-22,,,,,300.0,,1.0,3.0,,kg,1.7,Noir long poids d'horloge,100
+2026,,Radis rave Noir long poids d'horloge S32,Plein champ,bed,Radis rave,sowing,,,2026-08-10,,2026-10-05,2026-12-21,,,,,300.0,,1.0,3.0,,kg,1.7,Noir long poids d'horloge,100
+2025,,Radis rave Red meat S32,Plein champ,bed,Radis rave,sowing,,,2025-08-11,,2025-10-06,2025-12-22,,,,,300.0,,1.0,3.0,,kg,1.7,Red meat,100
+2026,,Radis rave Red meat S32,Plein champ,bed,Radis rave,sowing,,,2026-08-10,,2026-10-05,2026-12-21,,,,,300.0,,1.0,3.0,,kg,1.7,Red meat,100
+2025,,Radis rave Violet de Gournay S32,Plein champ,bed,Radis rave,sowing,,,2025-08-11,,2025-10-06,2025-12-22,,,,,100.0,,1.0,3.0,,kg,1.7,Violet de Gournay,100
+2026,,Radis rave Violet de Gournay S32,Plein champ,bed,Radis rave,sowing,,,2026-08-10,,2026-10-05,2026-12-21,,,,,100.0,,1.0,3.0,,kg,1.7,Violet de Gournay,100
+2025,,Roquette cultivée S36,Sous abri,bed,Roquette cultivée,young-plant,15.0,Plaque de 100,2025-08-11,2025-09-08,2025-10-27,2026-03-09,,,,,15.4,,16.0,25.0,,bunch,15.0,Roquette cultivée,100
+2026,,Roquette cultivée S36,Sous abri,bed,Roquette cultivée,young-plant,15.0,Plaque de 100,2026-08-10,2026-09-07,2026-10-26,2027-03-01,,,,,15.4,,16.0,25.0,,bunch,15.0,Roquette cultivée,100
+2025,,Roquette cultivée S9,Sous abri,bed,Roquette cultivée,young-plant,15.0,Plaque de 100,2025-02-03,2025-03-03,2025-04-21,2025-09-01,,,,,4.6,,16.0,25.0,,bunch,15.0,Roquette cultivée,100
+2026,,Roquette cultivée S9,Sous abri,bed,Roquette cultivée,young-plant,15.0,Plaque de 100,2026-02-02,2026-03-02,2026-04-20,2026-08-31,,,,,4.6,,16.0,25.0,,bunch,15.0,Roquette cultivée,100
+2025,,Roquette sauvage S36,Sous abri,bed,Roquette sauvage,young-plant,15.0,Plaque de 100,2025-08-11,2025-09-08,2025-10-27,2026-03-09,,,,,6.0,,16.0,25.0,,bunch,8.0,Roquette sauvage,100
+2026,,Roquette sauvage S36,Sous abri,bed,Roquette sauvage,young-plant,15.0,Plaque de 100,2026-08-10,2026-09-07,2026-10-26,2027-03-01,,,,,6.0,,16.0,25.0,,bunch,8.0,Roquette sauvage,100
+2025,,Roquette sauvage S9,Sous abri,bed,Roquette sauvage,young-plant,15.0,Plaque de 100,2025-02-03,2025-03-03,2025-04-21,2025-09-01,,,,,19.0,,16.0,25.0,,bunch,8.0,Roquette sauvage,100
+2026,,Roquette sauvage S9,Sous abri,bed,Roquette sauvage,young-plant,15.0,Plaque de 100,2026-02-02,2026-03-02,2026-04-20,2026-08-31,,,,,19.0,,16.0,25.0,,bunch,8.0,Roquette sauvage,100
+2025,,Rutabaga À collet jaune S32,Plein champ,bed,Rutabaga,sowing,,,2025-08-11,,2025-10-06,2026-01-05,,,,,29.6,,1.0,3.0,,kg,0.7,À collet jaune,100
+2026,,Rutabaga À collet jaune S32,Plein champ,bed,Rutabaga,sowing,,,2026-08-10,,2026-10-05,2027-01-04,,,,,30.0,,1.0,3.0,,kg,0.7,À collet jaune,100
+2025,,Rutabaga Friese gèle S32,Plein champ,bed,Rutabaga,sowing,,,2025-08-11,,2025-10-06,2026-01-05,,,,,29.6,,1.0,3.0,,kg,0.7,Friese gèle,100
+2026,,Rutabaga Friese gèle S32,Plein champ,bed,Rutabaga,sowing,,,2026-08-10,,2026-10-05,2027-01-04,,,,,30.0,,1.0,3.0,,kg,0.7,Friese gèle,100
+2025,,Rutabaga Helenor S32,Plein champ,bed,Rutabaga,sowing,,,2025-08-11,,2025-10-06,2026-01-05,,,,,29.6,,1.0,3.0,,kg,0.7,Helenor,100
+2026,,Rutabaga Helenor S32,Plein champ,bed,Rutabaga,sowing,,,2026-08-10,,2026-10-05,2027-01-04,,,,,30.0,,1.0,3.0,,kg,0.7,Helenor,100
+2025,,Sauge officinale S6,Plein champ,bed,Sauge,young-plant,1.0,Plaque de 100,2025-01-13,2025-02-10,2025-07-07,2025-10-06,,,,,50.0,1.0,,,,bunch,5.0,Sauge officinale,100
+2026,,Sauge officinale S6,Plein champ,bed,Sauge,young-plant,1.0,Plaque de 100,2026-01-12,2026-02-09,2026-07-06,2026-10-05,,,,,50.0,1.0,,,,bunch,5.0,Sauge officinale,100
+2025,,Shiso S17,Sous abri,bed,Shiso,young-plant,5.0,Plaque de 100,2025-03-24,2025-04-28,2025-06-23,2025-09-15,,,,,4.9,,1.0,30.0,,bunch,6.7,Vert,100
+2026,,Shiso S17,Sous abri,bed,Shiso,young-plant,5.0,Plaque de 100,2026-03-23,2026-04-27,2026-06-22,2026-09-14,,,,,12.0,,1.0,30.0,,bunch,6.7,Vert,100
+2025,,Souci officinal S18,Plein champ,bed,Souci officinal,young-plant,1.0,Plaque de 100,2025-04-07,2025-05-05,2025-06-02,2025-10-13,,,,,10.0,,1.0,50.0,,bunch,10.0,Souci officinal,100
+2026,,Souci officinal S18,Plein champ,bed,Souci officinal,young-plant,1.0,Plaque de 100,2026-04-06,2026-05-04,2026-06-01,2026-10-12,,,,,10.0,,1.0,50.0,,bunch,10.0,Souci officinal,100
+2025,,Tagète citron S18,Plein champ,bed,Tagète citron,young-plant,1.0,Plaque de 100,2025-04-07,2025-05-05,2025-06-02,2025-10-13,,,,,10.0,,1.0,50.0,,bunch,10.0,Tagète citron,100
+2026,,Tagète citron S18,Plein champ,bed,Tagète citron,young-plant,1.0,Plaque de 100,2026-04-06,2026-05-04,2026-06-01,2026-10-12,,,,,10.0,,1.0,50.0,,bunch,10.0,Tagète citron,100
+2025,,Tatsoï S37,Sous abri,bed,Tatsoï,young-plant,1.0,Plaque de 100,2025-08-18,2025-09-15,2025-10-13,2025-12-29,,,,,10.0,,16.0,25.0,,bunch,1.0,Tatsoï,100
+2026,,Tatsoï S37,Sous abri,bed,Tatsoï,young-plant,1.0,Plaque de 100,2026-08-17,2026-09-14,2026-10-12,2026-12-28,,,,,10.0,,16.0,25.0,,bunch,1.0,Tatsoï,100
+2025,,Tomate ancienne sous abri Allemande dorée S11,Sous abri,bed,Tomate,young-plant,1.0,Plaque de 32,2025-01-13,2025-03-17,2025-06-23,2025-09-22,,,,,5.8,,1.0,40.0,,kg,4.1,Allemande dorée,100
+2026,,Tomate ancienne sous abri Allemande dorée S11,Sous abri,bed,Tomate,young-plant,1.0,Plaque de 32,2026-01-12,2026-03-16,2026-06-22,2026-09-21,,,,,5.8,,1.0,40.0,,kg,4.1,Allemande dorée,100
+2025,,Tomate ancienne sous abri Ananas S11,Sous abri,bed,Tomate,young-plant,1.0,Plaque de 32,2025-01-13,2025-03-17,2025-06-23,2025-09-15,,,,,38.0,,1.0,40.0,,kg,4.1,Ananas,100
+2026,,Tomate ancienne sous abri Ananas S11,Sous abri,bed,Tomate,young-plant,1.0,Plaque de 32,2026-01-12,2026-03-16,2026-06-22,2026-09-14,,,,,38.0,,1.0,40.0,,kg,4.1,Ananas,100
+2025,,Tomate ancienne sous abri Andine S11,Sous abri,bed,Tomate,young-plant,1.0,Plaque de 32,2025-01-13,2025-03-17,2025-06-23,2025-09-22,,,,,138.0,,1.0,40.0,,kg,4.1,Andine,100
+2026,,Tomate ancienne sous abri Andine S11,Sous abri,bed,Tomate,young-plant,1.0,Plaque de 32,2026-01-12,2026-03-16,2026-06-22,2026-09-21,,,,,138.0,,1.0,40.0,,kg,4.1,Andine,100
+2025,,Tomate ancienne sous abri Black cherry S11,Sous abri,bed,Tomate,young-plant,1.0,Plaque de 32,2025-01-13,2025-03-17,2025-06-23,2025-09-22,,,,,11.5,,1.0,40.0,,kg,4.1,Black cherry,100
+2026,,Tomate ancienne sous abri Black cherry S11,Sous abri,bed,Tomate,young-plant,1.0,Plaque de 32,2026-01-12,2026-03-16,2026-06-22,2026-09-21,,,,,11.5,,1.0,40.0,,kg,4.1,Black cherry,100
+2025,,Tomate ancienne sous abri Bosque blue S11,Sous abri,bed,Tomate,young-plant,1.0,Plaque de 32,2025-01-13,2025-03-17,2025-06-23,2025-09-22,,,,,4.6,,1.0,40.0,,kg,4.1,Bosque blue,100
+2026,,Tomate ancienne sous abri Bosque blue S11,Sous abri,bed,Tomate,young-plant,1.0,Plaque de 32,2026-01-12,2026-03-16,2026-06-22,2026-09-21,,,,,4.6,,1.0,40.0,,kg,4.1,Bosque blue,100
+2025,,Tomate ancienne sous abri Brandywine rose S11,Sous abri,bed,Tomate,young-plant,1.0,Plaque de 32,2025-01-13,2025-03-17,2025-06-23,2025-09-22,,,,,9.2,,1.0,40.0,,kg,4.1,Brandywine rose,100
+2026,,Tomate ancienne sous abri Brandywine rose S11,Sous abri,bed,Tomate,young-plant,1.0,Plaque de 32,2026-01-12,2026-03-16,2026-06-22,2026-09-21,,,,,9.2,,1.0,40.0,,kg,4.1,Brandywine rose,100
+2025,,Tomate ancienne sous abri Coeur de boeuf rose S11,Sous abri,bed,Tomate,young-plant,1.0,Plaque de 32,2025-01-13,2025-03-17,2025-06-23,2025-09-22,,,,,36.8,,1.0,40.0,,kg,4.1,Coeur de boeuf rose,100
+2026,,Tomate ancienne sous abri Coeur de boeuf rose S11,Sous abri,bed,Tomate,young-plant,1.0,Plaque de 32,2026-01-12,2026-03-16,2026-06-22,2026-09-21,,,,,36.8,,1.0,40.0,,kg,4.1,Coeur de boeuf rose,100
+2025,,Tomate ancienne sous abri Coeur de boeuf rouge S11,Sous abri,bed,Tomate,young-plant,1.0,Plaque de 32,2025-01-13,2025-03-17,2025-06-23,2025-09-22,,,,,36.8,,1.0,40.0,,kg,4.1,Coeur de boeuf rouge,100
+2026,,Tomate ancienne sous abri Coeur de boeuf rouge S11,Sous abri,bed,Tomate,young-plant,1.0,Plaque de 32,2026-01-12,2026-03-16,2026-06-22,2026-09-21,,,,,36.8,,1.0,40.0,,kg,4.1,Coeur de boeuf rouge,100
+2025,,Tomate ancienne sous abri Green Zebra S11,Sous abri,bed,Tomate,young-plant,1.0,Plaque de 32,2025-01-13,2025-03-17,2025-06-23,2025-09-22,,,,,11.5,,1.0,40.0,,kg,4.1,Green Zebra,100
+2026,,Tomate ancienne sous abri Green Zebra S11,Sous abri,bed,Tomate,young-plant,1.0,Plaque de 32,2026-01-12,2026-03-16,2026-06-22,2026-09-21,,,,,11.5,,1.0,40.0,,kg,4.1,Green Zebra,100
+2025,,Tomate ancienne sous abri Noire de Crimée S11,Sous abri,bed,Tomate,young-plant,1.0,Plaque de 32,2025-01-13,2025-03-17,2025-06-23,2025-09-22,,,,,27.6,,1.0,40.0,,kg,4.1,Noire de Crimée,100
+2026,,Tomate ancienne sous abri Noire de Crimée S11,Sous abri,bed,Tomate,young-plant,1.0,Plaque de 32,2026-01-12,2026-03-16,2026-06-22,2026-09-21,,,,,27.6,,1.0,40.0,,kg,4.1,Noire de Crimée,100
+2025,,Tomate ancienne sous abri Rose de Berne S11,Sous abri,bed,Tomate,young-plant,1.0,Plaque de 32,2025-01-13,2025-03-17,2025-06-23,2025-09-22,,,,,23.0,,1.0,40.0,,kg,4.1,Rose de Berne,100
+2026,,Tomate ancienne sous abri Rose de Berne S11,Sous abri,bed,Tomate,young-plant,1.0,Plaque de 32,2026-01-12,2026-03-16,2026-06-22,2026-09-21,,,,,23.0,,1.0,40.0,,kg,4.1,Rose de Berne,100
+2025,,Tomate ancienne sous abri Sweet 100 S11,Sous abri,bed,Tomate,young-plant,1.0,Plaque de 32,2025-01-13,2025-03-17,2025-06-23,2025-09-22,,,,,32.2,,1.0,40.0,,kg,4.1,Sweet 100,100
+2026,,Tomate ancienne sous abri Sweet 100 S11,Sous abri,bed,Tomate,young-plant,1.0,Plaque de 32,2026-01-12,2026-03-16,2026-06-22,2026-09-21,,,,,32.2,,1.0,40.0,,kg,4.1,Sweet 100,100
+2025,,Tomate ancienne sous abri Toronjina S11,Sous abri,bed,Tomate,young-plant,1.0,Plaque de 32,2025-01-13,2025-03-17,2025-06-23,2025-09-22,,,,,25.3,,1.0,40.0,,kg,4.1,Toronjina,100
+2026,,Tomate ancienne sous abri Toronjina S11,Sous abri,bed,Tomate,young-plant,1.0,Plaque de 32,2026-01-12,2026-03-16,2026-06-22,2026-09-21,,,,,25.3,,1.0,40.0,,kg,4.1,Toronjina,100
+2025,,Tomate ronde sous abri Paola F1 bouturée S16,Sous abri,bed,Tomate,young-plant-bought,,Plaque de 32,,2025-04-21,2025-07-28,2025-10-20,,,,,46.0,,1.0,40.0,,kg,8.0,Paola F1 bouturée,100
+2026,,Tomate ronde sous abri Paola F1 bouturée S16,Sous abri,bed,Tomate,young-plant-bought,,Plaque de 32,,2026-04-20,2026-07-27,2026-10-19,,,,,46.0,,1.0,40.0,,kg,8.0,Paola F1 bouturée,100
+2025,,Tomate ronde sous abri Paola F1 S11,Sous abri,bed,Tomate,young-plant-bought,,Plaque de 50,,2025-03-17,2025-06-23,2025-09-22,,,,,148.0,,1.0,40.0,,kg,8.0,Paola F1,100
+2025,,Tomate ronde sous abri Paola F1 S11,Sous abri,bed,Tomate,young-plant-bought,,Plaque de 50,,2025-03-17,2025-06-23,2025-09-22,,,,,151.0,,1.0,40.0,,kg,8.0,Paola F1,100
+2026,,Tomate ronde sous abri Paola F1 S11,Sous abri,bed,Tomate,young-plant-bought,,Plaque de 50,,2026-03-16,2026-06-22,2026-09-21,,,,,148.0,,1.0,40.0,,kg,8.0,Paola F1,100
+2026,,Tomate ronde sous abri Paola F1 S11,Sous abri,bed,Tomate,young-plant-bought,,Plaque de 50,,2026-03-16,2026-06-22,2026-09-21,,,,,151.0,,1.0,40.0,,kg,8.0,Paola F1,100
+2024,,Topinambour 22,Plein champ,block,Topinambour,sowing,,,2022-01-31,,2024-12-02,2025-03-10,669.9,,75.0,30.0,,,,,,kg,0.5,De la ferme,100
+2025,,Topinambour 22,Plein champ,block,Topinambour,sowing,,,2022-01-31,,2025-12-08,2026-03-09,669.9,,75.0,30.0,,,,,,kg,0.5,De la ferme,100
+2026,,Tournesol S10,Plein champ,bed,Tournesol,young-plant,3.0,,2026-02-09,2026-03-09,2026-05-04,2026-07-20,,,,,3.0,,1.0,50.0,,bunch,1.0,Tournesol,100

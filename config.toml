@@ -1,7 +1,7 @@
 [chemins_elzeard]
 series = "../../elzeard/series.xlsx"
 itks = "../../elzeard/itks.xlsx"
-export-variétés = "../../elzeard/export-variétés.xlsx"
+"export-variétés" = "../../elzeard/export-variétés.xlsx"
 
 [chemins_correspondances]
 especes = "correspondances/correspondance_especes.csv"
@@ -12,4 +12,4 @@ plateaux = "correspondances/correspondance_plateaux.csv"
 type_implantation = "correspondances/correspondance_type_implantation.csv"
 
 [chemins_otf]
-plan_de_culture = "otf/plan_de_culture_otf.csv"
+plan_de_culture = "otf/plan_de_culture.csv"

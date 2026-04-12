@@ -1,9 +1,8 @@
 # Sorties
 sortie/
 
-# Emacs
-.dir-locals.el
 *~
+.~lock.*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
