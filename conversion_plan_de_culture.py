@@ -113,9 +113,9 @@ def main():
         "Année de production")
 
     # Mode
-    s_mode = colonne_itks(
-        "Mode de culture", s_production, df_itks, df_itks_vivaces)
-    df_dst['mode'] = s_mode
+    df_dst['mode'] = colonne_itks(
+        "Mode de culture", s_production, df_itks, df_itks_vivaces).map(
+            s_correspondance_mode)
 
     # Espèces
     colonne = "Culture"
