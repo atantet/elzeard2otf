@@ -1,5 +1,8 @@
 # Sorties
-sortie/
+otf/
+series.csv
+products.csv
+ajout_petites_bottes_produits.py
 
 *~
 .~lock.*

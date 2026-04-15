@@ -1,0 +1,6 @@
+elzeard,otf,multiplicateur,dans_nom_produit
+kg/m²,kg,1,"au kilo"
+t/ha,kg,0.1,"au kilo"
+botte/m²,bunch,1,"en botte"
+botte/plant,bunch,1,"en botte"
+pièce/m²,unit,1,"à l'unité"

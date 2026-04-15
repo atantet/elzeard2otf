@@ -1,15 +1,33 @@
 [chemins_elzeard]
+# Pour conversion_plan_de_culture.py
 series = "../../elzeard/series.xlsx"
+# Pour conversion_produits.py
+productions = "../../elzeard/productions.xlsx"
+# Pour conversion_plan_de_culture.py et conversion_produits.py
 itks = "../../elzeard/itks.xlsx"
 "export-variétés" = "../../elzeard/export-variétés.xlsx"
 
 [chemins_correspondances]
-especes = "correspondances/correspondance_especes.csv"
-plan_de_culture = "correspondances/correspondance_plan_de_culture.csv"
-mode = "correspondances/correspondance_mode.csv"
-unite_rendement = "correspondances/correspondance_unite_rendement.csv"
-plateaux = "correspondances/correspondance_plateaux.csv"
-type_implantation = "correspondances/correspondance_type_implantation.csv"
+especes = "correspondances/especes.csv"
+plan_de_culture = "correspondances/plan_de_culture.csv"
+mode = "correspondances/mode.csv"
+unite_rendement = "correspondances/unite_rendement.csv"
+plateaux = "correspondances/plateaux.csv"
+type_implantation = "correspondances/type_implantation.csv"
 
 [chemins_otf]
-plan_de_culture = "otf/plan_de_culture.csv"
+# Pour conversion_plan_de_culture.py
+plan_de_culture = "otf/series.csv"
+# Pour conversion_produits.py
+produits = "otf/products.csv"
+
+[url_exemples]
+plan_de_culture = "https://www.ouvretaferme.org/asset/production/series/series.csv"
+produits = "https://www.ouvretaferme.org/asset/commercialisation/selling/products.csv"
+
+# Constantes à utiliser par défaut pour conversion_produits.py
+[produits]
+taux_de_tva_par_defaut = 5.5
+origine_par_defaut = "La Petite Claye des Champs (35)"
+qualite_par_defaut = "organic"
+distribution_par_defaut = "production"
