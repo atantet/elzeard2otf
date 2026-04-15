@@ -1,11 +1,11 @@
 [chemins_elzeard]
 # Pour conversion_plan_de_culture.py
 series = "../../elzeard/series.xlsx"
+"export-variétés" = "../../elzeard/export-variétés.xlsx"
 # Pour conversion_produits.py
 productions = "../../elzeard/productions.xlsx"
 # Pour conversion_plan_de_culture.py et conversion_produits.py
 itks = "../../elzeard/itks.xlsx"
-"export-variétés" = "../../elzeard/export-variétés.xlsx"
 
 [chemins_correspondances]
 especes = "correspondances/especes.csv"
