@@ -55,11 +55,10 @@ def main():
     # Unité
     s_unite = tr.colonne_itks(
         "Unité de rendement", s_prod, df_itks, df_itks_vivaces)
-    df_dst["unit"] = tr.conversion_unite_rendement(
+    df_dst["unit"] = tr.conversion_unite_vente(
         s_unite, df_correspondance_unite_rendement)
 
-
-    # # Nom du produit
+    # Nom du produit
     df_dst["name"] = tr.deduire_nom_produit(
         df_dst["species"], s_unite, df_correspondance_unite_rendement)
 

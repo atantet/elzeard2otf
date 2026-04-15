@@ -46,6 +46,8 @@ def conversion_date_implantation(df_series, df_dst):
 def conversion_unite_rendement(s_unite, m):
     return s_unite.map(m["otf"])
 
+def conversion_unite_vente(s_unite, m):
+    return s_unite.map(m["vente"])
 
 def conversion_rendement(s_unite, s_rendement, m):
     return s_rendement * s_unite.map(m["multiplicateur"])
