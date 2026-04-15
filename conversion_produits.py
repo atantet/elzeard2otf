@@ -69,7 +69,8 @@ def main():
     df_dst["price_private"] = df_productions["Prix unitaire moyen"]
     
     # Prix pour les professionnels
-    df_dst["price_pro"] = df_productions["Prix unitaire moyen"]
+    df_dst["price_pro"] = df_productions["Prix unitaire moyen"] / (
+        1 + config["produits"]["taux_de_tva_par_defaut"] / 100)
 
     # Taux de TVA
     df_dst["vat_rate"] = config["produits"]["taux_de_tva_par_defaut"]
